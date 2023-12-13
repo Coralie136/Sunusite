@@ -1,0 +1,568 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-17 12:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:48
+msgid "Search"
+msgstr ""
+
+#: header.php:81
+msgid "Menu"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width, No Sidebar"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: single.php:18 single.php:41
+msgid "<span class=\"meta-nav\">Next Post</span> %title"
+msgstr ""
+
+#: single.php:18 single.php:41
+msgid "<span class=\"meta-nav\">Previous Post</span> %title"
+msgstr ""
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#. %1$s: smilie
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: functions.php:73
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:74
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:113
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:123
+msgid "Front Page Widgetized Block"
+msgstr ""
+
+#: functions.php:133
+msgid "Footer Widgets 1"
+msgstr ""
+
+#: functions.php:143
+msgid "Footer Widgets 2"
+msgstr ""
+
+#: functions.php:153
+msgid "Footer Widgets 3"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Roboto, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:175
+msgctxt "Josefin Sans: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Pacifico, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:181
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:268
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: functions.php:315
+msgid "Edit"
+msgstr ""
+
+#: functions.php:320
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: author-bio.php:11
+msgid "Published by"
+msgstr ""
+
+#: author-bio.php:35
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: footer.php:56
+#, php-format
+msgid "Theme: %1$s."
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:26 inc/template-tags.php:95 
+#: template-parts/content-page.php:21 template-parts/content-page.php:37
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+#: inc/template-tags.php:49
+#, php-format
+msgid "Posted on %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "by %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:83 inc/template-tags.php:89
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:85
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:91
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/customizer.php:19 admin/admin.php:136
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Hide Search Box"
+msgstr ""
+
+#: inc/customizer.php:39 inc/customizer.php:47
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid ""
+"Upload a logo to replace the default site name and description in the header"
+msgstr ""
+
+#: inc/customizer.php:56 inc/customizer.php:67
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:100 admin/admin.php:152
+msgid "Veggie Pro"
+msgstr ""
+
+#: inc/customizer.php:103 admin/admin.php:155
+msgid ""
+"Full version of this theme includes additional features; additional page "
+"templates, custom widgets, additional front page widgetized areas, different "
+"blog options, different theme options, WooCommerce support, color options & "
+"premium theme support."
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Additional Features:"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Additional Page Templates"
+msgstr ""
+
+#: inc/customizer.php:113 admin/admin.php:210
+msgid "Custom Widgets"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Several additional widget areas"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "Different Blog Options & Layouts"
+msgstr ""
+
+#: inc/customizer.php:122 admin/admin.php:220
+msgid "Different Theme Options"
+msgstr ""
+
+#: inc/customizer.php:125 admin/admin.php:235
+msgid "WooCommerce Support"
+msgstr ""
+
+#: inc/customizer.php:128 admin/admin.php:245
+msgid "Color Options"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Premium Theme Support"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Read more about Veggie"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Pro Features"
+msgstr ""
+
+#: admin/admin.php:26
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: admin/admin.php:29
+msgid "You do not have the necessary permission to perform this action."
+msgstr ""
+
+#: admin/admin.php:46
+msgid "Dismiss this notice."
+msgstr ""
+
+#: admin/admin.php:49
+#, php-format
+msgid ""
+"Thanks for choosing Veggie Lite! To get started please make sure you visit "
+"our %2$swelcome page%3$s."
+msgstr ""
+
+#: admin/admin.php:50
+msgid ""
+"Veggie Lite is proudly brought to you by Anariel Design. If you like the "
+"theme do us a favor and give it a 5-star rating on WordPress to help us "
+"spread the word."
+msgstr ""
+
+#: admin/admin.php:51 admin/admin.php:57
+msgid "Rate This Theme"
+msgstr ""
+
+#: admin/admin.php:54
+msgid "Get Started with Veggie Lite"
+msgstr ""
+
+#: admin/admin.php:68 admin/admin.php:78
+msgid "Welcome to Veggie Lite"
+msgstr ""
+
+#: admin/admin.php:68
+msgid "Theme Info"
+msgstr ""
+
+#: admin/admin.php:82 admin/admin.php:279
+msgid "Theme Screenshot"
+msgstr ""
+
+#: admin/admin.php:86
+msgid ""
+"Veggie Lite is a modern responsive theme whose sole focus is to present your "
+"content in the best possible way on any screen size. Beautiful typography "
+"combined with clean layout draws and keeps readers attention to the most "
+"important, your content. Veggie is a perfect match for fashion, lifestyle "
+"and magazine style sites."
+msgstr ""
+
+#: admin/admin.php:94
+msgid "Important Links:"
+msgstr ""
+
+#: admin/admin.php:96
+msgid "Theme Info Page"
+msgstr ""
+
+#: admin/admin.php:99
+msgid "Free Support Forum"
+msgstr ""
+
+#: admin/admin.php:102
+msgid "Membership Support Center"
+msgstr ""
+
+#: admin/admin.php:105
+msgid "Anariel Design Themes Showcase"
+msgstr ""
+
+#: admin/admin.php:112
+#, php-format
+msgid "Get Started with %s"
+msgstr ""
+
+#: admin/admin.php:119 admin/admin.php:126
+msgid "Theme Documentation"
+msgstr ""
+
+#: admin/admin.php:122
+msgid ""
+"Please check the documentation to get better overview of how the theme is "
+"structured."
+msgstr ""
+
+#: admin/admin.php:129
+msgid "Support Forum"
+msgstr ""
+
+#: admin/admin.php:139
+msgid "Click \"Customize\" to open the Customizer."
+msgstr ""
+
+#: admin/admin.php:143
+msgid "Customize Theme"
+msgstr ""
+
+#: admin/admin.php:159 admin/admin.php:264
+msgid "Upgrade to Veggie Pro"
+msgstr ""
+
+#: admin/admin.php:169
+msgid "Upgrade to Veggie for more awesome features:"
+msgstr ""
+
+#: admin/admin.php:174
+msgid "Features"
+msgstr ""
+
+#. Name of the theme
+#: admin/admin.php:175
+msgid "Veggie Lite"
+msgstr ""
+
+#: admin/admin.php:176
+msgid "Veggie"
+msgstr ""
+
+#: admin/admin.php:181
+msgid "Theme Price"
+msgstr ""
+
+#: admin/admin.php:182
+msgid "Free"
+msgstr ""
+
+#: admin/admin.php:185
+msgid "View Pricing"
+msgstr ""
+
+#: admin/admin.php:190
+msgid "Responsive Layout"
+msgstr ""
+
+#: admin/admin.php:195
+msgid "Page Templates"
+msgstr ""
+
+#: admin/admin.php:196
+msgid "3"
+msgstr ""
+
+#: admin/admin.php:197
+msgid "5"
+msgstr ""
+
+#: admin/admin.php:200
+msgid "Front Page Widgetized Areas"
+msgstr ""
+
+#: admin/admin.php:201 admin/admin.php:206
+msgid "1"
+msgstr ""
+
+#: admin/admin.php:202
+msgid "4"
+msgstr ""
+
+#: admin/admin.php:205
+msgid "Custom Menus"
+msgstr ""
+
+#: admin/admin.php:207
+msgid "2"
+msgstr ""
+
+#: admin/admin.php:215
+msgid "Different Blog Layouts"
+msgstr ""
+
+#: admin/admin.php:225
+msgid "Different Blog Options"
+msgstr ""
+
+#: admin/admin.php:230
+msgid "Premium Slider"
+msgstr ""
+
+#: admin/admin.php:240
+msgid "Custom Plugins"
+msgstr ""
+
+#: admin/admin.php:250
+msgid "Extended Features"
+msgstr ""
+
+#: admin/admin.php:255
+msgid "Support"
+msgstr ""
+
+#: admin/admin.php:257
+msgid "Help Desk Ticketing System"
+msgstr ""
+
+#: admin/admin.php:274
+msgid "More Themes by Anariel Design"
+msgstr ""
+
+#: admin/admin.php:277
+msgid ""
+"Build Your Dream WordPress Site with Premium Niche Themes for Bloggers & "
+"Charities"
+msgstr ""
+
+#: admin/admin.php:282
+msgid "More Themes"
+msgstr ""
+
+#: admin/admin.php:289
+#, php-format
+msgid "%1$1s is proudly brought to you by %2$2s. If you like %3$3s: %4$4s."
+msgstr ""
+
+#: admin/admin.php:289
+msgid "Rate this theme"
+msgstr ""
+
+#. Name of the template
+msgid "Page Builder Template"
+msgstr ""
+
+#. Name of the template
+msgid "Front Template"
+msgstr ""
+
+#: template-parts/content-page.php:29 template-parts/content.php:36 
+#: template-parts/content-single.php:34 template-parts/content-blank.php:15
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:29
+#, php-format
+msgid ""
+"Continue reading %s <span class=\"meta-nav\" aria-hidden=\"true\">&rarr;"
+"</span>"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Veggie Lite is a lite &amp; free version of beautiful premium WordPress "
+"theme Veggie. Theme is perfect for creating food-related websites. It is a "
+"great fit for recipe websites, blogs, magazines and more. Veggie is built "
+"mobile first and is pleasure to view on devices of all sizes. It features "
+"modern, easy-to-read typography and minimalistic design. As a bonus and a "
+"real treat in this theme are our own healthy recipes we use and enjoy on "
+"daily basis. You are more than welcome to try and share. Recipes are "
+"accompanied by real and royalty free images we made while preparing these "
+"meals. Bon Appetit!"
+msgstr ""
+
+#. URI of the theme
+msgid "http://www.anarieldesign.com/free-food-recipes-wordpress-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "Anariel Design"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.anarieldesign.com/"
+msgstr ""

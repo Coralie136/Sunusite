@@ -1,0 +1,25 @@
+/* This is the JotLoader specific CSS */
+/*
+* @version $Id: jotloader.css,v 1.2 2008/12/07 17:09:34 Vlado Exp $
+* @package JotLoader
+* @copyright (C) 2008 Vladimir Kanich
+* @license http://www.gnu.org/copyleft/gpl.html GNU/GPL
+*/
+.bugOk{
+ background: #DFFFE3;
+ border: 1px solid #40CF50;
+ margin-bottom:5px;
+}
+.bugNotOk{
+ background: #FFDFDF;
+ border: 1px solid #FF9F9F;
+ margin-bottom:5px;
+}
+.bugNote{
+ background: White;
+ border: 1px solid Black;
+ margin-bottom:5px;
+}
+.bugTitle{
+ font-weight: bold;
+}

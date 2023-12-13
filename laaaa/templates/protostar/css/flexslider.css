@@ -1,0 +1,76 @@
+/*
+ * jQuery FlexSlider v1.4
+ * http://flex.madebymufffin.com
+ *
+ * Copyright 2011, Tyler Smith
+ * Free to use under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ */
+
+/* FlexSlider Necessary Styles
+*********************************/ 
+.flexslider {width: 100%; margin: 0; padding: 0;}
+.flexslider .slides li {display: none;} /* Hide the slides before the JS is loaded. Avoids image jumping */
+.flexslider .slides img {max-width: 100%; display: block;}
+
+
+/* FlexSlider Default Theme
+*********************************/
+.flexslider {
+	margin: -161px 0 0;
+	position: relative;
+}
+.flexslider .slides{padding:0; margin:0; list-style: none;}
+.flexslider .slides  li {position: relative;}
+/* Suggested container for "Slide" animation setups. Can replace this with your own, if you wish */
+.flexslider-container {position: relative;}
+
+
+/* Caption style */
+.flex-caption {
+	width: 390px; 
+	position: absolute; 
+	left: 0; 
+	bottom: 25%;
+}
+.flexCaptionInner{
+	padding: 0 24px;
+}
+.flex-caption h3 {
+	font: 48px/48px 'Anton', sans-serif;
+	text-transform: uppercase;
+	color: #373a3f;
+}
+.flex-caption h3 span{
+	display: block;
+	color: #cc004d;
+	font: 60px/60px 'Anton', sans-serif;
+}
+
+/* Direction Nav */
+.flex-direction-nav{padding:565px 0 0; margin:0; list-style: none;}
+.flex-direction-nav li a {
+	width: 34px; 
+	height: 34px; 
+	margin: -0px 0 0; 
+	display: block; 
+	background: #cc004d url(../images/template/bg_direction_nav.png) no-repeat 0 0; 
+	position: absolute; 
+	bottom: 19%; 
+	cursor: pointer; 
+	text-indent: -9999px;
+	outline: none;
+	border-radius: 34px;
+}
+.flex-direction-nav li a.flex-next {background-position: -30px 12px; left: 69px;}
+.flex-direction-nav li a.flex-prev {background-position: 11px 12px; left: 28px;}
+.flex-direction-nav li a.flex-next:hover {background-color: #373a3f;}
+.flex-direction-nav li a.flex-prev:hover {background-color: #373a3f;}
+/* Control Nav */
+.flex-control-nav{padding:0; margin:0; list-style: none;}
+.flex-control-nav {margin-left: -31px; position: absolute; bottom: -30px; left: 50%;} /* set negative margin-left equal to half the width on the control-nav for perfect centering */
+.flex-control-nav li {margin: 0 0 0 5px; float: left;}
+.flex-control-nav li:first-child {margin: 0;}
+.flex-control-nav li a {width: 13px; height: 13px; display: block; background: url(../images/bg_control_nav.png) no-repeat 0 0; cursor: pointer; text-indent: -9999px;}
+.flex-control-nav li a:hover {background-position: 0 -13px;}
+.flex-control-nav li a.flex-active {background-position: 0 -26px; cursor: default;}

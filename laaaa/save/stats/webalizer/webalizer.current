@@ -1,0 +1,5550 @@
+# Webalizer V2.21-02 Incremental Data - 05/31/2011 23:35:03
+2011 5 31 23 35 3
+36973 30498 1104 332 158 337 659902264 5049 1588 0
+68 2 664 1 31
+1037 896 12932020 52 147 52
+704 635 14587074 69 120 60
+0 0 0 0 0 0
+1563 1419 27121149 74 286 75
+1910 1507 22048096 97 207 100
+2144 1588 20938803 95 210 82
+951 884 5899539 52 135 48
+0 0 0 0 0 0
+820 789 13790511 58 140 84
+0 0 0 0 0 0
+2224 1842 31436991 70 243 71
+0 0 0 0 0 0
+1639 1490 68404299 67 211 68
+718 589 16881298 49 119 50
+462 442 2830597 42 142 46
+0 0 0 0 0 0
+1497 1052 8962582 66 187 63
+1738 1536 23013877 79 205 76
+0 0 0 0 0 0
+2767 2040 74946617 63 350 68
+734 677 11075647 47 178 49
+759 715 42598840 55 227 57
+2118 1642 62219963 67 299 69
+2783 2074 18476130 88 388 62
+1970 1664 20488599 80 205 74
+1522 1306 7804926 71 145 57
+1971 1580 51064598 90 267 78
+488 465 15833069 48 101 41
+522 452 14122873 36 83 31
+1573 1373 42319948 81 177 66
+2359 1841 30104218 68 277 63
+832 655 44523132 141
+1513 1133 27188056 170
+809 670 15100440 98
+542 504 5164117 236
+569 529 11823343 168
+535 453 19863079 113
+334 289 4879302 147
+1067 923 6834728 390
+921 806 60568430 198
+837 717 3871361 129
+2076 1754 24566298 262
+1892 1510 21009431 179
+2057 1881 27964104 240
+2037 1689 40207661 264
+3191 2659 38492000 304
+1960 1657 27552618 187
+3298 2675 41401957 341
+3958 3052 50235368 377
+2476 1896 25220299 244
+1451 1326 19479134 183
+1249 926 7241871 129
+1400 1135 72316185 230
+998 828 54882229 162
+971 831 9517121 157
+0
+0
+0
+30498
+0
+0
+0
+0
+0
+20
+0
+46
+0
+0
+3882
+0
+0
+0
+0
+0
+14
+2472
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+23
+2
+0
+3
+0
+0
+0
+# -urls- 
+/templates/default/images/fleche1.gif
+1 52 0 20219 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-delete.png
+1 3 0 7333 0 0
+/administrator/templates/khepri/images/selector-arrow.png
+1 4 0 2304 0 0
+/templates/home/images/mw_header_r_b.png
+1 180 0 1025679 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/media/css/content.css
+1 1 0 859 0 0
+/administrator/templates/khepri/images/j_crn_bl_med.png
+1 1 0 525 0 0
+/images/banners/image04.jpg
+1 238 0 4161150 0 0
+/
+0 4710 0 505672977 1737 758
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/style/langs/en.js
+1 2 0 3870 0 0
+/templates/default/images/mw_content_b.png
+1 512 0 202612 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/langs/en.js
+1 1 0 3614 0 0
+/administrator/templates/khepri/images/j_button2_image.png
+1 1 0 1296 0 0
+/administrator/templates/khepri/images/header/icon-48-article.png
+1 1 0 1886 0 0
+/images/stories/network/finances.jpg
+1 26 0 429951 0 0
+/templates/default/images/blue/mw_footer_b.png
+1 488 0 218055 0 0
+/templates/default/images/arrow.png
+1 10 0 5710 0 0
+/administrator/templates/khepri/css/template.css
+1 1 0 1110 0 0
+/includes/js/joomla.javascript.js
+1 1 0 15699 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/emotions/editor_plugin.js
+1 1 0 1278 0 0
+/templates/default/images/mw_menu_bg.png
+1 488 0 203752 0 0
+/administrator/templates/khepri/images/j_button2_right.png
+1 2 0 1220 0 0
+/images/stories/Plaquette.jpg
+1 8 0 173352 0 0
+/images/banners/image03.jpg
+1 212 0 4196735 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/media/editor_plugin.js
+1 1 0 10537 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-unarchive.png
+1 1 0 2615 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/advhr/editor_plugin.js
+1 2 0 4588 0 0
+/administrator/templates/khepri/favicon.ico
+0 1 0 1431 0 0
+/templates/home/images/blue/mw_header_t_r.png
+1 175 0 71454 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/advlink/langs/en.js
+1 1 0 1678 0 0
+/templates/home/images/mw_content_b_r.png
+1 185 0 71493 0 0
+/media/system/css/calendar-jos.css
+1 1 0 4206 0 0
+/templates/system/css/system.css
+1 687 0 944841 0 0
+/templates/default/images/mw_menu_normal_bg.png
+1 491 0 191497 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/removeformat.gif
+1 1 0 445 0 0
+/administrator/
+0 142 0 4785173 24 12
+/images/stories/visuels/dione.jpg
+1 40 0 1010420 0 0
+/administrator/templates/khepri/images/menu/icon-16-plugin.png
+1 1 0 837 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/css/editor_content.css
+1 1 0 1482 0 0
+/images/stories/network/drapeau-gb.gif
+1 73 0 44516 0 0
+/templates/default/images/mw_menu_cap_l.png
+1 486 0 535750 0 0
+/images/stories/network/drapeau-cm.gif
+1 61 0 51109 0 0
+/administrator/templates/khepri/images/menu/icon-16-messages.png
+1 1 0 780 0 0
+/images/banners/image02.jpg
+1 224 0 4219618 0 0
+/administrator/templates/khepri/images/j_button2_right_cap.png
+1 2 0 1328 0 0
+/templates/default/images/blue/mw_box_tl.png
+1 514 0 272100 0 0
+/templates/default/images/mw_menu_separator.png
+1 492 0 179144 0 0
+/templates/system/css/error.css
+1 9 0 17541 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/layer/images/insertlayer.gif
+1 1 0 541 0 0
+/administrator/templates/khepri/images/header/icon-48-menu.png
+1 1 0 1927 0 0
+/templates/home/images/actu00.gif
+1 190 0 139979 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/insertdatetime/editor_plugin.js
+1 2 0 5110 0 0
+/images/stories/network/uaci-vie.jpg
+1 43 0 690205 0 0
+/administrator/templates/khepri/images/bg-menu.gif
+1 1 0 321 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/strikethrough.gif
+1 1 0 359 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-cancel.png
+1 1 0 1723 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/tiny_mce.js
+1 1 0 147165 0 0
+/administrator/images/filesave.png
+1 1 0 808 0 0
+/administrator/images/disabled.png
+1 2 0 1200 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/table/images/table_delete_row.gif
+1 1 0 437 0 0
+/administrator/templates/khepri/css/menu.css
+1 2 0 7146 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/searchreplace/editor_plugin.js
+1 1 0 4352 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/hr.gif
+1 2 0 678 0 0
+/templates/default/images/mw_content_t_l.png
+1 484 0 368906 0 0
+/images/stories/network/ugan-iard.jpg
+1 27 0 431960 0 0
+/administrator/templates/khepri/js/menu.js
+1 2 0 3720 0 0
+/images/stories/network/lmai-iard.jpg
+1 21 0 326061 0 0
+/images/banners/image01.jpg
+1 195 0 4315545 0 0
+/images/M_images/con_info.png
+1 19 0 18583 0 0
+/administrator/templates/khepri/images/header/icon-48-user.png
+1 1 0 2625 0 0
+/images/stories/network/aaa-vie.jpg
+1 8 0 75865 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/sub.gif
+1 2 0 850 0 0
+/templates/home/images/blue/mw_header_t.png
+1 183 0 80121 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/directionality/images/rtl.gif
+1 1 0 430 0 0
+/administrator/templates/khepri/images/j_button2_last.png
+1 1 0 1207 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-save.png
+1 1 0 1254 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/undo.gif
+1 1 0 452 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-archive.png
+1 1 0 2620 0 0
+/administrator/templates/khepri/images/menu/icon-16-component.png
+1 1 0 975 0 0
+/images/stories/network/uba-vie.jpg
+1 17 0 293898 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-preview.png
+1 1 0 1608 0 0
+/administrator/images/sort_desc.png
+1 2 0 1050 0 0
+/images/stories/network/drapeau-bj.gif
+1 60 0 28778 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/insertdatetime/images/inserttime.gif
+1 1 0 516 0 0
+/images/stories/network/uasen-vie.jpg
+1 40 0 679405 0 0
+/images/stories/visuels/africa01.gif
+1 92 0 373753 0 0
+/templates/home/images/blue/mw_shadow_l.png
+1 184 0 83418 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-config.png
+1 2 0 3676 0 0
+/administrator/templates/khepri/images/menu/icon-16-themes.png
+1 2 0 2338 0 0
+/administrator/templates/khepri/images/j_crn_br_med.png
+1 2 0 1066 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-move.png
+1 1 0 1450 0 0
+/images/M_images/con_address.png
+1 225 0 219104 0 0
+/administrator/templates/khepri/css/component.css
+1 2 0 3568 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/tiny_mce_popup.js
+1 1 0 7909 0 0
+/templates/default/images/mw_header_l_b.png
+1 493 0 514203 0 0
+/administrator/templates/khepri/images/menu/icon-16-section.png
+1 1 0 971 0 0
+/administrator/templates/khepri/images/header/icon-48-menumgr.png
+1 1 0 2216 0 0
+/administrator/templates/khepri/images/menu/icon-16-cpanel.png
+1 2 0 1738 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/fullscreen/langs/en.js
+1 1 0 381 0 0
+/images/stories/network/raynal-iard.jpg
+1 18 0 284480 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-trash.png
+1 2 0 3208 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/code.gif
+1 2 0 774 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/cancel_button_bg.gif
+1 1 0 954 0 0
+/templates/default/images/blue/mw_footer_b_r.png
+1 483 0 197123 0 0
+/images/stories/network/uacam-vie.jpg
+1 9 0 173412 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/table/images/table_merge_cells.gif
+1 2 0 950 0 0
+/administrator/templates/khepri/images/j_button2_last_off.png
+1 2 0 2006 0 0
+/images/stories/network/drapeau-sn.gif
+1 81 0 48469 0 0
+/administrator/templates/khepri/images/j_button1_next.png
+1 1 0 1785 0 0
+/images/stories/network/ugan-vie.jpg
+1 12 0 235356 0 0
+/administrator/templates/khepri/images/h_green/j_header_middle.png
+1 2 0 1324 0 0
+/media/system/js/calendar-setup.js
+1 1 0 5210 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/emotions/images/emotions.gif
+1 1 0 596 0 0
+/templates/default/css/ieonly.css
+1 50 0 28574 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/sup.gif
+1 2 0 848 0 0
+/images/stories/network/uag-vie.jpg
+1 30 0 573258 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/layer/editor_plugin.js
+1 2 0 10340 0 0
+/administrator/templates/khepri/images/header/icon-48-section.png
+1 2 0 4544 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/table/langs/en.js
+1 1 0 2840 0 0
+/images/stories/network/drapeau-ng.gif
+1 83 0 37287 0 0
+/media/system/js/mootools.js
+1 697 0 45018507 0 0
+/templates/default/images/blue/mw_header_t_l.png
+1 495 0 205384 0 0
+/administrator/templates/khepri/images/j_button2_prev.png
+1 1 0 1212 0 0
+/templates/home/css/ieonly.css
+1 13 0 7585 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/bold.gif
+1 1 0 352 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/visualaid.gif
+1 1 0 483 0 0
+/administrator/templates/khepri/images/menu/icon-16-massmail.png
+1 1 0 1059 0 0
+/administrator/images/tick.png
+1 2 0 1576 0 0
+/templates/default/images/blue/mw_box_br.png
+1 501 0 321939 0 0
+/administrator/templates/khepri/images/j_bottom.png
+1 2 0 1018 0 0
+/administrator/templates/khepri/images/h_green/j_header_left.png
+1 1 0 5426 0 0
+/media/system/css/modal.css
+1 1 0 1436 0 0
+/images/stories/network/drapeau-ci.gif
+1 122 0 47187 0 0
+/templates/system/images/calendar.png
+1 1 0 952 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/justifyfull.gif
+1 1 0 347 0 0
+/administrator/images/publish_y.png
+1 1 0 1014 0 0
+/templates/home/images/mw_joomla_logo.png
+1 177 0 4800862 0 0
+/images/stories/network/avie.jpg
+1 7 0 120006 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/table/images/table.gif
+1 2 0 1128 0 0
+/templates/home/images/blue/mw_footer_b_r.png
+1 177 0 76061 0 0
+/templates/home/images/blue/mw_footer_b.png
+1 173 0 78593 0 0
+/templates/default/favicon.ico
+0 392 0 525628 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/directionality/images/ltr.gif
+1 1 0 432 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/css/editor_ui.css
+1 1 0 8698 0 0
+/templates/home/images/mw_content_t_r.png
+1 180 0 303904 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/searchreplace/images/search.gif
+1 1 0 468 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/advlink/editor_plugin.js
+1 1 0 2035 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/fullscreen/images/fullscreen.gif
+1 1 0 475 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/jscripts/source_editor.js
+1 1 0 1639 0 0
+/administrator/templates/khepri/css/icon.css
+1 1 0 7253 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/langs/en.js
+1 1 0 1900 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/table/images/table_insert_col_before.gif
+1 1 0 442 0 0
+/templates/default/images/mw_header_b.png
+1 487 0 194125 0 0
+/administrator/templates/khepri/images/menu/icon-16-frontpage.png
+1 1 0 896 0 0
+/administrator/images/publish_x.png
+1 2 0 1730 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/forecolor.gif
+1 2 0 1238 0 0
+/administrator/templates/khepri/images/menu/icon-16-default.png
+1 1 0 851 0 0
+/templates/default/css/template.css
+1 596 0 7039198 0 0
+/administrator/templates/khepri/images/mini_icon.png
+1 2 0 2100 0 0
+/administrator/templates/khepri/images/j_button2_next.png
+1 1 0 1210 0 0
+/templates/home/images/blue/mw_header_t_l.png
+1 178 0 76759 0 0
+/robots.txt
+0 585 0 332782 0 0
+/templates/home/images/mw_content_b_l.png
+1 180 0 70127 0 0
+/administrator/templates/khepri/images/menu/icon-16-module.png
+1 1 0 990 0 0
+/media/system/js/validate.js
+1 269 0 1105299 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-copy.png
+1 2 0 1770 0 0
+/administrator/templates/khepri/images/menu/icon-16-category.png
+1 1 0 1045 0 0
+/templates/home/images/mw_header_b.png
+1 191 0 75201 0 0
+/administrator/templates/khepri/images/menu/icon-16-logout.png
+1 1 0 953 0 0
+/images/stories/network/drapeau-bf.gif
+1 77 0 44462 0 0
+/templates/default/images/mw_content_b_r.png
+1 478 0 185952 0 0
+/administrator/templates/khepri/js/
+0 2 0 2426 0 0
+/images/stories/RapportAnnuel.jpg
+1 71 0 1307090 0 0
+/administrator/images/publish_g.png
+1 1 0 874 0 0
+/administrator/images/uparrow.png
+1 1 0 577 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/editor_template.js
+1 1 0 43857 0 0
+/administrator/templates/khepri/css/login.css
+1 2 0 4462 0 0
+/administrator/templates/khepri/images/j_crn_tl_med.png
+1 1 0 530 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/insertdatetime/langs/en.js
+1 1 0 960 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/outdent.gif
+1 2 0 774 0 0
+/templates/default/images/blue/mw_shadow_r.png
+1 517 0 228934 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/insert_button_bg.gif
+1 1 0 980 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/justifycenter.gif
+1 2 0 692 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/justifyright.gif
+1 1 0 346 0 0
+/templates/home/images/mw_header_l_b.png
+1 195 0 1263235 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/layer/images/absolute.gif
+1 1 0 486 0 0
+/administrator/templates/khepri/images/j_border.png
+1 1 0 490 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/style/images/styleprops.gif
+1 1 0 839 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/justifyleft.gif
+1 1 0 347 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/advimage/langs/en.js
+1 1 0 1194 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/anchor.gif
+1 1 0 448 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-menu.png
+1 2 0 3322 0 0
+/media/published/PatDione.pdf
+0 19 0 10987460 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/layer/images/movebackward.gif
+1 1 0 637 0 0
+/images/stories/PatDione.jpg
+1 187 0 2636831 0 0
+/administrator/templates/khepri/images/j_button2_first_off.png
+1 2 0 2026 0 0
+/administrator/templates/khepri/images/header/icon-48-category.png
+1 1 0 2239 0 0
+/administrator/templates/khepri/images/header/icon-48-frontpage.png
+1 2 0 4594 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/unlink.gif
+1 1 0 467 0 0
+/administrator/templates/khepri/images/j_button2_prev_off.png
+1 2 0 2028 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/cleanup.gif
+1 1 0 533 0 0
+/administrator/templates/khepri/images/menu/icon-16-language.png
+1 1 0 1252 0 0
+/administrator/images/sort_asc.png
+1 2 0 1030 0 0
+/administrator/templates/khepri/images/header/icon-48-article-add.png
+1 2 0 4836 0 0
+/templates/home/css/blue.css
+1 238 0 263789 0 0
+/administrator/templates/khepri/images/j_button2_pagebreak.png
+1 2 0 2160 0 0
+/administrator/templates/khepri/images/notice-info.png
+1 1 0 1288 0 0
+/administrator/templates/khepri/images/header/icon-48-stats.png
+1 1 0 1698 0 0
+/templates/default/images/blue/mw_footer_b_l.png
+1 498 0 203663 0 0
+/images/stories/visuels/chiffres.jpg
+1 29 0 1252278 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/advimage/editor_plugin.js
+1 1 0 3433 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/css/editor_popup.css
+1 1 0 5612 0 0
+/templates/default/images/blue/mw_bg.png
+1 500 0 203343 0 0
+/images/stories/network/uac.jpg
+1 10 0 185109 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/table/images/table_insert_row_after.gif
+1 1 0 440 0 0
+/administrator/templates/khepri/images/h_green/j_header_right.png
+1 1 0 643 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/advhr/langs/en.js
+1 1 0 473 0 0
+/administrator/templates/khepri/images/menu/icon-16-config.png
+1 1 0 748 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-help.png
+1 1 0 1678 0 0
+/media/published/Communique100923.pdf
+0 6 0 321117 0 0
+/administrator/templates/khepri/images/j_button1_left.png
+1 2 0 1520 0 0
+/administrator/templates/khepri/images/j_button2_readmore.png
+1 1 0 1152 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/table/images/table_insert_col_after.gif
+1 1 0 442 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-new.png
+1 2 0 3884 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/button_menu.gif
+1 1 0 333 0 0
+/templates/default/images/mw_header_r_b.png
+1 514 0 239562 0 0
+/templates/system/css/general.css
+1 698 0 1541916 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/image.gif
+1 1 0 471 0 0
+/images/stories/network/uat-vie.jpg
+1 7 0 135793 0 0
+/images/M_images/con_tel.png
+1 222 0 235532 0 0
+/administrator/templates/khepri/images/j_button2_next_off.png
+1 1 0 1015 0 0
+/templates/home/css/template.css
+1 252 0 3106211 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/link.gif
+1 1 0 452 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/table/images/table_cell_props.gif
+1 1 0 466 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/redo.gif
+1 2 0 892 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/media/langs/en.js
+1 1 0 2806 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/table/editor_plugin.js
+1 2 0 42100 0 0
+/templates/default/images/blue/mw_box_bl.png
+1 492 0 215042 0 0
+/administrator/templates/khepri/images/menu/icon-16-install.png
+1 1 0 1127 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/table/images/table_delete_col.gif
+1 1 0 430 0 0
+/templates/default/images/fleche5.gif
+1 53 0 21090 0 0
+/templates/home/favicon.ico
+0 155 0 209813 0 0
+/templates/default/images/mw_menu_cap_r.png
+1 509 0 209300 0 0
+/administrator/templates/khepri/images/header/icon-48-media.png
+1 1 0 2721 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/searchreplace/langs/en.js
+1 1 0 1096 0 0
+/templates/home/images/mw_content_t.png
+1 189 0 8098437 0 0
+/images/stories/network/uat-iard.jpg
+1 21 0 403190 0 0
+/templates/home/css/blue_bg.css
+1 260 0 246727 0 0
+/templates/default/images/blue/mw_box_tr.png
+1 488 0 213934 0 0
+/templates/home/images/blue/mw_footer_b_l.png
+1 186 0 76961 0 0
+/administrator/templates/khepri/images/header/icon-48-language.png
+1 1 0 2667 0 0
+/administrator/templates/khepri/images/menu/icon-16-media.png
+1 2 0 2372 0 0
+/administrator/templates/khepri/images/j_crn_tr_med.png
+1 2 0 1078 0 0
+/templates/home/images/blue/mw_bg.png
+1 196 0 80019 0 0
+/templates/home/images/mw_content_t_l.png
+1 177 0 122929 0 0
+/administrator/templates/khepri/images/j_login_lock.jpg
+1 1 0 2815 0 0
+/templates/default/images/mw_joomla_logo.png
+1 516 0 2211349 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/insertdatetime/images/insertdate.gif
+1 1 0 564 0 0
+/images/M_images/emailButton.png
+1 224 0 145645 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/style/editor_plugin.js
+1 1 0 1792 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-unpublish.png
+1 1 0 1337 0 0
+/administrator/templates/khepri/images/menu/icon-16-info.png
+1 1 0 868 0 0
+/templates/default/images/fleche4.gif
+1 53 0 20346 0 0
+/templates/default/images/mw_content_t_r.png
+1 499 0 209878 0 0
+/administrator/images/publish_r.png
+1 2 0 1992 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/searchreplace/images/replace.gif
+1 2 0 804 0 0
+/images/stories/network/drapeau-tg.gif
+1 71 0 58387 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/italic.gif
+1 2 0 710 0 0
+/administrator/templates/khepri/images/menu/icon-16-menu.png
+1 1 0 933 0 0
+/administrator/templates/khepri/images/j_corner_br.png
+1 1 0 591 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/fullscreen/css/page.css
+1 1 0 785 0 0
+/administrator/templates/khepri/images/j_button2_left.png
+1 2 0 1258 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/layer/images/moveforward.gif
+1 1 0 635 0 0
+/administrator/templates/khepri/images/j_crn_bl_light.png
+1 1 0 523 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/table/images/table_split_cells.gif
+1 1 0 487 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/media/images/media.gif
+1 2 0 1114 0 0
+/templates/default/images/mw_content_b_l.png
+1 485 0 188435 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/table/images/table_insert_row_before.gif
+1 1 0 436 0 0
+/templates/default/images/blue/mw_header_t.png
+1 503 0 218032 0 0
+/templates/home/images/image00.jpg
+1 188 0 3791619 0 0
+/templates/default/images/fleche3.gif
+1 53 0 21779 0 0
+/images/stories/network/drapeau-ca.gif
+1 67 0 59075 0 0
+/templates/home/images/mw_content_b.png
+1 179 0 71169 0 0
+/templates/default/css/blue.css
+1 570 0 605225 0 0
+/templates/home/images/blue/mw_shadow_r.png
+1 177 0 78758 0 0
+/administrator/templates/khepri/images/menu/icon-16-user.png
+1 2 0 1854 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/indent.gif
+1 1 0 389 0 0
+/templates/system/images/notice-info.png
+1 7 0 9016 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/source_editor.htm
+0 1 0 1711 0 0
+/administrator/templates/khepri/images/j_button2_first.png
+1 1 0 1213 0 0
+/templates/default/images/spacer.png
+1 229 0 103335 0 0
+/administrator/templates/khepri/images/j_arrow.png
+1 2 0 1262 0 0
+/administrator/images/downarrow0.png
+1 1 0 505 0 0
+/templates/default/images/blue/mw_shadow_l.png
+1 516 0 226914 0 0
+/templates/default/images/mw_content_t.png
+1 493 0 193661 0 0
+/templates/default/css/blue_bg.css
+1 563 0 501742 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/separator.gif
+1 1 0 333 0 0
+/administrator/templates/khepri/images/header/icon-48-config.png
+1 1 0 1769 0 0
+/administrator/templates/khepri/css/general.css
+1 1 0 15862 0 0
+/templates/home/images/mw_menu_separator.png
+1 182 0 66141 0 0
+/administrator/images/downarrow.png
+1 2 0 1144 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/table/images/table_row_props.gif
+1 1 0 464 0 0
+/templates/default/images/fleche2.gif
+1 52 0 18971 0 0
+/administrator/images/uparrow0.png
+1 1 0 516 0 0
+/administrator/templates/khepri/images/j_crn_tl_light.png
+1 2 0 1048 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-apply.png
+1 2 0 3036 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/emotions/langs/en.js
+1 1 0 729 0 0
+/administrator/templates/khepri/images/menu/icon-16-checkin.png
+1 1 0 866 0 0
+/administrator/templates/khepri/images/menu/icon-16-help.png
+1 1 0 896 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/advhr/images/advhr.gif
+1 1 0 430 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/bullist.gif
+1 1 0 385 0 0
+/administrator/templates/khepri/images/menu/icon-16-trash.png
+1 2 0 1738 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/directionality/langs/en.js
+1 2 0 888 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/numlist.gif
+1 2 0 776 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/fullscreen/editor_plugin.js
+1 1 0 5947 0 0
+/images/banners/image05.jpg
+1 198 0 3172395 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-publish.png
+1 2 0 2886 0 0
+/media/system/js/caption.js
+1 513 0 913506 0 0
+/images/stories/network/assurances.jpg
+1 62 0 997013 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/charmap.gif
+1 1 0 522 0 0
+/images/stories/network/lmai-vie.jpg
+1 32 0 415772 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/images/underline.gif
+1 1 0 364 0 0
+/administrator/templates/system/css/system.css
+1 1 0 1360 0 0
+/templates/home/images/image002.gif
+1 197 0 9246341 0 0
+/administrator/templates/khepri/images/menu/icon-16-article.png
+1 2 0 1674 0 0
+/images/M_images/con_fax.png
+1 241 0 192178 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-default.png
+1 2 0 2732 0 0
+/administrator/templates/khepri/images/toolbar/icon-32-edit.png
+1 1 0 1484 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/layer/langs/en.js
+1 2 0 1038 0 0
+/templates/default/images/blue/mw_header_t_r.png
+1 511 0 198102 0 0
+/administrator/templates/khepri/images/j_arrow_down.png
+1 1 0 626 0 0
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/directionality/editor_plugin.js
+1 1 0 2293 0 0
+/templates/default/images/blue/mw_menu_active_bg.png
+1 526 0 544638 0 0
+# End Of Table - urls
+# -sites- (monthly)
+91.207.4.74
+0 1 1 7052 1 1304738962
+/
+net-2-36-89-176.cust.dsl.vodafone.it
+0 39 39 153158 1 1306272018
+/
+173.192.34.95
+0 93 92 966822 1 1304481419
+/
+196.28.250.84
+0 57 57 177046 1 1304703449
+/
+24.230.196.2
+0 8 8 276581 1 1304353620
+/
+89.123.40.123
+0 38 36 369882 1 1305438459
+/
+41.202.101.245
+0 114 63 323744 1 1306686616
+/
+199.19.249.196
+0 30 30 282371 6 1306331672
+/
+157.55.17.93
+0 11 11 125178 1 1305403500
+/
+41.202.69.1
+0 5 3 51645 1 1306736846
+/
+ll81-241-160-192-81.ll81.iam.net.ma
+0 13 13 40881 0 0
+-
+67.68.249.121
+0 12 12 25966 1 1306202917
+/
+123.125.67.157
+0 2 2 1092 0 0
+-
+123.125.67.159
+0 2 2 1092 0 0
+-
+41.208.149.78
+0 154 95 934925 1 1306777966
+/
+66.249.72.120
+0 1 1 582 0 0
+-
+msnbot-207-46-199-40.search.msn.com
+0 1 1 9102 1 1304355309
+/
+41.208.190.240
+0 38 38 48754 27 1304957369
+/
+157.55.16.229
+0 11 10 61541 3 1306255452
+/
+213.137.136.144
+0 52 51 205061 1 1306707210
+/
+41.208.190.242
+0 3 3 3849 3 1305123697
+/
+41.208.150.65
+0 60 60 250352 1 1305298307
+/
+196.207.227.168
+0 98 89 423743 1 1304277269
+/
+24.230.185.200
+0 17 17 99282 2 1306739282
+/
+41.214.45.176
+0 185 163 2463721 1 1306039444
+/
+88.131.106.2
+0 1 1 546 0 0
+-
+41.82.97.89
+0 43 43 160820 0 0
+-
+msnbot-207-46-12-116.search.msn.com
+0 1 1 74696 0 0
+-
+41.202.112.249
+0 27 23 227583 1 1306764960
+/
+41.203.238.200
+0 2 2 19654 1 1304702781
+/
+88.131.106.7
+0 1 1 7035 1 1305988207
+/
+123.125.67.161
+0 1 1 546 0 0
+-
+41.214.119.159
+0 33 33 89576 0 0
+-
+77.59.199.231
+0 1 1 92944 1 1306512405
+/
+157.55.16.231
+0 12 12 61268 4 1306574852
+/
+pldt.net
+2 36 31 188982 2 1305690036
+/
+41.189.55.31
+0 150 102 654680 1 1306447410
+/
+opera-mini.net
+2 9 9 26364 0 0
+-
+188.27.84.57
+0 1 1 7052 1 1306539574
+/
+66.249.72.138
+0 1 1 7120 1 1305082145
+/
+41.207.217.151
+0 12 12 122400 2 1305729120
+/
+41.202.87.126
+0 222 35 10992430 1 1304704454
+/
+78.51.101.146
+0 2 0 846 0 0
+-
+1102752.sydfynsnet.dk
+0 14 14 109801 0 0
+-
+188.165.242.211
+0 7 4 20194 3 1304277653
+/
+41.82.224.77
+0 1 1 92944 1 1305297390
+/
+66.249.72.140
+0 5 5 10114645 2 1305747074
+/
+sjdc-wtp-gb-maya3.sdi.trendnet.org
+0 12 12 78923 3 1306420157
+/
+cafe.tg
+2 7 7 59127 1 1305137178
+/
+66.249.71.102
+0 2 2 14258 1 1306758494
+/
+66.249.71.103
+0 1 1 582 0 0
+-
+212.52.147.126
+0 2 2 34647 1 1305717441
+/
+66.249.71.104
+0 1 1 582 0 0
+-
+41.206.85.213
+0 44 44 182355 1 1305988940
+/
+41.138.33.132
+0 53 53 242268 1 1304763281
+/
+41.216.35.100
+0 43 35 167785 1 1306786463
+/
+41.203.231.149
+0 57 57 188682 1 1305887117
+/
+msnbot-65-52-110-29.search.msn.com
+0 1 1 582 0 0
+-
+msnbot-207-46-13-137.search.msn.com
+0 3 3 11817 1 1304810981
+/
+baiduspider-220-181-108-81.crawl.baidu.com
+0 1 1 7084 1 1306360879
+/
+41.203.227.66
+0 56 56 271582 1 1305716221
+/
+66.249.71.116
+0 1 1 10304 1 1306123023
+/
+196.207.226.158
+0 54 54 180449 1 1304688702
+/
+66.249.71.117
+0 2 2 19786 1 1306375711
+/
+66.249.71.118
+0 2 2 9707 1 1306173688
+/
+66.249.71.119
+0 2 2 9655 1 1306162573
+/
+ask.com
+2 3 3 1638 0 0
+-
+41.207.199.110
+0 51 46 271681 1 1305737948
+/
+95.108.151.6
+0 31 28 314043 11 1306002085
+/
+msnbot-207-46-12-204.search.msn.com
+0 8 8 94527 1 1306782571
+/
+msnbot-65-52-110-38.search.msn.com
+0 5 5 41364 2 1306469397
+/
+crawler5004.ask.com
+0 3 3 1638 0 0
+-
+193.191.208.195
+0 56 56 191218 1 1306781237
+/
+41.214.107.156
+0 1 1 7084 1 1304257987
+/
+msnbot-207-46-13-146.search.msn.com
+0 8 8 40427 1 1306600901
+/
+baiduspider-220-181-108-92.crawl.baidu.com
+0 2 2 2494 1 1304717590
+/
+whois.sc
+2 3 3 3198 2 1306401165
+/
+173.242.116.48
+0 10 10 17182350 5 1306770840
+/
+196.201.79.242
+0 53 53 284138 1 1304942280
+/
+66.249.71.120
+0 1 1 9158 1 1306461411
+/
+41.214.64.86
+0 98 87 589888 1 1304767264
+/
+217.21.118.90
+0 32 27 183653 1 1306318470
+/
+206.122.158.4
+0 207 192 920941 2 1306428892
+/
+41.206.84.30
+0 57 57 301929 2 1305124215
+/
+41.211.130.137
+0 57 57 224257 1 1306413435
+/
+msnbot-65-52-110-47.search.msn.com
+0 2 2 16860 2 1306557812
+/
+belgacom.be
+2 25 25 238787 1 1306779517
+/
+41.203.226.216
+0 53 53 238065 1 1306257311
+/
+197.128.161.33
+0 58 58 284836 1 1305337436
+/
+221.135.132.142
+0 344 91 624563 1 1305132126
+/
+66.249.72.170
+0 2 2 1164 0 0
+-
+66.249.72.172
+0 3 2 3085567 1 1306046327
+/
+82.240.228.140
+0 2 0 846 0 0
+-
+41.221.188.121
+0 1 1 92944 1 1305072416
+/
+41.138.33.162
+0 82 82 507005 1 1306844053
+/
+66.249.82.129
+0 311 306 1505444 12 1306516444
+/
+178.208.2.21
+0 33 33 199309 1 1304609630
+/
+213.136.121.93
+0 58 58 201915 1 1304615138
+/
+static-208-80-194-33.as13448.com
+0 1 1 7052 1 1306247198
+/
+41.214.20.129
+0 65 0 10127 0 0
+-
+196.207.212.13
+0 4 4 5132 3 1304364180
+/
+61.111.15.30
+0 2 2 31856 1 1306630862
+/
+93.241.51.50
+0 1 1 7120 1 1306039045
+/
+41.203.229.30
+0 62 62 357882 1 1305898036
+/
+41.203.227.95
+0 49 49 177069 0 0
+-
+ec2-174-129-117-237.compute-1.amazonaws.com
+0 1 1 494 1 1304296937
+/
+212.52.159.196
+0 55 55 166916 1 1305133065
+/
+142.167.118.222
+0 68 68 262619 1 1304956539
+/
+41.202.87.45
+0 162 18 144746 1 1304700568
+/
+79.86.193.161
+0 1 1 5131715 1 1305921359
+/
+msnbot-207-46-13-84.search.msn.com
+0 1 1 9761 1 1306202503
+/
+iad1-wtp-gd-maya9.sdi.trendnet.org
+0 3 3 18912 2 1306472987
+/
+41.221.187.43
+0 114 103 614417 1 1305289227
+/
+95.108.158.230
+0 3 3 1746 0 0
+-
+gaoland.net
+2 4 4 36114 0 0
+-
+sjdc-wtp-gs-maya1.sdi.trendnet.org
+0 2 2 19486 2 1305273272
+/
+173.242.125.196
+0 2 2 7589 1 1305592904
+/
+41.214.105.108
+0 48 41 479554 1 1306159182
+/
+msnbot-65-52-108-12.search.msn.com
+0 1 1 7120 1 1304300595
+/
+65.52.104.36
+0 5 5 32948 0 0
+-
+b3090818.crawl.yahoo.net
+0 12 12 17790 3 1306726803
+/
+41.203.132.21
+0 1145 627 25539805 5 1306244437
+/
+80.231.205.95
+0 233 149 2376807 1 1305386197
+/
+msnbot-207-46-204-244.search.msn.com
+0 2 2 1164 0 0
+-
+41.203.225.204
+0 103 103 447611 2 1306150966
+/
+213.136.101.37
+0 58 58 316013 1 1304688463
+/
+207.46.199.11
+0 24 24 251246 2 1305284949
+/
+sr-vm.net
+2 22 16 161230 1 1306206184
+/
+64.233.172.18
+0 11 11 24654 0 0
+-
+207.46.199.13
+0 14 13 197186 2 1304654968
+/
+aputeaux-651-1-62-14.w81-249.abo.wanadoo.fr
+0 50 23 315297 1 1306806424
+/
+41.207.218.86
+0 31 30 178732 1 1306507894
+/
+65.52.104.42
+0 9 9 109687 1 1306153197
+/
+msnbot-65-52-110-74.search.msn.com
+0 2 2 14240 1 1306418481
+/
+207.46.199.17
+0 6 6 30057 1 1304240678
+/
+198.203.177.177
+0 53 51 198238 1 1306342272
+/
+196.28.242.79
+0 1 1 9772 1 1306496837
+/
+74.125.74.196
+0 20 20 187638 0 0
+-
+bell.ca
+2 50 50 215795 0 0
+-
+baiduspider-220-181-108-111.crawl.baidu.com
+0 2 2 14152 1 1306260878
+/
+crawl-66-249-71-24.googlebot.com
+0 2 2 14172 1 1304359978
+/
+178-83-222-188.dynamic.hispeed.ch
+0 30 22 105136 0 0
+-
+207.46.199.20
+0 9 9 98607 0 0
+-
+sho-gabon.ga
+2 60 60 278579 1 1306237646
+/
+sjdc-wtp-g3-maya1.sdi.trendnet.org
+0 9 7 30764 2 1306320643
+/
+220.181.108.75
+0 1 1 7084 1 1305470709
+/
+196.207.212.49
+0 2 2 2566 1 1304984425
+/
+220.181.108.76
+0 1 1 7084 1 1305114384
+/
+220.181.108.77
+0 1 1 7084 1 1305470599
+/
+207.46.199.25
+0 9 9 110568 1 1305853584
+/
+msnbot-65-52-110-83.search.msn.com
+0 1 1 9740 1 1304326399
+/
+196.28.254.61
+0 61 61 240708 1 1306171192
+/
+188.165.226.104
+0 2 2 7589 1 1305897286
+/
+89.86.30.111
+0 53 53 193271 1 1304677080
+/
+67.230.143.82
+0 58 57 193836 1 1304277028
+/
+95.220.250.126
+0 1 1 1976 0 0
+-
+41.203.132.42
+0 60 60 277080 1 1305278332
+/
+88.253.255.141
+0 2 1 5454 1 1305616456
+/administrator/
+62.201.142.30
+0 2 2 10263349 1 1305730389
+/
+41.214.32.198
+0 60 60 221483 1 1305382669
+/
+direct-adsl.nl
+2 37 32 114699 1 1306381230
+/
+220.181.108.81
+0 3 3 21218 2 1306627827
+/
+220.181.108.82
+0 2 0 760 1 1304375150
+/
+220.181.108.83
+0 1 1 7084 1 1306687779
+/
+83.79.151.140
+0 108 101 584471 1 1306050979
+/
+206.82.130.222
+0 29 29 54317 0 0
+-
+220.181.108.86
+0 3 3 21236 2 1305327460
+/
+196.28.249.136
+0 128 108 633633 1 1304764210
+/
+220.181.108.87
+0 1 1 8226 1 1306028441
+/
+220.181.108.88
+0 3 3 15415 3 1306626560
+/
+220.181.108.89
+0 1 1 7050 1 1306028435
+/
+195.24.209.248
+0 53 53 208034 1 1306274036
+/
+81.192.195.235
+0 63 63 310704 1 1305391221
+/
+207.46.199.39
+0 6 6 30928 2 1306088992
+/
+205.178.190.235
+0 3 3 14665 1 1305454137
+/
+msnbot-65-52-110-92.search.msn.com
+0 1 1 9763 1 1305155777
+/
+yandex.ru
+2 16 13 10162026 6 1306525236
+/
+41.202.77.41
+0 58 58 315326 2 1306835659
+/
+smtp.denys.com
+0 9 0 1945 0 0
+-
+midco.net
+2 3 3 2821 1 1306739291
+/
+196.202.236.217
+0 51 51 189482 1 1305499186
+/
+92.90.19.23
+0 47 42 379451 1 1305900881
+/
+41.203.230.186
+0 54 54 181412 1 1304705413
+/
+196.207.212.116
+0 3 3 3849 2 1304638835
+/
+38.99.98.143
+0 4 4 22529 1 1306098237
+/
+64.233.182.80
+0 4 4 14765 1 1304605463
+/
+64.233.182.81
+0 3 3 10627 1 1304604902
+/
+64.233.182.82
+0 5 5 24074 0 0
+-
+64.233.182.83
+0 9 9 26486 1 1304604929
+/
+64.233.182.84
+0 8 8 68096 1 1304605363
+/
+crawl-66-249-71-46.googlebot.com
+0 2 2 12377566 1 1306559903
+/
+64.233.182.85
+0 5 5 14111 1 1304605416
+/
+142.167.117.51
+0 10 10 135663 1 1306515975
+/
+64.233.182.87
+0 6 6 26549 1 1304605379
+/
+207.46.199.40
+0 4 4 20766 1 1305992455
+/
+207.46.199.42
+0 9 9 55935 4 1305952738
+/
+220.181.108.95
+0 4 4 12049 2 1306688097
+/
+207.46.199.43
+0 2 2 1164 0 0
+-
+95.31.84.22
+0 8 8 97458 0 0
+-
+207.46.199.44
+0 1 1 582 0 0
+-
+207.46.199.45
+0 2 2 10832 1 1305352071
+/
+207.46.199.46
+0 4 3 11067 2 1304711153
+/
+207.46.199.47
+0 2 2 19974 1 1304227990
+/
+207.46.199.49
+0 4 4 17409 2 1306115571
+/
+8.28.16.254
+0 1 1 11737 1 1306331954
+/
+41.78.50.25
+0 56 56 226082 1 1306413218
+/
+adsl-41-189-36-17.aviso.ci
+0 25 25 183704 1 1306511681
+/
+41.141.197.130
+0 54 54 178228 1 1304591128
+/
+mail.total.bf
+0 2 2 19486 1 1306343142
+/
+i88-100-19-89.vpdn.keen.kv.chereda.net
+0 10 10 6797 0 0
+-
+41.214.65.181
+0 2 2 29920 1 1305391669
+/
+207.46.199.50
+0 8 8 44790 3 1306732041
+/
+207.46.199.51
+0 6 6 35174 3 1306829038
+/
+196.207.212.78
+0 18 18 23094 14 1304982622
+/
+207.46.199.52
+0 1 1 582 0 0
+-
+196.207.202.35
+0 91 85 401810 1 1304738637
+/
+207.46.199.53
+0 10 10 38798 3 1306836992
+/
+207.46.199.54
+0 9 9 10422356 4 1306869687
+/
+95.8.165.219
+0 6 3 16362 2 1304775705
+/administrator/
+207.46.199.55
+0 2 2 9431 1 1305889308
+/
+41.73.104.233
+0 1 0 423 0 0
+-
+217.170.146.69
+0 55 47 307540 1 1304608979
+/
+lcaen-156-54-15-227.w80-11.abo.wanadoo.fr
+0 25 20 124081 0 0
+-
+baiduspider-220-181-108-151.crawl.baidu.com
+0 1 1 7084 1 1306211007
+/
+67.195.115.155
+0 58 55 10371262 24 1306766015
+/
+196.207.202.41
+0 50 42 381713 1 1304737815
+/
+196.28.249.163
+0 229 212 1158022 1 1304532550
+/
+66.249.71.22
+0 1 1 582 0 0
+-
+198.53.150.94
+0 55 55 167118 1 1304620567
+/
+81.199.131.11
+0 54 54 192910 1 1304502457
+/
+acadie.com
+2 1 1 9706 1 1304970760
+/
+piano2.yandex.ru
+0 5 5 33000 2 1304957290
+/
+196.207.195.126
+0 1 1 0 1 1304540469
+/
+msnbot-207-46-199-43.search.msn.com
+0 2 2 17198 2 1306581867
+/
+41.208.132.53
+0 58 58 241098 1 1306057994
+/
+crawl-66-249-71-50.googlebot.com
+0 1 1 10078 1 1306397925
+/
+41.214.12.36
+0 72 72 335065 1 1304551220
+/
+213.136.108.221
+0 13 0 1963 0 0
+-
+41.202.95.111
+0 81 81 363246 1 1305693560
+/
+41.202.90.43
+0 2 2 141124 1 1306884903
+/
+66.249.71.38
+0 2 2 14240 1 1306137704
+/
+66.249.71.39
+0 1 1 7086 1 1306561669
+/
+crj95-6-82-247-72-102.fbx.proxad.net
+0 15 15 13608 0 0
+-
+196.207.196.179
+0 45 45 204233 1 1305756473
+/
+78.246.169.21
+0 1 1 9827 1 1304596500
+/
+msnbot-207-46-199-52.search.msn.com
+0 3 3 17685 2 1306233254
+/
+196.28.244.77
+0 61 61 315537 1 1306845147
+/
+aiduspider-220-181-108-163.crawl.baidu.com
+0 2 2 14168 1 1306540095
+/
+149.6.166.214
+0 101 101 673182 1 1305896793
+/
+213.136.115.22
+0 56 56 256923 1 1306148504
+/
+104.224-226-89.dsl.completel.net
+0 10 10 5886 0 0
+-
+66.249.71.45
+0 3 3 26730 2 1306867754
+/
+66.249.71.46
+0 3 3 12926 2 1306705639
+/
+66.249.71.48
+0 1 1 9733 1 1306093666
+/
+adsl-41.207.211.174.aviso.ci
+0 33 33 78739 1 1306431042
+/
+msnbot-207-46-195-237.search.msn.com
+0 1 1 582 0 0
+-
+92.145.181.211
+0 29 28 177274 0 0
+-
+orange-cit.ci
+2 33 33 79250 0 0
+-
+41.214.74.136
+0 105 96 574369 1 1304215349
+/
+gre92-6-82-231-206-50.fbx.proxad.net
+0 23 23 151902 1 1306446273
+/
+msnbot-207-46-12-238.search.msn.com
+0 1 1 582 0 0
+-
+210.213.148.35
+0 46 40 399839 1 1306831313
+/
+81.192.160.241
+0 18 18 88402 1 1304958315
+/
+193.253.226.230
+0 22 22 70544 0 0
+-
+184.154.7.186
+0 11 11 51222 1 1305491110
+/
+bas1-longueuil15-1176161573.dsl.bell.ca
+0 18 18 43158 0 0
+-
+verizon.net
+2 51 51 141222 1 1306600927
+/
+65.111.171.90
+0 3 3 8135 1 1306081236
+/
+41.66.9.208
+0 30 30 39612 0 0
+-
+41.207.170.54
+0 78 78 275415 1 1305655036
+/
+41.205.75.25
+0 123 106 1813482 2 1306337587
+/
+82.145.211.18
+0 63 63 339904 1 1306871648
+/
+65.52.108.12
+0 2 2 1382664 1 1304260375
+/
+124.115.0.18
+0 48 48 623710 5 1305478471
+/
+65.52.108.13
+0 4 4 15574 2 1305871045
+/
+91-64-189-134-dynip.superkabel.de
+0 1 1 546 0 0
+-
+124.115.0.19
+0 20 20 215256 2 1305395398
+/
+65.52.108.14
+0 2 2 6576 1 1304666665
+/
+196.201.75.210
+0 2 2 1254855 1 1304714056
+/
+81.52.143.26
+0 14 14 59948 7 1306868071
+/
+cpe0026f3376000-cm0026f3375ffd.cpe.net.cable.rogers.com
+0 22 22 185269 0 0
+-
+88.209.86.100
+0 88 80 723012 1 1306830595
+/
+dotnetdotcom.org
+2 1 1 736469 1 1306083960
+/
+53.54.65-86.rev.gaoland.net
+0 4 4 36114 0 0
+-
+95.74.66.157
+0 50 44 345692 1 1305941163
+/
+95.8.187.252
+0 2 1 5454 1 1305298777
+/administrator/
+41.207.163.0
+0 57 57 196997 1 1305320521
+/
+142.217.216.226
+0 56 56 253505 1 1304711382
+/
+41.207.163.1
+0 55 55 260295 1 1304595708
+/
+41.207.163.3
+0 55 55 170498 1 1306500162
+/
+217.108.99.165
+0 55 55 211202 1 1305296461
+/
+41.202.197.217
+0 48 47 113826 1 1304789675
+/
+41.207.163.4
+0 51 47 243436 1 1306247802
+/
+41.207.163.6
+0 74 59 311865 1 1305748468
+/
+41.82.82.44
+0 57 57 288279 1 1304310776
+/
+206.47.36.50
+0 47 47 166555 1 1306247543
+/
+114.80.93.71
+0 21 21 301273 2 1304577157
+/
+z22-06.opera-mini.net
+0 3 3 22702 0 0
+-
+65.52.108.21
+0 7 7 30034 1 1304808636
+/
+196.201.87.250
+0 231 212 1301708 2 1305304806
+/
+207.46.204.161
+0 13 6 176611 1 1305926632
+/
+host-41-206-78-80.afnet.net
+0 51 51 203491 1 1306373023
+/
+83.200.123.173
+0 58 58 263991 1 1306169533
+/
+41.211.131.63
+0 56 56 202861 1 1305732162
+/
+41.208.171.4
+0 84 84 21313751 1 1305294480
+/
+78.250.133.205
+0 1 1 154000 1 1304605814
+/
+196.28.247.142
+0 2 2 35195 1 1306258052
+/
+41.221.180.53
+0 108 59 219638 1 1306307406
+/
+196.201.78.99
+0 2 2 20970 1 1304603340
+/
+217.33.111.66
+0 154 115 640352 1 1305115982
+/
+207.46.199.183
+0 1 1 582 0 0
+-
+207.46.199.189
+0 2 2 1164 0 0
+-
+msnbot-207-46-13-47.search.msn.com
+0 2 2 8844 1 1304776905
+/
+71.237.152.172
+0 1 1 7120 1 1304247183
+/
+207.46.204.177
+0 3 3 17485 2 1305110447
+/
+msnbot-207-46-13-87.search.msn.com
+0 1 1 9833 1 1305655038
+/
+41.203.234.31
+0 2 2 78116 1 1304685424
+/
+207.46.204.179
+0 1 1 7086 1 1306632863
+/
+208.115.111.73
+0 26 24 82028 9 1306814007
+/
+79.91.20.164
+0 51 44 357077 1 1304512877
+/
+msnbot-65-52-110-28.search.msn.com
+0 2 2 10548 1 1306752541
+/
+144.33-201-80.adsl-dyn.isp.belgacom.be
+0 25 25 238787 1 1306779517
+/
+msnbot-207-46-204-177.search.msn.com
+0 1 1 10351 1 1306463868
+/
+msnbot-65-52-110-68.search.msn.com
+0 2 2 19654 1 1305685976
+/
+207.46.199.191
+0 1 0 426 0 0
+-
+92.82.225.197
+0 38 36 366580 1 1305884484
+/
+bas10-montrealak-1128593785.dsl.bell.ca
+0 32 32 172637 0 0
+-
+71.225.205.77.rev.sfr.net
+0 26 22 423516 1 1306612774
+/
+msnbot-207-46-12-28.search.msn.com
+0 3 3 87784 1 1306796855
+/
+178.250.99.196
+0 212 159 857596 3 1306335200
+/
+82.120.68.37
+0 45 45 133132 1 1306781007
+/
+207.46.204.184
+0 8 8 35174 2 1304693258
+/
+41.74.0.12
+0 64 64 217295 1 1306856512
+/
+207.46.204.186
+0 5 5 26682 2 1306542370
+/
+207.46.204.187
+0 3 3 10266 1 1305110332
+/
+207.46.204.188
+0 2 2 1164 0 0
+-
+207.46.204.189
+0 3 3 18386 1 1304906349
+/
+msnbot-207-46-13-96.search.msn.com
+0 7 7 57167 2 1306624381
+/
+91.224.160.60
+0 69 69 629319 1 1306828831
+/
+84.97.227.82
+0 122 105 608189 1 1305126951
+/
+bbox.fr
+2 90 84 190010 2 1306859193
+/
+95.31.114.195
+0 1 1 74660 0 0
+-
+80.248.69.4
+0 64 64 266648 1 1305137162
+/
+207.46.204.190
+0 2 2 1164 0 0
+-
+65.52.108.58
+0 2 2 7880 1 1305985746
+/
+207.46.204.191
+0 4 4 16127 2 1306170988
+/
+65.52.108.59
+0 4 4 17636 1 1304709250
+/
+207.46.204.195
+0 3 3 9015 1 1305439229
+/
+92.154.104.181
+0 3 3 173064 1 1305405396
+/
+190.120.220.62
+0 14 14 342272 1 1305431094
+/
+207.46.204.196
+0 6 6 27269 3 1305452860
+/
+207.46.204.197
+0 4 4 20006 2 1306194438
+/
+212.52.154.149
+0 2 2 0 1 1305140115
+/
+41.203.224.15
+0 54 54 174330 1 1306243389
+/
+69.28.58.41
+0 14 14 53123 6 1306739435
+/
+69.28.58.43
+0 2 2 7589 1 1304804073
+/
+41.207.184.29
+0 65 65 301001 1 1306830873
+/
+65.52.108.60
+0 2 2 11182 1 1305867055
+/
+dynamic.casap2-95-27-137-41.wanamaroc.com
+0 35 35 147717 1 1306412064
+/
+195.24.209.20
+0 105 98 476197 1 1306835696
+/
+178.171.57.193
+0 1 1 7052 1 1304583430
+/
+115.112.231.102
+0 53 45 472530 1 1305130736
+/
+41.214.38.24
+0 12 12 79894 1 1306160945
+/
+119.147.6.60
+0 11 11 182033 1 1306143730
+/
+194.177.45.221
+0 44 44 162639 1 1304954125
+/
+mctnnbsa53w-142167118222.pppoe-dynamic.high-speed.nb.bellaliant.net
+0 2 2 10845 1 1304956553
+/
+msnbot-65-52-109-61.search.msn.com
+0 5 5 22524 2 1306446412
+/
+207.210.8.101
+0 3 3 1647 2 1305913927
+/
+46.163.73.176
+0 6 6 1179878 1 1305337764
+/
+host-41-206-73-78.afnet.net
+0 18 18 59918 1 1306507028
+/
+yahoo.net
+2 12 12 17790 3 1306726803
+/
+95.220.218.136
+0 8 8 23036 0 0
+-
+77.246.88.118
+0 21 21 99932 1 1306367562
+/
+196.201.90.176
+0 36 31 134008 1 1306437908
+/
+teamgab.sho-gabon.ga
+0 60 60 278579 1 1306237646
+/
+denys.com
+2 9 0 1945 0 0
+-
+213.255.200.102
+0 57 57 245033 1 1304937550
+/
+msnbot-207-46-13-43.search.msn.com
+0 3 3 11003 1 1306722640
+/
+74.125.152.80
+0 12 12 16980 1 1304604859
+/
+74.125.152.81
+0 6 6 17098 1 1304604853
+/
+74.125.152.82
+0 3 3 11224 1 1304658798
+/
+74.125.152.83
+0 6 6 49255 1 1304605441
+/
+41.207.25.13
+0 70 45 404204 1 1306836223
+/
+74.125.152.84
+0 3 3 10559 1 1304604968
+/
+74.125.152.85
+0 5 5 2691 0 0
+-
+41.204.64.24
+0 88 88 378371 1 1305289929
+/
+74.125.152.86
+0 4 4 19592 1 1304604921
+/
+74.125.152.87
+0 1 1 74641 0 0
+-
+196.28.247.194
+0 118 110 21236508 2 1306187053
+/
+196.12.152.12
+0 58 58 189340 1 1304512805
+/
+msnbot-65-52-110-24.search.msn.com
+0 3 3 1746 0 0
+-
+msnbot-207-46-13-132.search.msn.com
+0 3 3 15930 1 1304307843
+/
+53ob.scansafe.net
+0 52 47 261814 1 1306497562
+/
+41.217.152.71
+0 59 24 10520937 1 1304634447
+/
+58.61.164.40
+0 18 18 276814 3 1306881072
+/
+41.203.234.87
+0 11 11 199075 1 1306005794
+/
+128.91.253.18
+0 104 88 449996 1 1305663599
+/
+msnbot-207-46-13-52.search.msn.com
+0 2 2 14596 1 1306602902
+/
+90.47.113.169
+0 264 172 1040795 1 1304261465
+/
+87.240.234.1
+0 60 23 150705 2 1305912642
+/
+baiduspider-220-181-108-110.crawl.baidu.com
+0 1 1 1243 1 1306458495
+/
+41.203.233.241
+0 56 56 247834 1 1305628246
+/
+196.46.159.154
+0 55 55 279784 1 1304707524
+/
+69.67.34.99
+0 382 178 11228661 1 1305909057
+/
+66.249.85.67
+0 1 0 396 0 0
+-
+baidu.com
+2 16 16 95967 9 1306784667
+/
+41.216.55.19
+0 48 48 286424 1 1304604412
+/
+crawl-66-249-71-102.googlebot.com
+0 1 1 8849 1 1306424620
+/
+adsl-213-136-120-62.aviso.ci
+0 9 9 5939 0 0
+-
+194.199.111.254
+0 9 9 121412 1 1305128191
+/
+msnbot-207-46-13-141.search.msn.com
+0 2 2 18223 1 1306541327
+/
+114.143.121.132
+0 104 96 622002 1 1305321760
+/
+124.115.4.192
+0 20 20 289510 2 1305426129
+/
+78.173.53.95
+0 7 3 17467 1 1305986116
+/administrator/
+41.206.78.80
+0 4 4 5700 0 0
+-
+212.52.138.242
+0 2 2 19654 1 1305658172
+/
+41.107.89.76
+0 105 94 492444 1 1305248798
+/
+41.202.215.58
+0 123 106 721528 1 1304676731
+/
+host-41-206-84-30.afnet.net
+0 18 18 116821 1 1305119735
+/
+nat-dc5.es.bluecoat.com
+0 5 5 39920 1 1306331997
+/
+78.118.12.179
+0 57 57 92115 1 1305718240
+/
+41.202.92.114
+0 110 2 35962 2 1306513069
+/
+adsl-41.207.218.86.aviso.ci
+0 27 25 35838 0 0
+-
+crawl09.exabot.com
+0 6 6 53389 4 1306862536
+/
+msnbot-157-55-112-227.search.msn.com
+0 4 4 31432 0 0
+-
+82.245.97.153
+0 93 86 525160 1 1305259804
+/
+41.207.210.111
+0 59 55 223072 1 1305635743
+/
+41.73.112.243
+0 52 52 277196 1 1304270952
+/
+119.92.93.90.static.pldt.net
+0 31 28 129160 2 1305690036
+/
+254.93.119.80.rev.sfr.net
+0 52 51 163421 1 1306283339
+/
+88.161.77.128
+0 52 52 248045 1 1306183627
+/
+212.52.130.132
+0 57 57 271260 1 1304605081
+/
+207.46.12.203
+0 1 1 107836 1 1305275958
+/
+77-246-88-118.ppp.720.fr
+0 54 47 265610 1 1306367490
+/
+207.46.12.204
+0 9 9 112546 1 1305945848
+/
+207.46.12.205
+0 12 12 114494 1 1306014283
+/
+41.203.224.65
+0 37 37 181877 1 1306671238
+/
+41.203.236.47
+0 1 1 9743 1 1306607862
+/
+41.207.21.201
+0 9 2 18012 1 1306801796
+/
+crawl-66-249-71-25.googlebot.com
+0 1 1 3805718 1 1306733160
+/
+41.214.63.17
+0 34 34 185859 1 1306336312
+/
+hispeed.ch
+2 30 22 105136 0 0
+-
+78.250.216.246
+0 142 103 621396 1 1306774888
+/
+41.202.102.116
+0 6 2 10106 1 1306864823
+/
+41.202.77.225
+0 57 57 242205 1 1305113273
+/
+99.241.105.106
+0 27 27 64634 0 0
+-
+proxy.hres.de
+0 13 5 21356 1 1304347078
+/
+dbss1bcx02.chase.com
+0 7 7 52947 1 1305303753
+/
+207.46.194.33
+0 2 2 1092 0 0
+-
+msnbot-65-52-110-91.search.msn.com
+0 1 1 582 0 0
+-
+msnbot-207-46-199-55.search.msn.com
+0 2 2 1164 0 0
+-
+207.46.195.106
+0 2 2 11674 1 1304546657
+/
+207.46.195.107
+0 2 2 10415 1 1304694333
+/
+chase.com
+2 7 7 52947 1 1305303753
+/
+109.210.146.82
+0 1 1 5131715 1 1305894568
+/
+41.202.195.234
+0 63 63 275817 1 1304619278
+/
+85.168.241.4
+0 55 55 254689 1 1305719513
+/
+119.92.93.90
+0 121 74 326214 2 1305690230
+/
+41.202.92.138
+0 110 15 192591 1 1306801469
+/
+41.207.211.174
+0 22 22 44344 0 0
+-
+41.82.199.173
+0 111 104 718156 2 1304715261
+/
+41.207.211.175
+0 28 28 115483 1 1304617179
+/
+41.85.161.2
+0 57 57 172300 1 1305422373
+/
+41.138.121.217
+0 51 51 228509 1 1304558259
+/
+msnbot-207-46-204-230.search.msn.com
+0 3 3 10388857 1 1306715585
+/
+41.207.19.148
+0 2 1 7271 1 1306615076
+/
+mx1.irdes.fr
+0 11 11 41390 0 0
+-
+80.11.40.227
+0 26 23 362553 1 1306420073
+/
+74.53.9.123
+0 2 2 1994 1 1306239875
+/
+41.207.13.81
+0 228 176 1009503 2 1305909626
+/
+157.55.17.103
+0 6 6 32038 3 1306690416
+/
+157.55.17.104
+0 2 2 10415 1 1306658861
+/
+157.55.17.105
+0 2 2 10852 1 1305980599
+/
+41.216.55.52
+0 243 180 1214819 2 1304528006
+/
+80.119.93.254
+0 74 70 329944 1 1306284410
+/
+rny93-6-82-245-164-102.fbx.proxad.net
+0 3 3 20430 1 1305147043
+/
+baiduspider-220-181-108-154.crawl.baidu.com
+0 1 1 7076 1 1306784667
+/
+195.24.222.57
+0 51 51 162189 1 1306767163
+/
+150.70.64.195
+0 16 16 266172 8 1306781100
+/
+217.77.78.67
+0 2 2 22338 0 0
+-
+90.3.94.107
+0 55 55 302922 1 1306878591
+/
+195.24.209.92
+0 52 52 302875 1 1304605074
+/
+93.24.84.135
+0 31 31 139843 1 1306718635
+/
+195.221.123.215
+0 51 51 188090 1 1304807492
+/
+109.230.251.121
+0 2 2 745746 1 1306579272
+/
+207.46.12.236
+0 2 2 14224 1 1304303297
+/
+207.46.12.237
+0 1 1 12368 1 1304925707
+/
+207.46.12.238
+0 7 7 44360 4 1306372367
+/
+207.46.12.239
+0 3 3 21502 1 1306115483
+/
+41.189.54.26
+0 102 94 549206 2 1306546328
+/
+62.244.81.154
+0 32 0 4832 0 0
+-
+194.15.243.164
+0 8 3 17551 1 1304347078
+/
+static-208-80-194-31.as13448.com
+0 2 2 14104 1 1306730231
+/
+81.255.213.227
+0 11 11 77715 3 1305433647
+/
+208.115.111.249
+0 196 186 31360631 16 1306130462
+/
+217.77.68.34
+0 65 65 296213 1 1305746778
+/
+90.32.182.166
+0 113 110 587811 1 1306178490
+/
+188.143.233.163
+0 2 2 14104 1 1304510204
+/
+188.143.232.120
+0 1 1 7052 1 1304770436
+/
+207.46.12.240
+0 2 2 10465 1 1305621609
+/
+213.173.185.114
+0 71 66 374389 1 1306516893
+/
+com.br
+2 2 1 5454 1 1304303395
+/administrator/
+210.213.148.35.static.pldt.net
+0 5 3 59822 0 0
+-
+vodafone.it
+2 39 39 153158 1 1306272018
+/
+78.171.172.206
+0 5 2 11410 2 1304225345
+/administrator/
+66.249.72.225
+0 6 5 7615237 2 1305248166
+/
+82.123.251.7
+0 27 26 109432 1 1306262769
+/
+66.249.72.227
+0 1 1 9100 1 1305964357
+/
+81.255.213.236
+0 45 45 317925 20 1306824809
+/
+41.214.112.176
+0 64 64 345878 1 1306406626
+/
+81.255.213.239
+0 4 4 28260 2 1306042873
+/
+196.207.248.208
+0 55 55 179673 1 1305124178
+/
+41.202.124.135
+0 115 108 681461 1 1306789942
+/
+msnbot-207-46-12-118.search.msn.com
+0 4 4 152652 0 0
+-
+41.202.76.222
+0 115 58 496783 1 1306792912
+/
+207.46.13.40
+0 3 3 22022 2 1305909921
+/
+207.46.13.41
+0 3 3 14822 1 1304685138
+/
+41.189.55.201
+0 110 96 542975 1 1305868730
+/
+207.46.13.42
+0 1 1 8223 1 1306837081
+/
+91.84.183.134
+0 340 151 1054299 1 1306173943
+/
+207.46.13.43
+0 3 3 105894 2 1306722652
+/
+207.46.13.44
+0 2 2 7694 1 1305492773
+/
+217.113.66.233
+0 51 51 110880 1 1305619661
+/
+msnbot-207-46-195-227.search.msn.com
+0 4 4 30458 1 1306382431
+/
+89.19.100.88
+0 47 47 223458 1 1305297955
+/
+207.46.13.45
+0 11 11 5176991 4 1306810333
+/
+207.46.13.46
+0 1 1 9102 1 1305498877
+/
+as13448.com
+2 3 3 21156 2 1306730231
+/
+207.46.13.47
+0 10 10 49956 4 1306763161
+/
+207.46.13.48
+0 2 2 8442 1 1305431980
+/
+bea75-1-89-84-68-141.dsl.sta.abo.bbox.fr
+0 90 84 190010 2 1306859193
+/
+207.46.13.49
+0 3 3 15731 1 1306512850
+/
+99.252.80.80
+0 56 56 182343 1 1306014632
+/
+msnbot-207-46-199-51.search.msn.com
+0 1 0 451 1 1304374895
+/
+135.84.24.93.rev.sfr.net
+0 29 28 167663 1 1306718580
+/
+213.136.115.234
+0 65 65 260608 1 1305136573
+/
+66.249.72.236
+0 4 4 15336 1 1305291583
+/
+66.249.72.239
+0 2 2 1982026 1 1305653012
+/
+212.230.49.85
+0 134 126 944414 1 1306503133
+/
+213.136.120.62
+0 125 124 634676 2 1306168297
+/
+70.26.205.37
+0 32 32 132233 1 1304965741
+/
+207.46.13.50
+0 1 1 6942 1 1304329130
+/
+207.46.13.51
+0 5 5 30835 2 1305253318
+/
+67.137.238.164
+0 2 2 27483 2 1306328241
+/
+207.46.13.52
+0 2 2 1164 0 0
+-
+207.46.13.53
+0 9 9 58941 2 1306135005
+/
+host-196-201-87-250.afnet.net
+0 2 1 20434 0 0
+-
+213.180.201.221
+0 1 1 7035 1 1305709532
+/
+206.98.254.195
+0 124 116 782911 1 1304960301
+/
+207.46.194.87
+0 2 2 1092 0 0
+-
+212.52.141.49
+0 1 1 9827 1 1306260690
+/
+207.46.194.115
+0 1 1 546 0 0
+-
+207.46.194.118
+0 1 1 546 0 0
+-
+217.77.77.226
+0 111 111 449793 1 1306859170
+/
+msnbot-207-46-199-20.search.msn.com
+0 2 2 11645 1 1304969752
+/
+207.46.194.119
+0 1 1 546 0 0
+-
+66.249.72.241
+0 7 7 417273 3 1306044064
+/
+66.249.72.242
+0 3 3 30290 2 1306006111
+/
+41.138.120.221
+0 1 0 427 0 0
+-
+41.203.230.203
+0 47 47 143230 1 1306775787
+/
+41.203.229.172
+0 64 64 303635 1 1306860302
+/
+cpc1-croy14-0-0-cust92.croy.cable.virginmedia.com
+0 155 121 1024034 13 1306823883
+/
+41.205.84.228
+0 3 3 278751 1 1304621139
+/
+msnbot-207-46-12-237.search.msn.com
+0 1 1 582 0 0
+-
+41.208.134.3
+0 49 49 233227 0 0
+-
+196.28.254.119
+0 58 58 174231 1 1305139004
+/
+193.52.208.229
+0 144 106 732921 1 1306511192
+/
+63.118.206.4
+0 374 124 878278 1 1305664460
+/
+41.214.117.60
+0 103 102 485551 1 1306346068
+/
+86.65.124.6
+0 51 44 380453 1 1306842229
+/
+swiftkenya.com
+2 57 48 247218 1 1306318467
+/
+196.207.251.101
+0 41 41 170543 1 1304562525
+/
+196.207.241.158
+0 58 58 221987 1 1305913317
+/
+82.145.210.132
+0 62 62 312218 1 1306859311
+/
+89.85.133.13
+0 1 1 9827 1 1305679763
+/
+80.11.158.6
+0 28 28 143523 2 1304594396
+/
+41.206.85.1
+0 16 13 84965 1 1306360695
+/
+88.214.193.166
+0 2 2 14114 1 1304721555
+/
+64.246.165.10
+0 1 1 1066 1 1305338266
+/
+72.14.202.80
+0 5 5 10799 1 1304604919
+/
+72.14.202.81
+0 8 8 4343 0 0
+-
+72.14.202.82
+0 2 2 22465 2 1304658798
+/
+72.14.202.83
+0 1 1 25465 0 0
+-
+41.203.228.142
+0 59 57 204312 1 1306852358
+/
+72.14.202.85
+0 2 2 15592 1 1304604913
+/
+pfsense2.hez.sr-vm.net
+0 22 16 161230 1 1306206184
+/
+212.52.141.60
+0 1 1 9746 1 1306839894
+/
+41.203.227.100
+0 16 16 80150 0 0
+-
+72.14.202.86
+0 4 4 1478416 1 1304605707
+/
+82.145.209.5
+0 64 61 244093 1 1306861979
+/
+41.208.145.6
+0 1 1 7043 1 1304361741
+/
+80.9.207.249
+0 33 29 166118 1 1305650822
+/
+bellsouth.net
+2 122 87 551270 1 1306485100
+/
+188.143.232.166
+0 1 1 7052 1 1305944911
+/
+86.219.248.10
+0 2 2 19654 1 1304364406
+/
+41.137.27.95
+0 29 29 87511 1 1306411915
+/
+41.208.190.143
+0 3 3 3849 3 1304623280
+/
+196.28.243.140
+0 3 3 29481 2 1306877844
+/
+41.216.47.250
+0 1 1 2608292 1 1306232326
+/
+41.208.190.149
+0 9 9 11547 6 1304358765
+/
+207.46.13.84
+0 8 8 47842 3 1306094898
+/
+msnbot-65-52-110-49.search.msn.com
+0 1 1 7120 1 1306236047
+/
+124.115.6.17
+0 7 7 4074 0 0
+-
+41.214.20.218
+0 1 1 1239156 1 1306502463
+/
+207.46.13.87
+0 6 6 23090 2 1305721221
+/
+baiduspider-220-181-108-83.crawl.baidu.com
+0 1 1 7084 1 1304964480
+/
+207.46.13.88
+0 6 6 38866 3 1306026050
+/
+adsl-068-157-155-004.sip.asm.bellsouth.net
+0 122 87 551270 1 1306485100
+/
+baiduspider-220-181-108-87.crawl.baidu.com
+0 1 1 7262 1 1304974827
+/
+41.203.226.91
+0 62 59 244796 1 1306145272
+/
+ip51cf5e7a.direct-adsl.nl
+0 37 32 114699 1 1306381230
+/
+kenyare.swiftkenya.com
+0 57 48 247218 1 1306318467
+/
+129.64.198.115
+0 58 58 330925 1 1304535018
+/
+proxad.net
+2 42 42 190428 2 1306446273
+/
+81.64.131.205
+0 50 50 217967 1 1305153450
+/
+92.85.36.196
+0 37 34 423329 1 1306061929
+/
+86.67.128.103
+0 2 2 20200 1 1304524973
+/
+googlebot.com
+2 25 25 17077932 14 1306733160
+/
+82.245.164.102
+0 146 132 888238 1 1305147169
+/
+79.174.240.98
+0 2 2 185778 1 1305886456
+/
+207.46.13.90
+0 2 2 1164 0 0
+-
+41.203.239.150
+0 34 34 259097 1 1305713705
+/
+amazonaws.com
+2 2 2 7537 2 1304907012
+/
+41.207.29.173
+0 57 57 166601 1 1305857693
+/
+207.46.13.92
+0 3 3 16284 1 1306162719
+/
+207.46.13.94
+0 4 4 23890 1 1304601302
+/
+88.175.71.227
+0 82 82 409090 1 1305932807
+/
+207.46.13.95
+0 3 3 11171 1 1304811372
+/
+207.46.13.96
+0 2 2 1164 0 0
+-
+207.46.13.97
+0 4 4 11941 2 1306843527
+/
+207.46.13.98
+0 2 2 7702 1 1306511140
+/
+207.46.195.198
+0 1 1 110756 1 1304546639
+/
+64.15.156.152
+0 26 26 129719 6 1305941021
+/administrator/
+78.171.182.210
+0 5 2 11410 2 1305699460
+/administrator/
+msnbot-207-46-13-46.search.msn.com
+0 2 1 2637 1 1304361288
+/
+193.186.8.8
+0 28 28 49932 0 0
+-
+178.114.173.129
+0 118 110 868008 1 1305855822
+/
+720.fr
+2 54 47 265610 1 1306367490
+/
+ec2-184-72-181-149.compute-1.amazonaws.com
+0 1 1 7043 1 1304907012
+/
+78.250.125.67
+0 51 34 265094 1 1304908399
+/
+41.207.29.181
+0 52 52 171943 1 1304548685
+/
+41.138.89.38
+0 35 25 381084 2 1305682701
+/
+41.138.89.39
+0 45 40 192126 0 0
+-
+41.202.110.48
+0 42 36 193704 1 1305721169
+/
+msnbot-207-46-204-237.search.msn.com
+0 2 2 22132 1 1306414872
+/
+70.83.208.43
+0 46 46 252305 1 1304561434
+/
+msnbot-207-46-13-135.search.msn.com
+0 1 1 582 0 0
+-
+41.211.190.162
+0 111 69 323682 1 1305139979
+/
+msnbot-65-52-108-14.search.msn.com
+0 2 2 10933 1 1306323710
+/
+msnbot-207-46-195-241.search.msn.com
+0 2 2 14240 1 1304913684
+/
+80.11.12.102
+0 53 53 164335 1 1306852380
+/
+mazars.fr
+2 29 29 226795 1 1306758914
+/
+41.208.190.171
+0 7 7 8981 6 1304606913
+/
+namebay.com
+2 16 15 131808 0 0
+-
+124.115.0.158
+0 19 19 218542 2 1305451697
+/
+216.18.100.156
+0 1 1 7076 1 1305259415
+/
+msnbot-207-46-13-95.search.msn.com
+0 2 2 15720 1 1304954112
+/
+41.202.91.198
+0 122 28 257894 1 1304615895
+/
+81.207.94.122
+0 14 12 271915 0 0
+-
+41.202.100.15
+0 44 42 153089 1 1305756066
+/
+196.28.242.136
+0 68 66 286052 1 1306247800
+/
+41.202.122.8
+0 9 9 10534456 1 1306113003
+/
+68.157.155.4
+0 243 190 22163256 2 1306485110
+/
+41.202.66.3
+0 23 23 178429 1 1306759604
+/
+88.253.255.229
+0 3 2 10406 1 1305483363
+/administrator/
+41.207.16.126
+0 36 4 49928 1 1306362031
+/
+82.235.169.219
+0 2 2 185888 1 1304794335
+/
+41.207.187.227
+0 122 107 983634 1 1304365078
+/
+89.178.79.248
+0 2 2 14070 1 1306069150
+/
+msnbot-207-46-13-144.search.msn.com
+0 5 5 25513 2 1306247203
+/
+msnbot-65-52-110-76.search.msn.com
+0 1 1 10490 1 1306518332
+/
+static-6.146.98.14.tataidc.co.in
+0 8 8 73063 1 1306597456
+/
+24.225.8.9
+0 1 1 7076 1 1305689817
+/
+196.203.27.176
+0 40 40 181549 1 1306598111
+/
+217.128.194.157
+0 55 55 168526 1 1305449362
+/
+208.80.194.26
+0 2 2 14104 2 1305707786
+/
+174.129.117.237
+0 9 9 4446 8 1306803183
+/
+208.80.194.27
+0 1 1 7052 1 1304806388
+/
+208.80.194.29
+0 4 4 28208 3 1306568094
+/
+41.138.120.16
+0 53 51 277563 1 1304269042
+/
+32.139.138.240
+0 54 54 182234 1 1304477141
+/
+lcaen-156-54-42-6.w80-11.abo.wanadoo.fr
+0 42 42 231137 0 0
+-
+121.203.32.65
+0 17 17 73574 1 1304474071
+/
+msnbot-65-52-110-85.search.msn.com
+0 2 2 1164 0 0
+-
+88.173.218.71
+0 28 26 308156 1 1306693817
+/
+alyon-554-1-78-211.w92-145.abo.wanadoo.fr
+0 25 25 79767 1 1306508770
+/
+150.70.97.36
+0 53 53 581276 36 1305693508
+/
+208.80.194.34
+0 2 2 14104 1 1306103766
+/
+208.80.194.35
+0 1 1 7052 1 1305086911
+/
+157.55.112.225
+0 2 2 4024 0 0
+-
+157.55.112.227
+0 6 6 94292 1 1306300076
+/
+208.80.194.37
+0 5 5 35260 3 1305335461
+/
+pg.com
+2 82 72 284934 1 1306332057
+/
+msnbot-157-55-112-239.search.msn.com
+0 2 2 15425 0 0
+-
+217.21.119.97
+0 108 86 559689 1 1305675115
+/
+38.127.197.122
+0 4 4 30943 1 1306337302
+/
+38.127.197.124
+0 2 2 16829 1 1304494764
+/
+41.214.107.90
+0 81 74 473841 1 1304352231
+/
+211.254.252.220
+0 2 2 26064 1 1306622704
+/
+41.189.39.115
+0 43 14 97814 1 1305743641
+/
+150.70.97.43
+0 28 27 264493 22 1306636336
+/
+195.101.203.124
+0 121 121 779423 5 1305135736
+/
+41.203.228.86
+0 106 94 1562774 1 1305746842
+/
+sjdc-wtp-gb-maya9.sdi.trendnet.org
+0 1 1 9738 1 1305285147
+/
+74.125.16.66
+0 354 339 2342777 16 1306767155
+/
+157.55.112.230
+0 14 6 29633 1 1306189859
+/
+41.221.191.147
+0 120 94 594195 1 1306193556
+/
+150.70.75.27
+0 18 18 241145 5 1306781442
+/
+msnbot-207-46-13-42.search.msn.com
+0 4 4 32593 2 1306512852
+/
+157.55.112.234
+0 2 2 19610 1 1306211274
+/
+157.55.112.236
+0 10 10 48735 1 1305480674
+/
+157.55.112.239
+0 5 5 8824 0 0
+-
+41.214.64.230
+0 65 65 382398 1 1306716810
+/
+110.34.65.193
+0 2 2 122723 1 1304307498
+/
+92.154.117.78
+0 57 57 228971 1 1306086825
+/
+74.125.75.17
+0 10 10 16678 1 1306259748
+/
+66.235.124.4
+0 19 19 95368 8 1306837184
+/
+67.255.9.220
+0 58 58 188906 1 1304723332
+/
+msnbot-65-52-110-23.search.msn.com
+0 2 2 7702 1 1306253230
+/
+38.101.148.126
+0 12 11 8025 1 1304342513
+/
+scansafe.net
+2 52 47 261814 1 1306497562
+/
+cgocable.ca
+2 23 17 40195 0 0
+-
+88.190.13.201
+0 2 2 7611 1 1305271440
+/
+188.72.230.156
+0 4 4 15162 1 1305921577
+/
+150.70.75.34
+0 1 1 9743 1 1304482985
+/
+chereda.net
+2 10 10 6797 0 0
+-
+90.4.140.115
+0 1 1 13557 1 1304529034
+/
+64.246.165.140
+0 2 2 7630 1 1305132152
+/
+msnbot-207-46-13-91.search.msn.com
+0 3 3 8462 1 1306492334
+/
+41.206.73.78
+0 41 41 134210 0 0
+-
+86.65.54.53
+0 8 8 108372 1 1304344760
+/
+41.211.137.148
+0 94 86 492803 1 1306460337
+/
+41.203.226.144
+0 3 3 45174 1 1306081758
+/
+81.255.63.179
+0 341 227 1545549 4 1305925393
+/
+41.214.115.205
+0 2 2 35311 1 1304698878
+/
+41.223.208.147
+0 128 109 779796 1 1306419816
+/
+41.74.0.236
+0 1 1 12420 1 1304603130
+/
+msnbot-65-52-110-32.search.msn.com
+0 1 1 582 0 0
+-
+superkabel.de
+2 1 1 546 0 0
+-
+77.205.225.71
+0 23 20 78469 0 0
+-
+msnbot-207-46-13-140.search.msn.com
+0 1 1 7112 1 1306789219
+/
+msnbot-207-46-204-181.search.msn.com
+0 2 2 1164 0 0
+-
+host-41-206-85-1.afnet.net
+0 55 48 203598 1 1306360557
+/
+41.214.67.50
+0 21 21 258354 1 1304513538
+/
+mir.isped.u-bordeaux2.fr
+0 78 62 10916233 1 1306349252
+/
+217.170.147.113
+0 74 71 370343 1 1306407371
+/
+81.196.5.121
+0 1 0 357 1 1304517881
+/
+41.189.36.17
+0 39 39 192943 1 1306511669
+/
+207.46.204.205
+0 9 9 170816 1 1306011358
+/
+41.225.205.196
+0 1 1 10099241 1 1305907238
+/
+crawl-66-249-71-103.googlebot.com
+0 2 2 1164 0 0
+-
+196.12.206.158
+0 49 42 425897 1 1305740322
+/
+213.154.74.153
+0 46 0 6946 0 0
+-
+msnbot-65-52-104-36.search.msn.com
+0 6 6 165082 1 1306258402
+/
+2.138.222.170
+0 107 92 831156 2 1305731975
+/
+155.140.133.56
+0 102 101 672687 1 1306239173
+/
+msnbot-207-46-199-45.search.msn.com
+0 3 3 8284 1 1306364348
+/
+207.46.199.221
+0 1 1 546 0 0
+-
+62.231.141.195
+0 2 2 7589 1 1304503684
+/
+41.208.131.60
+0 1 1 10387693 1 1306531446
+/
+41.202.209.77
+0 60 58 203370 1 1305658030
+/
+213.136.112.232
+0 103 103 430983 3 1304704921
+/
+46.105.96.224
+0 2 2 14086 1 1305485637
+/
+simat.ci
+2 149 79 525154 1 1306263128
+/
+baiduspider-220-181-108-146.crawl.baidu.com
+0 2 2 14152 1 1306457657
+/
+41.202.117.231
+0 1 1 7084 1 1304343661
+/
+193.47.80.45
+0 17 17 90606 8 1306514623
+/
+209.85.226.81
+0 3 3 2735 0 0
+-
+78.170.219.137
+0 7 3 16864 2 1305131381
+/administrator/
+209.85.226.83
+0 1 1 74641 0 0
+-
+209.85.226.84
+0 9 6 32077 1 1306327662
+/
+2.36.89.176
+0 12 12 8070 0 0
+-
+crawl-66-249-72-236.googlebot.com
+0 2 2 14240 1 1305325588
+/
+209.85.226.85
+0 3 3 1246 0 0
+-
+209.85.226.86
+0 5 5 67253 2 1306141704
+/
+209.85.226.87
+0 1 1 443 0 0
+-
+213.154.94.5
+0 70 70 411546 1 1305286604
+/
+public-ip.mazars.fr
+0 29 29 226795 1 1306758914
+/
+spider07.yandex.ru
+0 11 8 10129026 4 1306525236
+/
+178.83.222.188
+0 171 109 11251056 1 1305150866
+/
+crawl8.dotnetdotcom.org
+0 1 1 736469 1 1306083960
+/
+msnbot-65-52-110-90.search.msn.com
+0 2 2 10829 1 1306586951
+/
+85.115.52.180
+0 263 216 1300361 1 1304677503
+/
+207.46.204.223
+0 6 6 91946 1 1306430798
+/
+124.115.1.7
+0 101 101 1356209 11 1306863427
+/
+124.115.1.8
+0 118 118 1391157 11 1306788601
+/
+207.46.204.227
+0 9 9 35745 3 1305872357
+/
+196.207.208.101
+0 54 54 169402 1 1306851552
+/
+207.46.204.229
+0 4 4 20824 2 1305411108
+/
+aputeaux-554-1-137-37.w82-120.abo.wanadoo.fr
+0 11 11 156309 0 0
+-
+82.247.72.102
+0 35 35 178236 1 1306853533
+/
+pt.lu
+2 2 0 602 0 0
+-
+195.24.222.219
+0 59 59 312250 2 1305130627
+/
+msnbot-207-46-195-239.search.msn.com
+0 1 1 9727 1 1304806912
+/
+74.125.114.80
+0 8 8 56504 0 0
+-
+74.125.114.81
+0 5 4 16340 0 0
+-
+74.125.114.82
+0 5 2 3538 0 0
+-
+41.214.69.20
+0 108 102 819771 1 1304789020
+/
+74.125.114.83
+0 4 4 137812 1 1306473627
+/
+74.125.114.84
+0 2 2 748 0 0
+-
+207.46.204.231
+0 8 8 51695 3 1305268022
+/
+74.125.114.85
+0 6 5 54711 0 0
+-
+207.46.204.232
+0 3 3 18780 1 1304276208
+/
+baiduspider-220-181-108-160.crawl.baidu.com
+0 1 1 7084 1 1306540123
+/
+74.125.114.86
+0 6 6 6225 0 0
+-
+207.46.204.233
+0 3 3 8240 1 1305333110
+/
+74.125.114.87
+0 5 5 41199 0 0
+-
+207.46.204.235
+0 1 1 9102 1 1304526430
+/
+207.46.204.236
+0 5 5 26057 2 1304309867
+/
+212.15.182.119
+0 58 58 247221 1 1306698484
+/
+207.46.204.237
+0 5 5 14065 1 1306696769
+/
+89.84.68.141
+0 98 96 302042 1 1306775022
+/
+207.46.204.238
+0 3 2 10488 2 1306001758
+/
+blk69204.cafe.tg
+0 7 7 59127 1 1305137178
+/
+196.28.251.5
+0 5 5 59045 1 1306839746
+/
+crawl-66-249-71-37.googlebot.com
+0 4 4 34942 2 1306573732
+/
+212.52.157.41
+0 57 57 152809 3 1305723622
+/
+41.203.224.102
+0 6 0 2894 1 1304378981
+/
+207.46.204.240
+0 2 2 10338 1 1305615850
+/
+64.246.165.190
+0 3 3 8176 1 1306181318
+/
+207.46.204.241
+0 1 1 582 0 0
+-
+207.46.204.244
+0 3 3 21733 2 1306564264
+/
+174.129.237.157
+0 9 7 35276 4 1305987816
+/
+143.28.232.22
+0 8 8 91048 1 1306331924
+/
+co.in
+2 8 8 73063 1 1306597456
+/
+41.203.225.153
+0 55 55 164178 1 1306195709
+/
+crawl-66-249-71-48.googlebot.com
+0 2 2 19654 1 1306285876
+/
+217.108.126.1
+0 22 13 171043 1 1305724371
+/
+wanadoo.fr
+2 284 236 1504217 5 1306806424
+/
+82.150.25.24
+0 169 107 677679 1 1306243818
+/
+188.40.46.56
+0 28 27 291971 1 1306206187
+/
+217.170.147.163
+0 3 0 1269 0 0
+-
+lmontsouris-156-25-48-133.w193-252.abo.wanadoo.fr
+0 86 70 439974 2 1306322631
+/
+41.202.112.91
+0 105 100 603004 1 1306516515
+/
+7b.9.354a.static.theplanet.com
+0 1 1 997 1 1306239876
+/
+78.171.183.6
+0 6 4 20812 1 1304505830
+/administrator/
+41.208.167.47
+0 57 57 255421 1 1305920486
+/
+afnet.net
+2 167 159 719439 4 1306507028
+/
+24-230-196-2.tr.cgocable.ca
+0 23 17 40195 0 0
+-
+172.29.157.0
+0 11 10 107806 1 1304514976
+/
+92.85.46.15
+0 38 36 378477 1 1306508322
+/
+196.200.90.175
+0 98 83 450173 1 1305722697
+/
+216.104.15.130
+0 7 7 52014 4 1306838303
+/
+82.227.97.84.rev.sfr.net
+0 2 2 5242 0 0
+-
+216.104.15.134
+0 2 2 18761 2 1306331512
+/
+pool-71-184-103-45.bstnma.fios.verizon.net
+0 51 51 141222 1 1306600927
+/
+213.150.232.3
+0 55 37 295992 1 1304536446
+/
+41.189.48.106
+0 42 18 197177 1 1306197542
+/
+z36-03.opera-mini.net
+0 6 6 3662 0 0
+-
+msn.com
+2 214 211 12230303 58 1306796855
+/
+216.104.15.138
+0 7 7 133118 3 1305721554
+/
+msnbot-207-46-199-50.search.msn.com
+0 1 1 582 0 0
+-
+41.203.225.170
+0 57 57 192594 1 1306429310
+/
+41.216.40.42
+0 94 86 513036 1 1304604632
+/
+206.82.130.170
+0 2 2 54715 1 1304963272
+/
+41.202.94.224
+0 57 18 96120 1 1306256587
+/
+89.123.9.171
+0 38 35 347702 1 1306184908
+/
+41.203.236.165
+0 49 49 151093 1 1306390759
+/
+41.202.116.245
+0 19 11 103620 1 1306524409
+/
+66.249.72.36
+0 1 1 7120 1 1304764818
+/
+msnbot-207-46-194-39.search.msn.com
+0 1 1 546 0 0
+-
+216.104.15.142
+0 2 2 19486 1 1304723963
+/
+210.97.192.200
+0 1 1 13032 1 1306631608
+/
+msnbot-207-46-13-49.search.msn.com
+0 6 6 41439 2 1306746618
+/
+41.211.147.170
+0 61 44 1372262 1 1305630132
+/
+41.202.114.56
+0 55 55 198782 1 1305683627
+/
+196.28.247.18
+0 8 8 45529 1 1306774885
+/
+66.249.72.40
+0 2 2 1164 0 0
+-
+66.249.72.41
+0 1 1 9927 1 1304653056
+/
+209.85.228.80
+0 2 2 10105 1 1305895606
+/
+196.201.79.50
+0 78 35 166327 1 1306263091
+/
+209.85.228.81
+0 2 2 9012 1 1304693154
+/
+209.85.228.82
+0 2 2 8233 1 1304962417
+/
+209.85.228.83
+0 1 1 465 0 0
+-
+209.85.228.84
+0 1 1 9047 1 1305895707
+/
+209.85.228.85
+0 1 1 1575 0 0
+-
+209.85.228.86
+0 3 3 18203 2 1306331674
+/
+209.85.228.87
+0 2 2 8468 1 1305675265
+/
+174.133.224.194
+0 2 2 19370 1 1304618038
+/
+150.70.64.201
+0 4 4 98647 2 1305885377
+/
+150.70.64.202
+0 1 1 9743 1 1304727795
+/
+90.84.146.233
+0 2 2 19654 1 1306342081
+/
+150.70.172.109
+0 25 25 6922490 8 1306502659
+/
+ip-87-240-234-1.dyn.luxdsl.pt.lu
+0 2 0 602 0 0
+-
+195.212.29.75
+0 2 2 10263430 1 1304945339
+/
+41.207.162.253
+0 107 107 528570 2 1305123697
+/
+41.207.162.254
+0 38 33 301570 1 1304330954
+/
+194.78.210.102
+0 302 149 957927 1 1306172187
+/
+41.211.188.58
+0 53 53 205131 1 1306841286
+/
+smtp2.namebay.com
+0 16 15 131808 0 0
+-
+66.249.72.57
+0 2 2 14240 1 1304578781
+/
+71.184.103.45
+0 35 35 229824 1 1306600948
+/
+66.249.72.59
+0 2 2 13884 1 1304488266
+/
+lst-amand-152-33-19-230.w193-253.abo.wanadoo.fr
+0 23 23 117767 1 1306394166
+/
+208-115-111-73-reverse.wowrack.com
+0 8 8 36906 4 1306468876
+/
+msnbot-65-52-110-79.search.msn.com
+0 1 1 582 0 0
+-
+host-200-185-230-24.midco.net
+0 3 3 2821 1 1306739291
+/
+41.141.195.250
+0 55 55 171006 1 1306358457
+/
+81.252.85.87
+0 303 172 2392190 1 1305913879
+/
+crawl-66-249-72-84.googlebot.com
+0 2 2 14240 1 1304924714
+/
+crawl-66-249-71-74.googlebot.com
+0 2 2 18134 1 1306298892
+/
+92.103.156.42
+0 85 71 376936 1 1304590802
+/
+109.230.217.147
+0 1 1 7035 1 1305130590
+/
+41.158.11.164
+0 112 103 613537 1 1306508548
+/
+58.61.164.139
+0 46 46 538421 4 1306840123
+/
+irdes.fr
+2 11 11 41390 0 0
+-
+190.12.23.9
+0 1 1 7076 1 1304468352
+/
+crawl-66-249-71-118.googlebot.com
+0 1 1 582 0 0
+-
+220.181.108.111
+0 1 1 7076 1 1305911265
+/
+220.181.108.112
+0 2 2 2124 1 1304559637
+/
+41.208.145.72
+0 75 66 561639 1 1306335485
+/
+220.181.108.114
+0 2 2 15630 1 1305369757
+/
+220.181.108.115
+0 1 1 7084 1 1305327428
+/
+220.181.108.117
+0 3 3 21396 3 1306028439
+/
+220.181.108.118
+0 1 1 7076 1 1304557104
+/
+220.181.108.119
+0 2 2 8327 2 1306184417
+/
+92.148.193.212
+0 68 68 339443 1 1304210490
+/
+58.61.164.140
+0 13 13 138442 2 1306412386
+/
+66.249.72.74
+0 1 1 582 0 0
+-
+66.249.72.75
+0 1 0 2055 1 1304754458
+/
+msnbot-207-46-204-227.search.msn.com
+0 2 2 8442 1 1306724128
+/
+pg-bru-px1.pg.com
+0 82 72 284934 1 1306332057
+/
+41.208.145.130
+0 51 42 415112 1 1304708065
+/
+81.91.231.254
+0 852 633 7143414 4 1306281937
+/
+41.189.49.198
+0 104 2 33096 1 1306434755
+/
+msnbot-207-46-12-122.search.msn.com
+0 5 5 88981 1 1306200503
+/
+aaubervilliers-552-1-87-107.w90-3.abo.wanadoo.fr
+0 1 1 1220 0 0
+-
+188.127.231.172
+0 1 1 546 0 0
+-
+220.181.108.123
+0 1 1 7246 1 1304667823
+/
+155.140.133.248
+0 59 55 2668618 2 1306783698
+/
+91.64.189.134
+0 2 2 14130 1 1306572740
+/
+81.91.228.4
+0 68 68 232776 1 1306352030
+/
+196.28.247.51
+0 99 88 615190 1 1304625705
+/
+65.52.110.13
+0 1 0 2055 1 1304709653
+/
+65.52.110.14
+0 4 4 23926 3 1306159455
+/
+65.52.110.15
+0 6 6 49376 3 1305753729
+/
+46.70.44.181
+0 58 58 169941 1 1306067636
+/
+66.249.72.80
+0 2 2 97330 1 1306009255
+/
+65.52.110.17
+0 5 5 22629 2 1306657999
+/
+65.52.110.18
+0 7 7 33695 2 1306106318
+/
+66.249.72.82
+0 2 2 5138835 2 1306027111
+/
+65.52.110.19
+0 3 3 11788 1 1304538472
+/
+41.202.71.11
+0 62 62 342686 1 1306482930
+/
+66.249.72.84
+0 1 1 9099 1 1304908578
+/
+213.188.28.84
+0 1 1 7043 1 1306269199
+/
+msnbot-207-46-204-236.search.msn.com
+0 1 1 582 0 0
+-
+213.154.93.122
+0 53 53 290535 1 1305745165
+/
+trendnet.org
+2 27 25 157823 8 1306472987
+/
+170.148.215.157
+0 200 132 1001508 1 1305303911
+/
+65.52.110.20
+0 5 5 12387832 2 1306104932
+/
+65.52.110.21
+0 1 1 582 0 0
+-
+41.207.22.90
+0 4 4 12563292 1 1306714999
+/
+220.181.108.139
+0 1 1 1012 0 0
+-
+65.52.110.22
+0 3 3 14806 1 1305125038
+/
+65.52.110.23
+0 2 1 7724 1 1304709019
+/
+msnbot-207-46-13-54.search.msn.com
+0 1 1 9102 1 1306334620
+/
+65.52.110.24
+0 3 3 15553 2 1306758778
+/
+aviso.ci
+2 94 92 304220 2 1306511681
+/
+65.52.110.26
+0 2 2 10387 1 1304633803
+/
+65.52.110.27
+0 5 5 21308 2 1305922158
+/
+65.52.110.28
+0 1 1 7086 1 1304504449
+/
+196.207.227.71
+0 17 17 141727 1 1304478573
+/
+41.203.224.192
+0 9 9 124392 1 1305897060
+/
+65.52.110.29
+0 4 4 45672 2 1306768850
+/
+41.206.79.27
+0 74 74 393082 1 1305458399
+/
+ipsys.bf
+2 1 1 9822 1 1306785543
+/
+200.59.196.69
+0 1 1 11508 1 1305689647
+/
+host-196-201-90-176.afnet.net
+0 23 23 115177 0 0
+-
+217.77.75.94
+0 124 111 542322 1 1305649156
+/
+220.181.108.140
+0 1 1 7815 1 1306028430
+/
+hres.de
+2 13 5 21356 1 1304347078
+/
+220.181.108.142
+0 1 1 7076 1 1306110625
+/
+bellaliant.net
+2 4 4 13523 1 1304956553
+/
+65.52.110.30
+0 5 3 12388 2 1305442250
+/
+220.181.108.147
+0 2 2 3188 0 0
+-
+65.52.110.31
+0 1 1 7851 1 1304929055
+/
+220.181.108.149
+0 2 2 8258 1 1306758878
+/
+65.52.110.32
+0 5 5 28994 2 1306381550
+/
+209.191.87.215
+0 3 3 29229 1 1304286249
+/
+65.52.110.33
+0 3 3 8276 1 1305257587
+/
+41.208.159.24
+0 94 86 456811 1 1305415483
+/
+65.52.110.34
+0 4 4 17181 2 1306125808
+/
+209.191.87.218
+0 2 2 19486 1 1304494408
+/
+65.52.110.35
+0 6 6 25111 2 1305893808
+/
+65.52.110.36
+0 4 4 16866 1 1304788674
+/
+65.52.110.37
+0 5 5 28298 2 1306768862
+/
+220.181.94.237
+0 16 13 59595 6 1306878716
+/
+65.52.110.38
+0 5 5 40464 3 1306777787
+/
+65.52.110.39
+0 3 3 21782 2 1305757062
+/
+41.203.235.195
+0 2 2 19544 1 1306166473
+/
+41.208.134.171
+0 57 57 237546 1 1305888506
+/
+bluecoat.com
+2 5 5 39920 1 1306331997
+/
+exabot.com
+2 6 6 53389 4 1306862536
+/
+www.whois.sc
+0 3 3 3198 2 1306401165
+/
+81.91.230.241
+0 5 5 277400 1 1306857121
+/
+41.223.31.245
+0 72 72 334953 1 1304526412
+/
+122.55.110.78
+0 63 63 339280 1 1304658795
+/
+220.181.108.150
+0 2 2 20597 2 1306629979
+/
+msnbot-65-52-110-44.search.msn.com
+0 2 2 15702 1 1306344677
+/
+220.181.108.151
+0 3 3 23536 2 1306687962
+/
+170.148.198.156
+0 1 1 61852 1 1305303790
+/
+220.181.108.152
+0 1 1 7084 1 1304641749
+/
+85.27.131.130
+0 115 100 506390 1 1305130603
+/
+ocit-41.202.66.3.orange-cit.ci
+0 33 33 79250 0 0
+-
+220.181.108.155
+0 2 2 8146 2 1306457693
+/
+65.52.109.59
+0 5 5 22422 2 1306067891
+/
+msnbot-65-52-110-84.search.msn.com
+0 2 2 7702 1 1305631109
+/
+220.181.108.157
+0 1 1 9022 1 1305712281
+/
+207.46.13.100
+0 4 4 22720 2 1304667622
+/
+65.52.110.40
+0 2 2 15702 1 1305393083
+/
+65.52.110.41
+0 1 1 582 0 0
+-
+207.46.13.101
+0 3 3 17106 1 1304795981
+/
+220.181.108.159
+0 1 1 7076 1 1305752822
+/
+65.52.110.44
+0 6 6 2783578 2 1305737361
+/
+41.158.11.52
+0 54 54 374983 1 1304807419
+/
+65.52.110.45
+0 2 2 8844 1 1305488020
+/
+65.52.110.47
+0 9 9 51648 3 1306832010
+/
+65.52.110.48
+0 5 4 16577 3 1306635828
+/
+65.52.110.49
+0 5 4 11649 1 1306100029
+/
+crawl-66-249-71-45.googlebot.com
+0 1 1 9791 1 1306389861
+/
+total.bf
+2 2 2 19486 1 1306343142
+/
+217.9.192.99
+0 77 48 486592 1 1306517637
+/
+65.52.109.60
+0 3 3 16804 2 1304650999
+/
+msnbot-207-46-204-223.search.msn.com
+0 4 4 19091 0 0
+-
+msnbot-65-52-110-13.search.msn.com
+0 3 3 8250 1 1304300588
+/
+80.201.33.144
+0 30 30 19301 0 0
+-
+220.181.108.162
+0 1 1 7084 1 1306028426
+/
+194.119.85.99
+0 2 2 19654 1 1304942085
+/
+65.52.110.50
+0 4 4 21320 1 1305957990
+/
+65.52.110.51
+0 1 1 8262 1 1304469170
+/
+207.46.12.17
+0 1 1 106580 1 1305932268
+/
+65.52.110.52
+0 8 8 35775 3 1306786319
+/
+65.52.110.53
+0 3 3 8442 1 1304688506
+/
+65.52.110.56
+0 3 3 14806 1 1305631923
+/
+80.254.146.84
+0 66 57 2386697 2 1306498686
+/
+41.189.57.110
+0 1 1 738820 1 1304774570
+/
+41.189.35.133
+0 136 15 220955 1 1306245809
+/
+msnbot-207-46-204-232.search.msn.com
+0 3 3 23350 1 1306406735
+/
+41.214.35.159
+0 71 70 412557 1 1306259951
+/
+14.98.146.6
+0 49 49 108120 1 1306597453
+/
+77.103.204.93
+0 922 791 6054822 21 1306823884
+/
+207.46.12.26
+0 11 11 186063 1 1304636864
+/
+theplanet.com
+2 1 1 997 1 1306239876
+/
+207.46.12.28
+0 8 8 38368 0 0
+-
+u-bordeaux2.fr
+2 78 62 10916233 1 1306349252
+/
+65.52.110.64
+0 6 6 10403645 3 1306864419
+/
+207.46.195.215
+0 7 7 21280 1 1304627624
+/
+65.52.110.65
+0 6 6 31042 2 1305599237
+/
+65.52.110.66
+0 2 2 8433 1 1305077632
+/
+41.251.111.251
+0 95 88 493679 1 1305158382
+/
+65.52.110.67
+0 2 2 14172 1 1305454492
+/
+65.52.110.68
+0 2 2 1164 0 0
+-
+65.52.110.69
+0 3 3 11039 1 1304530742
+/
+94.142.128.140
+0 1 1 7052 1 1306126019
+/
+msnbot-207-46-13-90.search.msn.com
+0 1 0 2055 1 1306455305
+/
+msnbot-157-55-112-216.search.msn.com
+0 6 6 97392 1 1304361628
+/
+82.168.229.113
+0 2 0 846 0 0
+-
+79.83.79.247
+0 107 96 745433 1 1305993001
+/
+171.18.2.101
+0 239 229 1292026 3 1306261613
+/
+msnbot-65-52-110-31.search.msn.com
+0 1 1 582 0 0
+-
+171.18.2.109
+0 197 182 2018459 2 1306864961
+/
+207.46.195.223
+0 5 5 21924 1 1306859175
+/
+207.46.13.132
+0 7 7 45009 3 1305476741
+/
+65.52.110.72
+0 7 7 41432 3 1306062758
+/
+207.46.195.224
+0 5 5 22147 2 1304290320
+/
+194.199.4.203
+0 33 33 111432 1 1304770611
+/
+65.52.110.73
+0 1 1 7298 1 1305591963
+/
+207.46.13.134
+0 4 3 10287 2 1306107409
+/
+207.46.195.225
+0 5 5 30439 3 1304982822
+/
+65.52.110.74
+0 4 4 15336 1 1304734038
+/
+65.52.110.75
+0 2 2 11072 1 1306011290
+/
+207.46.195.226
+0 3 3 11411 1 1304488745
+/
+207.46.13.135
+0 3 3 29226 2 1306473358
+/
+72.14.194.49
+0 46 46 92138 1 1306349719
+/
+207.46.13.136
+0 2 2 8844 1 1306120790
+/
+65.52.110.76
+0 3 3 18172 2 1305853107
+/
+207.46.195.227
+0 3 3 19608 2 1306382429
+/
+207.46.13.138
+0 2 2 20775386 1 1306137918
+/
+207.46.195.229
+0 2 2 7702 1 1304471547
+/
+207.46.13.139
+0 4 4 20793632 2 1306787850
+/
+completel.net
+2 10 10 5886 0 0
+-
+65.52.110.79
+0 6 6 38388 3 1306685057
+/
+196.207.212.3
+0 4 4 5132 4 1304646054
+/
+net.ma
+2 13 13 40881 0 0
+-
+41.203.237.26
+0 44 42 239630 1 1306347753
+/
+81.249.85.14
+0 440 134 733242 2 1306809362
+/
+78.171.151.119
+0 8 5 26589 2 1306231724
+/administrator/
+mctnnbsa53w-142167117051.pppoe-dynamic.high-speed.nb.bellaliant.net
+0 2 2 2678 0 0
+-
+wowrack.com
+2 8 8 36906 4 1306468876
+/
+196.207.212.9
+0 4 3 4270 2 1304292261
+/
+baiduspider-220-181-108-149.crawl.baidu.com
+0 1 1 7084 1 1304964522
+/
+sydfynsnet.dk
+2 14 14 109801 0 0
+-
+msnbot-157-55-112-225.search.msn.com
+0 9 9 109946 1 1306245813
+/
+aqu33-5-82-245-97-153.fbx.proxad.net
+0 1 1 4488 0 0
+-
+41.203.79.249
+0 53 51 198135 1 1306862118
+/
+193.252.203.133
+0 36 33 238936 2 1306320468
+/
+89.226.224.104
+0 133 117 775206 1 1304282041
+/
+65.52.110.80
+0 3 3 10904 1 1304502769
+/
+207.46.13.140
+0 3 3 8250 1 1304470825
+/
+207.46.195.231
+0 2 2 7702 1 1304271044
+/
+207.46.13.141
+0 5 4 10921 2 1305972679
+/
+65.52.110.81
+0 2 2 7694 1 1306078243
+/
+207.46.13.142
+0 2 2 10569 1 1305751751
+/
+65.52.110.82
+0 5 5 24529 2 1305416109
+/
+207.46.195.233
+0 5 3 15744 2 1306348727
+/
+207.46.13.143
+0 4 4 24678 2 1305640217
+/
+65.52.110.83
+0 6 5 18038 2 1305859105
+/
+207.46.195.234
+0 3 2 3219 1 1306798740
+/
+65.52.110.84
+0 3 3 18786 1 1306393613
+/
+207.46.195.236
+0 5 5 19263 2 1305717556
+/
+65.52.110.85
+0 5 4 28245 3 1306203397
+/
+207.46.13.145
+0 7 5 25457 1 1306094604
+/
+stargate.ipsys.bf
+0 1 1 9822 1 1306785543
+/
+207.46.13.146
+0 3 3 30566 3 1306600899
+/
+207.46.195.237
+0 2 2 15707 2 1306164487
+/
+msnbot-207-46-199-44.search.msn.com
+0 1 1 9875 1 1304807240
+/
+msnbot-65-52-110-80.search.msn.com
+0 1 1 7112 1 1306556730
+/
+65.52.110.88
+0 8 6 35608 3 1306516481
+/
+207.46.195.239
+0 4 4 10264594 1 1305326900
+/
+65.52.110.89
+0 4 4 32497 2 1305658068
+/
+207.46.12.106
+0 12 12 195704 1 1305601843
+/
+82.231.206.50
+0 30 30 39793 0 0
+-
+207.46.12.109
+0 8 8 110015 1 1304240833
+/
+207.179.188.2
+0 52 52 185763 0 0
+-
+atuileries-151-1-43-7.w82-123.abo.wanadoo.fr
+0 21 21 38665 0 0
+-
+41.92.155.252
+0 59 59 336788 1 1304256325
+/
+sfr.net
+2 109 103 759842 3 1306718580
+/
+209.120.218.204
+0 4 4 36350 1 1304620295
+/
+msnbot-157-55-112-234.search.msn.com
+0 11 11 110021 0 0
+-
+crawl-66-249-71-104.googlebot.com
+0 1 1 9982 1 1306576745
+/
+41.189.56.105
+0 48 43 369606 2 1306466931
+/
+207.46.195.240
+0 3 3 18786 1 1305710387
+/
+207.46.195.241
+0 3 2 3201 1 1305958011
+/
+65.52.110.91
+0 4 2 11008 2 1304801289
+/
+65.52.110.92
+0 1 1 582 0 0
+-
+65.52.110.93
+0 3 2 15002 2 1306155947
+/
+41.66.8.174
+0 58 56 270178 1 1304519862
+/
+207.46.12.116
+0 14 14 56290 1 1305281405
+/
+207.46.12.118
+0 11 11 211889 2 1305748993
+/
+41.203.225.67
+0 79 73 592498 1 1305684524
+/
+95.108.240.252
+0 70 61 17399787 37 1306879556
+/
+41.202.91.236
+0 65 8 93297 1 1304706393
+/
+virginmedia.com
+2 155 121 1024034 13 1306823883
+/
+213.154.70.180
+0 50 50 184963 1 1304955212
+/
+41.189.34.136
+0 60 4 53874 1 1306472600
+/
+194.167.116.11
+0 42 37 278561 1 1306349259
+/
+msnbot-207-46-199-244.search.msn.com
+0 1 1 546 0 0
+-
+notes1.fcpa.acadie.com
+0 1 1 9706 1 1304970760
+/
+157.55.17.78
+0 22 22 239673 2 1305396755
+/
+157.55.17.79
+0 9 9 107351 1 1305922101
+/
+207.46.12.69
+0 1 1 114436 1 1306140802
+/
+77.206.218.202
+0 74 74 440089 1 1304696767
+/
+207.46.12.122
+0 5 5 35969 0 0
+-
+18741253212.user.veloxzone.com.br
+0 2 1 5454 1 1304303395
+/administrator/
+213.174.115.3
+0 55 55 179837 1 1305709166
+/
+85.26.39.121
+0 129 122 792612 1 1306629331
+/
+75.125.249.66
+0 3 3 21171 1 1304705591
+/
+mail.simat.ci
+0 149 79 525154 1 1306263128
+/
+41.208.190.223
+0 7 7 8981 3 1304344342
+/
+wanamaroc.com
+2 35 35 147717 1 1306412064
+/
+89.123.40.114
+0 37 35 369613 1 1305761937
+/
+41.222.192.84
+0 50 50 199490 1 1304529583
+/
+crawl-66-249-71-27.googlebot.com
+0 1 1 738820 1 1306638414
+/
+msnbot-207-46-12-239.search.msn.com
+0 2 2 7694 1 1306328893
+/
+rogers.com
+2 22 22 185269 0 0
+-
+157.55.17.84
+0 6 6 105073 1 1305928412
+/
+157.55.17.86
+0 2 2 123866 1 1305103210
+/
+157.55.17.87
+0 1 1 107836 1 1304276005
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.71.118
+0 1 1 582 0 0
+-
+41.138.33.162
+0 82 82 507005 1 1306844053
+/
+aputeaux-651-1-62-14.w81-249.abo.wanadoo.fr
+0 50 23 315297 1 1306806424
+/
+41.202.77.41
+0 4 4 31601 1 1306835659
+/
+207.46.199.51
+0 1 1 7120 1 1306829038
+/
+207.46.199.53
+0 3 3 8284 1 1306836992
+/
+207.46.199.54
+0 2 2 11201 1 1306869687
+/
+41.202.90.43
+0 2 2 141124 1 1306884903
+/
+crj95-6-82-247-72-102.fbx.proxad.net
+0 15 15 13608 0 0
+-
+196.28.244.77
+0 61 61 315537 1 1306845147
+/
+66.249.71.45
+0 3 3 26730 2 1306867754
+/
+210.213.148.35
+0 46 40 399839 1 1306831313
+/
+82.145.211.18
+0 63 63 339904 1 1306871648
+/
+81.52.143.26
+0 3 3 8176 1 1306868071
+/
+88.209.86.100
+0 88 80 723012 1 1306830595
+/
+z22-06.opera-mini.net
+0 3 3 22702 0 0
+-
+208.115.111.73
+0 3 3 8119 1 1306814007
+/
+41.74.0.12
+0 64 64 217295 1 1306856512
+/
+91.224.160.60
+0 69 69 629319 1 1306828831
+/
+41.207.184.29
+0 65 65 301001 1 1306830873
+/
+195.24.209.20
+0 105 98 476197 1 1306835696
+/
+41.207.25.13
+0 70 45 404204 1 1306836223
+/
+58.61.164.40
+0 5 5 160178 1 1306881072
+/
+crawl09.exabot.com
+0 2 2 11919 1 1306862536
+/
+41.207.21.201
+0 9 2 18012 1 1306801796
+/
+41.202.102.116
+0 6 2 10106 1 1306864823
+/
+41.202.92.138
+0 110 15 192591 1 1306801469
+/
+90.3.94.107
+0 55 55 302922 1 1306878591
+/
+210.213.148.35.static.pldt.net
+0 5 3 59822 0 0
+-
+81.255.213.236
+0 2 2 14130 1 1306824809
+/
+207.46.13.42
+0 1 1 8223 1 1306837081
+/
+207.46.13.45
+0 2 2 5132297 1 1306810333
+/
+bea75-1-89-84-68-141.dsl.sta.abo.bbox.fr
+0 17 17 44707 1 1306859193
+/
+217.77.77.226
+0 111 111 449793 1 1306859170
+/
+41.203.229.172
+0 64 64 303635 1 1306860302
+/
+cpc1-croy14-0-0-cust92.croy.cable.virginmedia.com
+0 2 1 11461 1 1306823883
+/
+86.65.124.6
+0 51 44 380453 1 1306842229
+/
+82.145.210.132
+0 62 62 312218 1 1306859311
+/
+41.203.228.142
+0 59 57 204312 1 1306852358
+/
+212.52.141.60
+0 1 1 9746 1 1306839894
+/
+82.145.209.5
+0 64 61 244093 1 1306861979
+/
+196.28.243.140
+0 1 1 9827 1 1306877844
+/
+207.46.13.97
+0 2 2 869 1 1306843527
+/
+80.11.12.102
+0 53 53 164335 1 1306852380
+/
+174.129.117.237
+0 1 1 494 1 1306803183
+/
+66.235.124.4
+0 3 3 14714 1 1306837184
+/
+124.115.1.7
+0 1 1 7120 1 1306863427
+/
+196.207.208.101
+0 54 54 169402 1 1306851552
+/
+82.247.72.102
+0 35 35 178236 1 1306853533
+/
+89.84.68.141
+0 38 38 127850 0 0
+-
+196.28.251.5
+0 5 5 59045 1 1306839746
+/
+216.104.15.130
+0 1 1 9738 1 1306838303
+/
+z36-03.opera-mini.net
+0 6 6 3662 0 0
+-
+41.211.188.58
+0 53 53 205131 1 1306841286
+/
+smtp2.namebay.com
+0 16 15 131808 0 0
+-
+58.61.164.139
+0 11 11 183221 1 1306840123
+/
+aaubervilliers-552-1-87-107.w90-3.abo.wanadoo.fr
+0 1 1 1220 0 0
+-
+65.52.110.33
+0 1 1 582 0 0
+-
+220.181.94.237
+0 2 1 7180 1 1306878716
+/
+81.91.230.241
+0 5 5 277400 1 1306857121
+/
+65.52.110.47
+0 3 3 20546 1 1306832010
+/
+77.103.204.93
+0 30 22 199991 1 1306823884
+/
+65.52.110.64
+0 2 2 10388275 1 1306864419
+/
+171.18.2.109
+0 102 96 1788520 1 1306864961
+/
+207.46.195.223
+0 4 4 21342 1 1306859175
+/
+81.249.85.14
+0 440 134 733242 2 1306809362
+/
+41.203.79.249
+0 53 51 198135 1 1306862118
+/
+95.108.240.252
+0 5 5 2423858 3 1306879556
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.burkinapmepmi.com/raynalsa.swf
+0 106
+http://www.sunu-group.com/index.php/le-reseau/niger/ugan-vie
+1 222
+http://www.google.ne/search
+0 2
+http://www.sunu-group.com/robots.txt
+1 8
+http://www.google.ga/url
+0 3
+http://www.sunu-group.com/index.php/le-reseau/cameroun/uacam-vie
+1 130
+http://www.sunu-group.com/administrator/templates/khepri/css/icon.css
+1 52
+- (Direct Request)
+0 3873
+http://sn129w.snt129.mail.live.com/mail/InboxLight.aspx
+0 1
+http://fr.search.yahoo.com/search
+0 10
+http://www.google.co.in/url
+0 4
+http://www.google.com/cse
+0 1
+http://www.google.bj/url
+0 3
+http://www.google.co.uk/search
+0 3
+http://fr.mc296.mail.yahoo.com/mc/welcome
+0 1
+http://whois.domaintools.com/sunu-group.com
+0 2
+http://www.sunu-group.com/media/published/Communique100923.pdf
+1 1
+http://www.sunu-group.com/administrator/
+1 5
+http://www.sunu-group.com/media/published/PatDione.pdf
+1 2
+http://www.google.bf/search
+0 7
+http://www.sunu-group.com/index.php/le-groupe/organigramme
+1 1067
+http://6buk.com/
+0 1
+http://www.burkinapmepmi.com/spip.php
+0 29
+http://www.sunu-group.com/index.php/contacts/reseau-sunu/4-reseau-sunu/18-union-des-assurances-du-togo-iard-uat-iard
+1 27
+http://www.uavie.ci/liens.php
+0 1
+http://www.sunu-group.com/index.php/le-reseau/senegal/uasen-vie
+1 609
+http://www.google.sn/url
+0 27
+http://www.google.com/xhtml
+0 2
+http://www.sunu-group.com/index.php/le-reseau/benin/avie
+1 83
+http://www.google.co.ma/url
+0 3
+http://www.google.co.uk/url
+0 1
+http://www.google.dk/url
+0 2
+http://www.seedpeer.com/search/the-best-of-yoyoy-villame-vol-1-sribats75/6/1.html
+0 1
+http://www.sunu-group.com/index.php/contacts/reseau-sunu/4-reseau-sunu/16-union-generale-des-assurances-du-niger-vie-ugan-vie
+1 6
+http://www.google.com/search
+0 45
+http://webcache.googleusercontent.com/search
+0 124
+http://www.google.fr/m/search
+0 1
+http://www.sunu-group.com/index.php
+1 2060
+http://www.fanaf.org/spip.php
+0 3
+http://www.google.ci/url
+0 29
+http://www.sunu-group.com/administrator/templates/khepri/css/template.css
+1 5
+http://www.sunu-group.com/index.php/contacts/groupe-sunu/3-groupe-sunu/2-sunu-assurances-holding-sa
+1 97
+http://www.google.cm/search
+0 3
+http://www.lespagesjaunesafrique.com/societes/Togo/assurances/
+0 1
+http://www.designs-studio.com
+0 1
+http://www.google.de/search
+0 4
+http://www.sunu-group.com/index.php/contacts/groupe-sunu/3-groupe-sunu/3-sunu-finances-holding-sa
+1 65
+http://www.sunu-group.com/index.php/contacts/reseau-sunu
+1 134
+http://www.google.ch/url
+0 1
+http://www.sunu-group.com/index.php/publications/rapports-annuels
+1 615
+http://www.lespagesjaunesafrique.com/societes/cote-d-ivoire/assurances/21/
+0 1
+http://translate.google.com/translate
+0 3
+http://www.uopro.com
+0 1
+http://www.google.com.ph/search
+0 2
+http://www.google.bf/url
+0 21
+http://www.sunu-group.com/administrator/templates/khepri/css/rounded.css
+1 10
+http://www.sunu-group.com/index.php/le-reseau/gabon/uag-vie
+1 453
+http://www.linkedin.com/company/1820547
+0 2
+http://www.bing.com/search
+0 20
+http://www.sunu-group.com/index.php/le-reseau/burkina-faso/raynal
+1 470
+http://yandex.ru/yandsearch
+0 3
+http://www.google.be/url
+0 6
+http://www.yellowpagesofafrica.com/companies/senegal/insurances/
+0 1
+http://demo.veone.net/demo_UAVie/index.php
+0 2
+http://www.sunu-group.com/index.php/contacts/groupe-sunu/3-groupe-sunu/4-sunu-gestion-sas
+1 106
+http://www.google.ml/search
+0 3
+http://www.sunu-group.com/index.php/contacts/groupe-sunu
+1 590
+http://www.sunu-group.com/administrator/templates/khepri/css/general.css
+1 45
+http://www.sunu-group.com/index.php/activites/activites
+1 547
+http://www.sunu-group.com/index.php/contacts/reseau-sunu/4-reseau-sunu/10-union-des-assurances-de-cote-divoire-vie-ua-vie
+1 208
+http://www.google.ga/search
+0 4
+http://www.sunu-group.com/index.php/contacts/reseau-sunu/4-reseau-sunu/9-union-des-assurances-centrafricaines-uac
+1 11
+http://webmail.onatel.bf/
+0 2
+http://gestiondelentreprise.com/hermo/references.php
+0 2
+http://www.sunu-group.com/
+1 6863
+http://www.google.tg/search
+0 1
+http://www.google.com.ua/url
+0 1
+http://fr.mg40.mail.yahoo.com/dc/blank.html
+0 1
+http://www.sunu-group.com/index.php/le-reseau/togo/uat-iard
+1 256
+http://www.sunu-group.com/index.php/le-reseau/niger/ugan-iard
+1 222
+http://www.google.com/url
+0 20
+http://www.infos-niger.com/client/106-ugan---union-g\xe9n\xe9rale-des-assureurs-du-niger-assureurs--assurances-niger-assureur-police-assurance-assurance-voiture-niger.html
+0 2
+Yahoo!
+2 16
+http://www.sunu-group.com/index.php/le-reseau/cote-divoire/ua-vie
+1 533
+http://www.google.be/search
+0 2
+http://www.annuaire-sites-joomla.com/annuaire-sites-joomla
+0 1
+http://www.sunu-group.com/index.php/le-reseau/centrafrique/uac
+1 162
+http://www.sunu-group.com/templates/home/css/blue_bg.css
+1 461
+http://www.sunu-group.com/index.php/activites/partenaires
+1 30
+http://translate.google.co.in/translate
+0 6
+http://www.sunu-group.com/index.php/contacts/reseau-sunu/4-reseau-sunu/5-union-beninoise-dassurances-vie-uba-vie
+1 82
+http://6buk.com
+0 2
+http://asabenin.org/index.php
+0 1
+http://www.sunu-group.com/index.php/le-reseau/cote-divoire/aaa-vie
+1 103
+http://translate.google.co.uk/translate
+0 1
+http://www.google.bj/search
+0 6
+http://uavie.ci/liens.php
+0 1
+http://www.infos-niger.com/client/106-ugan---union-générale-des-assureurs-du-niger-assurances-niger-assureur-police-assurance-assurance-voiture-niger.html
+0 1
+http://www.sunu-group.com/index.php/component/content/5
+1 1
+http://www.seexie.com/wsearch.php
+0 1
+http://www.sunu-group.com/index.php/le-groupe/chiffre-daffaires-par-pays
+1 82
+http://www.sunu-group.com/templates/default/css/blue_bg.css
+1 1553
+http://www.afdevinfo.com/htmlreports/org/org_63523.html
+0 3
+http://www.sunu-group.com/index.php/contacts/reseau-sunu/4-reseau-sunu/19-union-des-assurances-du-togo-vie-uat-vie
+1 40
+http://www.sunu-group.com/index.php/le-reseau/togo/uat-vie
+1 67
+http://www.sunu-group.com/templates/default/css/blue.css
+1 813
+http://www.sunu-group.com/index.php/publications/autres-documents
+1 32
+http://www.sunu-group.com/templates/default/css/template.css
+1 2631
+http://www.sunu-group.com/templates/home/css/template.css
+1 894
+http://sunu-group.com/
+0 19
+http://www.sunu-group.com/index.php/le-groupe/sunu-finances
+1 245
+http://www.google.tg/url
+0 4
+http://www.sunu-group.com/index.php/contacts/reseau-sunu/4-reseau-sunu/12-le-millenium-assurances-internationales-vie-lmai-vie
+1 665
+http://www.sunu-group.com/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/css/editor_popup.css
+1 2
+http://www.burkinapmepmi.net/raynalsa.swf
+0 1
+http://www.google.co.ke/search
+0 2
+http://www.izf.net/pages/banques-
+0 2
+http://www.sunu-group.com/index.php/le-reseau/benin/uba-vie
+1 290
+http://www.sunu-group.com/index.php/contacts/reseau-sunu/4-reseau-sunu/15-union-generale-des-assurances-du-niger-iard-ugan-iard
+1 134
+http://www.fanaf.org/-Adhesion-.html
+0 1
+http://sunu-group.com/index.php/le-reseau/burkina-faso/raynal
+0 2
+http://www.google.ca/url
+0 9
+http://investing.businessweek.com/research/stocks/private/snapshot.asp
+0 1
+http://www.sunu-group.com/index.php/le-reseau/cote-divoire/
+1 2
+http://www.capafrique.org/capapropos.php
+0 2
+http://www.sunu-group.com/index.php/contacts/reseau-sunu/4-reseau-sunu/13-lalliances-africaine-dassurances-vie-aaa-vie
+1 75
+http://www.google.co.ke/url
+0 2
+http://fr.mg40.mail.yahoo.com/dc/launch
+0 3
+http://www.sunu-group.com/index.php/le-groupe/qui-sommes-nous
+1 1560
+http://www.sunu-group.com/administrator/templates/khepri/css/menu.css
+1 3
+http://www.lespagesjaunesafrique.com/societes/Cote-d-Ivoire/assurances/21/
+0 1
+http://www.sunu-group.com/administrator/templates/khepri/css/login.css
+1 2
+http://www.google.ml/url
+0 1
+http://www.google.ci/search
+0 60
+http://www.sunu-group.com/index.php/contacts/reseau-sunu/4-reseau-sunu/7-raynal-sa-assurances-reassurances
+1 2011
+http://translate.googleusercontent.com/translate_c
+0 460
+http://www.sunu-group.com/index.php/le-reseau
+1 839
+http://www.sunu-group.com/administrator/index.php
+1 336
+http://www.semrush.com/fr/info/sunu-group.com
+0 2
+http://www.google.sn/search
+0 27
+http://www.sunu-group.com/index.php/contacts/reseau-sunu/4-reseau-sunu/14-union-des-assurances-du-gabon-vie-uag-vie
+1 141
+http://www.google.fr/
+0 5
+http://www.google.hr/m/search
+0 1
+http://managers-africains.com/annuaire.html
+0 1
+http://www.google.fr/url
+0 150
+http://www.sunu-group.com/index.php/le-groupe/sunu-assurances
+1 931
+http://www.google.ht/url
+0 14
+http://www.google.fr/search
+0 124
+http://www.sunu-group.com/index.php/le-reseau/cote-divoire/lmai-vie
+1 589
+http://www.izf.net/pages/principales-entreprises/18507/
+0 1
+http://fr.mg41.mail.yahoo.com/dc/blank.html
+0 1
+http://www.google.ca/search
+0 5
+http://www.google.cm/url
+0 9
+http://www.sunu-group.com/index.php/contacts/reseau-sunu/4-reseau-sunu/8-union-des-assurances-du-cameroun-vie-uacam-vie
+1 352
+http://www.sunu-group.com/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/source_editor.htm
+1 3
+http://www.sunu-group.com/index.php/contacts/reseau-sunu/4-reseau-sunu/17-union-des-assurances-du-senegal-vie-uasen-vie
+1 78
+http://www.sunu-group.com/index.php/le-reseau/cote-divoire/lmai-iard
+1 276
+http://www.sunu-group.com/templates/home/css/blue.css
+1 62
+http://www.sunu-group.com/index.php/le-groupe/historique
+1 506
+# End Of Table - referrers
+# -agents- 
+pirst; MSIE 8.0;
+0 5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; fr; rv:1.9.1.19) Gecko/20110420 Firefox/3.5.19 Glue/4.5
+0 50
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.0; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.64
+0 1
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 48
+Python-urllib/2.7
+0 69
+Mozilla/5.0 (iPad; U; CPU OS 3_2_2 like Mac OS X; fr-fr) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B500
+0 55
+Mozilla/5.0 (Windows; U; Windows NT 5.1; tr; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10 ( .NET CLR 3.5.30729; .NET4.0E)
+0 25
+Mozilla/4.0 (compatible;)
+0 250
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 5
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10 GTB7.1
+0 54
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; MATM)
+0 55
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; FunWebProducts; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2.8) Gecko/20100722 BTRS26718 Firefox/3.6.8
+0 72
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.30
+0 307
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6.6; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.21022; .NET C
+0 88
+Mozilla/5.0 (Windows NT 6.1; rv:2.0) Gecko/20100101 Firefox/4.0
+0 71
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MS-RTC LM 
+0 101
+Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
+0 8
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.0.3705; ZangoToolbar 4.8.2)
+0 2
+ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)
+0 9
+Mozilla/5.0 (compatible; Google Desktop/5.9.1005.12335; http://desktop.google.com/)
+0 10
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB6.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 58
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; SIMBAR={EABA1D5C-ADF6-4FDC-A710-EACCAFDAFC8F}; SLCC1; .NET CL
+0 198
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.1.4322; yie8)
+0 381
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.30
+0 4
+Mozilla/5.0 (Linux; U; Android 2.3.3; en-us; GT-I9100 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mo
+0 58
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16 (.NET CLR 3.5.30729)
+0 54
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 81
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.5072
+0 107
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3
+0 60
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.2; .
+0 74
+Apple-PubSub/65.20
+0 102
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 1.0.3705; .NET CLR 2.0.50727; .NET CLR 3.
+0 161
+Mozilla/5.0 (en-us) AppleWebKit/534.14 (KHTML, like Gecko; Google Wireless Transcoder) Chrome/9.0.597 Safari/534.14
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; fr-fr) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18
+0 57
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET C
+0 58
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SIMBAR={EABA1D5C-ADF6-4FDC-A710-EACCAFDAFC8F}; SLCC1; .NET CL
+0 3
+Java/1.6.0_04
+0 226
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MyIE2; SV1; MRA 4.2 (build 01102); .NET CLR 1.1.4322)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
+0 53
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
+0 82
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Sgrunt|V109|50|S-1737796837|dialno; .NET CLR 1.1.4322)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.0; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 (.NET CLR 3.5.30729)
+0 54
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.24
+0 362
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1.9) Gecko/20071025 Firefox/2.0.0.9 (.NET CLR 3.5.30729)
+0 28
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 708
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .N
+0 96
+Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16
+0 304
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 11
+Baiduspider+(+http://www.baidu.com/search/spider.htm)
+0 25
+Java/1.6.0_21
+0 50
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 (.NET CLR 3.5.30729)
+0 51
+Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6
+0 122
+Mozilla/5.0 (Windows NT 5.1; rv:2.0) Gecko/20100101 Firefox/4.0
+0 249
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.0.3705; .NET CLR 1.1.4322; InfoPath.1)
+0 1
+Mozilla/5.0 (Linux; U; Android 2.2; fr-fr; HTC_DesireHD_A9191 Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; BTRS5032; SIMBAR={74B97ED8-19C1-11E0-994C-00262D937276
+0 49
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 59
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 (.NET CLR 3.5.30729)
+0 177
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 603
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6.6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729
+0 264
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET
+0 74
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.472.63 Safari/534.3
+0 43
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; CMDTDF)
+0 77
+Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+0 33
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FREE; .NET CLR 1.1.4322)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.19) Gecko/20110420 Firefox/3.5.19 (.NET CLR 3.5.30729)
+0 21
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.5; Windows NT 5.1; .NET CLR 1.0.3705)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; GTB6.6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 2
+Mozilla/6.0 (compatible; MSIE 7.0a1; Windows NT 5.2; SV1)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET C
+0 53
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 (.NET CLR 2.0.50727; .NET CLR 3.0.045
+0 55
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+0 124
+Mozilla/5.0 (Windows; U; Windows NT 6.0; fr; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 GTB7.1 ( .NET CLR 3.5.30729; .NET4.0C
+0 127
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; ShopperReports 3.0.517.0; SRS_IT_E8790770B17655553EA19
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB6.6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 292
+Mozilla/5.0 (Windows; U; Windows NT 5.0; fr; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12
+0 61
+Mozilla/5.0 (Windows; U; Windows NT 6.0; fr; rv:1.9.0.18) Gecko/2010020220 Firefox/3.0.18 ( .NET CLR 3.5.30729; .NET4.0C)
+0 7
+Mozilla/5.0 (Linux; U; Android 2.1-update1; fr-fr; SGH-T959 Build/ECLAIR) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 
+0 55
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.4) Gecko/20100611 Firefox/3.6.4 GTB7.1
+0 58
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.7) Gecko/20091221 Firefox/3.5.7 ;ShopperReports
+0 103
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.2) Gecko/20100316 Firefox/3.6.2
+0 57
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SIMBAR={9E6755D9-AF71-4AA0-AF10-7EE6203F4075}; InfoPath.2; In
+0 61
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.60 Safari/534.24
+0 397
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CL
+0 102
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1,gzip(gfe) (via translate.google.com)
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.1.249.1045 Safari/532.5
+0 40
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24
+0 570
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; fr-fr) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19
+0 142
+Mozilla/5.0 (compatible; seexie.com_bot/4.1; +http://www.seexie.com)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; InfoPath.2)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1)
+0 283
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Media Center PC
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.15) Gecko/20110303 Firefox/3.6.15
+0 70
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6.6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoP
+0 222
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; fr) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/4.1.3 Safari/533.19.4
+0 51
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2)
+0 56
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProducts; .NET CLR 2.0.50727; IEMB3)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/5.0;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.50727;  .NET CLR 3.0.
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1) VoilaBot BETA 1.2 (support.voilabot@orange-ftgroup.com)
+0 14
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.
+0 53
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.1)
+0 46
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6.6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.2; .NET C
+0 86
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90)
+0 8
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.224 Safari/534.10/Nutch
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729)
+0 56
+Mozilla/4.0 (compatible; MSIE 4.01; Digital AlphaServer 1000A 4/233; Windows NT; Powered By 64-Bit Alpha Processor)
+0 1
+Opera/9.80 (Windows NT 5.1; U; fr) Presto/2.2.15 Version/10.00
+0 58
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2)
+0 203
+Mozilla/5.0 (X11; Linux i686; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 749
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; AskTbMP
+0 64
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; DTS Agent
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 1
+0 224
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NE
+0 208
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; OfficeLiveConn
+0 74
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; NN5.0.2.4; .NET CLR 1.1.4322)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; InfoPath.2; .NET CLR 2.0.50727; OfficeLiveConnector.1
+0 33
+Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.1)
+0 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6.6; SLCC1; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.5.30729; OfficeL
+0 121
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; InfoPath.2)
+0 28
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2; .NET CLR 2.0.50727)
+0 124
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 140
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.19) Gecko/20110420 AskTbMP3FB/3.9.1.14019 Firefox/3.5.19 (.NET CLR 3.5.
+0 47
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 10
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.0
+0 374
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; snprtz|S21067000000509|2600#Service Pack 2#2#5#1; .NET CLR 1.1.4322)
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1,gzip(gfe) (via translate.google.com)
+0 15
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; .NET CLR 1.1.4322)
+0 134
+Mozilla/5.0 (Windows; U; Windows NT 6.0; fr; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729; .NET4.0C)
+0 162
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobi
+0 94
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; (R1 1.6); SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET
+0 52
+gvfs/1.8.0
+0 7
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30;
+0 17
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.60 Safari/534.24
+0 109
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+0 84
+Mozilla/5.0 (Windows NT 6.0; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 653
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 251
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24
+0 114
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.2) Gecko/20100316 YFF35 Firefox/3.6.2
+0 88
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0) Gecko/20100101 Firefox/4.0
+0 80
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16
+0 107
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; fr-fr) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B
+0 47
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; YPC 3.2.0; .NET CLR 1.0.3705; yplus 5.1.04b)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; {618F0F1E-A11F-333C-5384-1743143990DA}; FunWebProducts; .NET CLR 1.1.4322;
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 98
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB7.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.30618
+0 506
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3
+0 38
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/24.871; U; en) Presto/2.5.25 Version/10.54
+0 136
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 ( .NET CLR 3.5.30729)
+0 55
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+0 14
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.19) Gecko/20110420 Firefox/3.5.19
+0 49
+Opera/9.80 (Windows NT 6.1; U; fr) Presto/2.6.30 Version/10.62
+0 55
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; Media Center PC 
+0 93
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 
+0 1
+Microsoft Internet Explorer
+2 15480
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 525
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+0 350
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17
+0 14
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; MDDS; .NET CLR 3.5.30729; FDM; .NET CLR 3.0.307
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2; OfficeLiveConnector.1.3
+0 75
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1_3 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Mobile/7E18
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.2.17) Gecko/20110420 AskTbSTC/3.9.1.14019 Firefox/3.6.17
+0 96
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.57 Safari/534.24
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
+0 13
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.
+0 440
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24
+0 919
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.6; SIMBAR={969A8DDC-6824-11E0-92A2-18A905882531}; .NET CLR 2.0.5
+0 56
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; Of
+0 177
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobi
+0 58
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; GTB6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+0 5
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17
+0 279
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.60 Safari/534.24
+0 2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/412 (KHTML, like Gecko) Safari/YY/Adobe
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3
+0 54
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.14 (KHTML, like Gecko; Google Web Preview) Chrome/9.0.597 Safari/534.14
+0 560
+Mozilla/5.0 (compatible; ScoutJet; +http://www.scoutjet.com/)
+0 4
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6.6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET 
+0 11
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+0 301
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 3.1)
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.15) Gecko/20101027 SeaMonkey/2.0.10
+0 48
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16 GTB7.1 (.NET CLR 3.5.30729)
+0 51
+Mozilla/5.0 (compatible; YandexMedia/3.0; +http://yandex.com/bots)
+0 36
+Mozilla/5.0 (Linux; en-US; rv:1.9.0.5) Gecko/2008120122 Firefox/3.0.5
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
+0 370
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.151 Safari/534.16
+0 58
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.60 Safari/534.30
+0 12
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 
+0 365
+Mozilla/5.0 (Windows; U; Windows NT 6.0; fr; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6 ( .NET CLR 3.5.30729; .NET4.0C)
+0 94
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; PeoplePal 3.0; PeoplePal 6.2)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; fr; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 GTB7.1 (.NET CLR 3.5.30729)
+0 57
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET 
+0 67
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET 
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.6; InfoPath.2; .NET CLR 2.0.50727)
+0 170
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; ShopperReports 3.0.485.0; SRS_IT_E8790270BC76585032A0
+0 300
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; [eburo v2.0]; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+0 62
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 23
+Mozilla/5.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.com/en/docs/about/webmasters.shtml)
+0 22
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; OfficeLiveConnector.1.3; Of
+0 74
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1.9) Gecko/20071025 Firefox/ANantes-151-1-162-9.w2-0.abo.wanadoo.fr (.NET
+0 42
+Mozilla/5.0 (Windows NT 6.0; rv:2.0) Gecko/20100101 Firefox/4.0
+0 68
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.19) Gecko/20110420 Firefox/3.5.19
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET 
+0 161
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET 
+0 57
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; T312461)
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2; .N
+0 98
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB7.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NE
+0 340
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.472.53 Safari/534.3
+0 75
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .N
+0 420
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.0
+0 57
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16 (.NET CLR 3.5.30729)
+0 58
+Opera/9.64(Windows NT 6.1; U; en) Presto/2.1.1
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24
+0 358
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12
+0 57
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.24
+0 86
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.10) Gecko/20100504 Firefox/3.5.10 (.NET CLR 3.5.30729)
+0 58
+Mozilla/5.0 (en-us) AppleWebKit/525.13 (KHTML, like Gecko; Google Web Preview) Version/3.1 Safari/525.13
+0 313
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+0 85
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1
+0 228
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 34
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.16) Gecko/20101130 Firefox/3.5.16
+0 57
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322)
+0 65
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322)
+0 111
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16
+0 42
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13
+0 10
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.60 Safari/534.24
+0 330
+Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.1.19) Gecko/20110420 AskTbUT5V5/3.11.3.15590 Firefox/3.5.19
+0 63
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.70 Safari/533.4
+0 57
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows 98)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6.6; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 104
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB6.6;  Embedded Web Browser from: http://bsalsa.com/
+0 3
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24
+0 57
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 817
+Opera/9.80 (Windows NT 5.1; U; fr) Presto/2.8.131 Version/11.10
+0 115
+DomainWatcher Bot
+0 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; 
+0 58
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+0 54
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152;
+0 9
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19
+0 267
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SIMBAR={B721D67C-83F4-47E6-87D3-8B093AA34EDB}; SLCC1; .NET CLR 2.0.5
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14
+0 51
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)
+0 15
+Gigabot/3.0 (http://www.gigablast.com/spider.html)
+0 3
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; pt-pt) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobi
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.2102
+0 58
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.27 Safari/532.0
+0 62
+Mozilla/5.0 (Windows; U; Windows NT 6.0; fr; rv:1.9.1.7) Gecko/20091221 Firefox/3.5.7 ( .NET CLR 3.5.30729)
+0 55
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 454
+Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 639
+Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.04 (lucid) Firefox/3.6.17
+0 103
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.60 Safari/534.24
+0 57
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; Comcast; Comcast)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.205 Safari/534.16
+0 81
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24
+0 51
+Mozilla/5.0 (compatible; discobot/1.1; +http://discoveryengine.com/discobot.html)
+0 12
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Deepnet Explorer 1.5.0; .NET CLR 1.0.3705)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SIMBAR={2F974AE4-8805-11DF-AED7-00256491230B}; InfoPath.2)
+0 53
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; yplus 5.1.02b)
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.3.3; http://www.majestic12.co.uk/bot.php?+)
+0 44
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB6.6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 95
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24
+0 65
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.24
+0 92
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17
+0 434
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.3.24214/24.871; U; fr) Presto/2.5.25 Version/10.54
+0 62
+Mozilla/4.0 (compatible; MSIE 999.1; Unknown)
+0 86
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.224 Safari/534.10
+0 114
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1_2 like Mac OS X; fr-fr) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7
+0 51
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.16) Gecko/2009120208 Firefox/3.0.16 (.NET CLR 3.5.30729)
+0 50
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET 
+0 243
+Netscape
+2 20268
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6
+0 59
+Sosospider+(+http://help.soso.com/webspider.htm)
+0 114
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr-FR) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1
+0 150
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1) Gecko/20060918 Firefox/2.0
+0 3
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 1080
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; fr-fr) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21
+0 106
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9) Gecko/2008052906 Firefox/3.0
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.3 (build 01218); .NET CLR 1.1.4322)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET 
+0 123
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.6; InfoPath.2)
+0 38
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 110
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.17) Gecko/20110420 MRA 5.7 (build 03789) Firefox/3.6.17 sputnik 2.4.0.6
+0 58
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.
+0 51
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.30618; .N
+0 227
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.15) Gecko/2008111317  Firefox/3.0.4
+0 26
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 ( .NET CLR 3.5.30729; .NET4.0E)
+0 56
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 SearchToolbar/1.2
+0 58
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.1.249.1064 Safari/532.5
+0 49
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; InfoPath.2; AskTbMP3DS/5.11.3.15590)
+0 2
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 64
+Mozilla/5.0 (Windows; U; Windows NT 6.0; fr; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 ( .NET CLR 3.5.30729)
+0 55
+Opera/9.64 (Windows NT 5.1; U; fr) Presto/2.1.1
+0 65
+Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.84 Safari/534.13
+0 57
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; FunWebProducts; GTB6.6; SLCC1; .NET CLR 2.0.50727; Media Cent
+0 70
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0
+0 453
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) Speedy Spider (http://www.entireweb.com/about/search_tech/speedy_spider/)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+0 50
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 2_2_1 like Mac OS X; en-us) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.1 Mobi
+0 54
+Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 1977
+Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6 ;ShopperReports
+0 74
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; MALC; InfoPath.2; .NET CLR 3.5.307
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; fr-fr) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19
+0 149
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.24
+0 104
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; InfoPath.2; OfficeLiveConnector.1.3; Offic
+0 44
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; fr; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10
+0 128
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Alltel; .NET CLR 1.1.4322)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Q312461; .NET CLR 1.1.4322)
+0 2
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 70
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SIMBAR={59578E61-6B3B-4748-A3A2-C9BCF64BD642}; InfoPath.2; yi
+0 2
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.dotnetdotcom.org/, crawler@dotnetdotcom.org)
+0 197
+HTTP_Request2/2.0.0beta3 (http://pear.php.net/package/http_request2) PHP/5.3.2
+0 2
+Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.2.17) Gecko/20110422 Ubuntu/8.04 (hardy) Firefox/3.6.17
+0 128
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24
+0 737
+libwww-perl/5.803
+0 7
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.7) Gecko/20060909 Firefox/1.5.0.7
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 ( .NET CLR 3.5.30729)
+0 60
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.6)
+0 154
+Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.1.19) Gecko/20110420 Firefox/3.5.19
+0 55
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.11) Gecko/20101012 Firefox/3.6.11
+0 60
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET4.0
+0 118
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.205 Safari/534.16
+0 105
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; EasyBits GO v1.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 
+0 82
+Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2.15) Gecko/20110303 Firefox/3.6.15
+0 81
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+0 16
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.2.17) Gecko/20110420 AskTbSTC/3.9.1.14019 Firefox/3.6.17,gzip(gfe) (vi
+0 6
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; es) AppleWebKit/523.12 (KHTML, like Gecko) Version/3.0.4 Safari/523.12
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2)
+0 302
+# End Of Table - agents
+# -search strings- 
+discours en presence consul � la c�r�monie
+2
+présentation: ugan niger
+1
+ugan niameyt
+1
+union des aasureurs du burkina fasso de cotonou
+2
+adresse du groupe sunu assurances
+5
+sunu assurance sunu-assurances@sunu-group.com
+1
+lmai vie logo
+2
+uacam vie cameroun recrutement
+1
+raynal assurances groupe sunu
+1
+ismaël b-
+1
+tel metife mail partenariat
+1
+lmai ci
+1
+union des assurances du togo
+1
+le millenium assurances internationales iard
+1
+assurances uacam vie
+2
+sunu
+8
+pathe dione
+1
+union des assurances en côte d'ivoire
+15
+fédération senegalaise des assurances du senegal adresse mail
+2
+les risques couverts par uba vie
+1
+800 collaborateurs
+2
+le millenium abidjan
+1
+groupe sunu
+9
+oumarou idani
+1
+ugan
+1
+uasen vie
+1
+adresse du groupe mail du groupe sunu assurances
+1
+uat togo
+2
+sunu finances
+2
+le millenium assur-
+3
+ua vie cote d'ivoire
+4
+raynal assurance burkina
+2
+union generale assurance niger
+1
+sunu assurances
+2
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

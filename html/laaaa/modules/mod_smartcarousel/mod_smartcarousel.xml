@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extension
+	type="module"
+	version="2.5.0"
+	client="site"
+	method="upgrade">
+	<name>Smart Carousel</name>
+	<author>Top Position</author>
+	<creationDate>January 2013</creationDate>
+	<copyright>Copyright (C) 2011 Top Position. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>opensource.tposition@gmail.com</authorEmail>
+	<authorUrl>http://mastermarketingdigital.org/open-source-joomla-extensions</authorUrl>
+	<version>1.0.0</version>
+	<description>Smart Carousel</description>
+
+	<files>
+		<filename module="mod_smartcarousel">mod_smartcarousel.php</filename>
+		<filename>index.html</filename>
+		<filename>mod_smartcarousel.xml</filename>
+		<folder>assets</folder>
+		<folder>tmpl</folder>
+	</files>
+
+		<config>
+		<fields name="params">
+			<fieldset name="basic">
+				
+				<field 
+					name="artid" 
+					type="sql" 
+					default="0" 
+					label="Selectioner un article" 
+					query="SELECT id, title FROM #__content" 
+					key_field="id" 
+					value_field="title" />
+					
+				<field
+					name="image"
+					type="radio"
+					default="0"
+					label="Image de l'article"
+					description="Activer/Désactiver l'affichage de l'image de l'article.">
+					<option
+						value="1">JYES</option>
+					<option
+						value="0">JNO</option>
+				</field>
+
+				<field
+					name="item_title"
+					type="radio"
+					default="0"
+					label="Titre de l'article"
+					description="Activer/Désactiver l'affichage du titre de l'article.">
+					<option
+						value="1">JYES</option>
+					<option
+						value="0">JNO</option>
+				</field>
+
+				<field
+					name="link_titles"
+					type="list"
+					label="Lien sur le titre"
+					description="Activer/Désactiver le lien sur le titre vers leur article.">
+					<option
+						value="">JGLOBAL_USE_GLOBAL</option>
+					<option
+						value="0">JNO</option>
+					<option
+						value="1">JYES</option>
+				</field>
+
+				<field
+					name="readmore"
+					type="radio"
+					default="0"
+					label="Lien 'Lire la suite...'"
+					description="Afficher/Masquer le lien 'Lire la suite...' s'il a été inséré dans l'article.">
+					<option
+						value="0">JHIDE</option>
+					<option
+						value="1">JSHOW</option>
+				</field>
+			</fieldset>
+			<fieldset name="advanced">
+
+				<field
+					name="layout"
+					type="modulelayout"
+					label="JFIELD_ALT_LAYOUT_LABEL"
+					description="JFIELD_ALT_MODULE_LAYOUT_DESC" />
+
+				<field
+					name="moduleclass_sfx"
+					type="text"
+					label="COM_MODULES_FIELD_MODULECLASS_SFX_LABEL"
+					description="COM_MODULES_FIELD_MODULECLASS_SFX_DESC" />
+
+				<field
+					name="cache"
+					type="list"
+					default="1"
+					label="COM_MODULES_FIELD_CACHING_LABEL"
+					description="COM_MODULES_FIELD_CACHING_DESC">
+					<option
+						value="1">JGLOBAL_USE_GLOBAL</option>
+					<option
+						value="0">COM_MODULES_FIELD_VALUE_NOCACHING</option>
+				</field>
+
+				<field
+					name="cache_time"
+					type="text"
+					default="900"
+					label="COM_MODULES_FIELD_CACHE_TIME_LABEL"
+					description="COM_MODULES_FIELD_CACHE_TIME_DESC" />
+				<field
+					name="cachemode"
+					type="hidden"
+					default="static">
+					<option
+						value="static"></option>
+				</field>
+			</fieldset>
+		</fields>
+	</config>
+</extension>	

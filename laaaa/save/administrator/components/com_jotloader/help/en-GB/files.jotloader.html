@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- $Id: files.jotloader.html,v 1.2 2008/12/13 15:21:07 Vlado Exp $ -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en_US" xml:lang="en_US">
+<head>
+<title>JotLoader Component</title>
+<link href="../css/help.css" rel="stylesheet" type="text/css" />
+<meta name="copyright" content=
+"(C) 2007 Vladimir Kanich. All Rights Reserved." />
+<meta name="license" content="http://www.gnu.org/copyleft/gpl.html GNU/GPL" />
+</head>
+<body>
+<ul>
+<li><a href="settings.jotloader.html">Settings</a></li>
+<li><a href="files.jotloader.html">File Management</a></li>
+<li><a href="menu.jotloader.html">Menu Assignment</a></li>
+
+<li><a href="admin.jotloader.html">Administration</a></li>
+
+<li><a href="usage.jotloader.html">Usage</a></li>
+</ul>
+
+<br />
+<br />
+<h1>File Management</h1>
+
+<h5>List Files</h5>
+
+<p>This page gives overview about files and their attributes which are stored in the component database. Files which are stored only in the database and no more existing in the file system are marked with red color in the File Name column (tooltip displays stored path to the file). </p>
+<p>Column titles in blue color have order functionality. Clicking here on the column title you can change order of presented files. When you like to apply the selected order to the front-end presentation then click to small store icon next to the rigth end of the column title. Because frontend presentation is based on categories you can see the proper frontend ordering after pressing the Show Order button on the toolbar (when this button is not displayed on the toolbar then the diplayed order match the order of displayed files in the frontend).
+</p>
+<h5>Move Files</h5>
+<p>Here it is possible to move the entire selected group of files to the new target category. In the case when the files names are marked with red color (meaning - these files are not readable any more on the given upload path in the file system) moving these files to selected category also move the files to the new upload path set in the Settings.
+</p>
+<h5>Delete Files</h5>
+<p>Here is difference against JotLoader component, ver.1.x, because the Delete action after warning is deleting files not only from database but also from the file system. When you do not like to loose these files then you have to save them before Delete action.
+</p>
+</body>
+</html>

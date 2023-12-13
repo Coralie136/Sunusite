@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><config><params>
+<param name="header_format" type="textarea" default="" label="JOTLOADER_BACKEND_SETTINGS_TEMPLATES_HEADER" rows="10" cols="40" description="JOTLOADER_BACKEND_SETTINGS_TEMPLATES_HEADER_DESC" />
+<param name="files_format" type="textarea" default="&lt;table width=&quot;100%&quot; border=&quot;0&quot; cellpadding=&quot;2&quot; cellspacing=&quot;5&quot; style=&quot;background:#FFFFFF;border-bottom:1px solid #cccccc;&quot;&gt;
+	&lt;tr&gt;&lt;td width=&quot;60%&quot;&gt;&lt;b&gt;{file_title}&lt;/b&gt;&lt;/td&gt;
+	&lt;td width=&quot;15%&quot;&gt;{size}&lt;/td&gt;
+	&lt;td width=&quot;25%&quot;&gt;&lt;a href=&quot;{url_download}&quot; target=&quot;_blank&quot;&gt;Télécharger&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;7&quot;&gt;&lt;em&gt;{file_description}&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+" label="JOTLOADER_BACKEND_SETTINGS_TEMPLATES_FILES" rows="10" cols="40" description="JOTLOADER_BACKEND_SETTINGS_TEMPLATES_FILES_DESC" />
+</params></config>

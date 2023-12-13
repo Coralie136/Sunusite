@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- version $Id: metadata.xml,v 1.1 2008/10/29 06:00:34 Vlado Exp $ -->
+<metadata>
+	<view title="JOTLOADER_MENU_CATEGORY">
+		<message><![CDATA[JOTLOADER_MENU_CATEGORY_DESC]]></message>
+	</view>
+</metadata>

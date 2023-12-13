@@ -1,0 +1,9 @@
+/***** Customizer Custom CSS *****/
+
+.veggie-upgrade-thumb img { border: 1px solid #ccc; }
+.veggie-upgrade-title { color: #000; text-transform: uppercase; }
+.veggie-upgrade-features { list-style: disc; margin: 0 15px; }
+.veggie-button .button { min-width: 220px; text-align: center; }
+.veggie-upgrade-button .button { color: #fff; background: #008ec2; border-color: #008ec2; }
+.customize-pane-parent #accordion-panel-veggie_theme_options .accordion-section-title, #accordion-section-veggie_lite_upgrade .accordion-section-title { color: #fff; background: #008ec2; border-left: 4px solid #bfdeec; }
+.rtl .customize-pane-parent #accordion-panel-veggie_theme_options .accordion-section-title, .rtl #accordion-section-veggie_lite_upgrade .accordion-section-title { border-right: 4px solid #bfdeec; border-left: none; }

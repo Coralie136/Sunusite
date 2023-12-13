@@ -1,0 +1,180 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- $Id: settings.jotloader.html,v 1.2 2008/12/13 15:21:07 Vlado Exp $ -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en_US" xml:lang="en_US">
+<head>
+<title>JotLoader Component</title>
+<link href="../css/help.css" rel="stylesheet" type="text/css" />
+<meta name="copyright" content=
+"(C) 2007 Vladimir Kanich. All Rights Reserved." />
+<meta name="license" content="http://www.gnu.org/copyleft/gpl.html GNU/GPL" />
+</head>
+<body>
+<ul>
+<li><a href="settings.jotloader.html">Settings</a></li>
+<li><a href="files.jotloader.html">File Management</a></li>
+<li><a href="menu.jotloader.html">Menu Assignment</a></li>
+
+<li><a href="admin.jotloader.html">Administration</a></li>
+
+<li><a href="usage.jotloader.html">Usage</a></li>
+</ul>
+
+<br />
+<br />
+<h1>JotLoader Settings</h1>
+
+<h5>Global Settings</h5>
+
+<p>In this part of the form it is possible to adjust :</p>
+
+<dl>
+<dt><strong>Date / Time display</strong></dt>
+
+<dd>Date and time format automatically assigned during recognition of new file
+in Upload Directory when AutoDetect flag is set ON. 
+
+<p>The change of this format but shall do not change the Date/Time format of
+files already saved in the database.</p>
+</dd>
+</dl>
+
+<dl>
+<dt><strong>Upload Directory</strong></dt>
+
+<dd>Default download directory is set for JotLoader during installation to
+"download" and can be later changed to the other directory name (before usage
+you have to create physically the directory in your server file system). 
+
+<p>When "Auto Detect" flag is set ON then all files included in this directory
+are displayed in Files Manager with the status UNPUBLISHED.</p>
+
+<p>Take care for the assignment of auto-detected files to your Jot Loader
+categories for proper presentation of download files in the front-end.</p>
+</dd>
+</dl>
+
+<dl>
+<dt><strong>Auto Detect</strong></dt>
+
+<dd>When "Auto Detect" flag is set ON then all files included in this directory
+are displayed in Files Manager with the status UNPUBLISHED. 
+
+<p>Take care for the assignment of auto-detected files to your Jot Loader
+categories for proper presentation of download files in the front-end.</p>
+
+<p>Please take care when you like to <strong>delete</strong> download file from
+file list. When "Auto Detect" feature is selected, then the DELETE button on
+the File List page is only removing the file from database table. Next auto
+detect event finds the download file in download directory on the server and
+file is (auto-detected) written back to database table. In this case you have
+to remove file from server download directory (for specific file on File Detail
+admin page - link underneath of File Location).</p>
+</dd>
+</dl>
+
+<dl>
+<dt><strong>Statistics activated</strong></dt>
+
+<dd>Simple statistics of file downloads are provided by Jot Loader component
+when this flag is set ON. 
+
+<p>Access to this statistics is provided via JotLoader Control Panel / Download
+Statistics.</p>
+</dd>
+</dl>
+
+<dl>
+<dt><strong>Advanced settings</strong></dt>
+
+<dd>In initial state located as checkbox on the bottom part of
+settings page. With checking on and pressing the Apply button on the toolbar we
+switch to Advanced mode :</dd>
+
+<dd class="list">Full Upload Path have to be set to existing and writable directory accessable from the web server. Change from standart setting of Upload Directory (inside Joomla root hierarchy) in top part of the Setting page to the advanced one does not change the location of existing assigned download files. All existing assigned download files (shown in Files Manager) are set to the unpublish state (even when the Autopublish flag is set ON) to allow precise check all files for availibility. Underneath the path input box have to be stated <div class="green">WRITABLE</div> as indication for proper storage of uploaded or detected files.</dd>
+<dd class="list">AutoPublish radio select when it is set to YES indicates setting of PUBLISH state for all new uploaded or detected files (old files remains in their previous state). AutoPublish does not set the new category automatically to PUBLISH state. Here it is neccessary to set required attributes in Category Mananger. When AutoPublish is set to YES please to set also the default category in Upload Path Default Category combo-box.</dd>
+<dd class="list">Upload Path Default Category allows linking the upload path to the one selected category. All uploaded files are automatically set to PUBLISH state after openning the File List in Administrator. When this default category is in PUBLISH state and is assigned to menu item then the new autopublished files are shown also in the front-end.</dd>
+</dl>
+
+<h5>Templates</h5>
+
+<p>Definitions in these templates allows to assign the default front-end
+presentation of download categories and files.<br />
+ Here is possibility to assign different layouts for any download category
+during the Jot Loader assignment to specific menu item (see <a href=
+"menu.jotloader.html">JotLoader Menu</a>).</p>
+
+<p>Templates allows to customize the presentation formats on JotLoader
+front-end pages (different fonts, colors, languages) according HTML standarts.
+When you change the layout it is good practise to check the front-end
+presentation in usually used browser types (Firefox, Internet Explorer, Opera
+etc.)</p>
+
+<p>To any category here it is possible to assign choosen picture by its
+embedding into category description(see <a href=
+"admin.jotloader.html">JotLoader Administration</a>).</p>
+
+<p>We have possibility to adjust layout for three major parts of the
+presentation : category, files header and files. Basic structure of this layout
+is following :</p>
+
+<p>category XXXXXXXXXXX<br />
+<span class="ident1">files header xxxxxxxxxxx</span><br />
+<span class="ident2">files ........</span><br />
+<span class="ident3">........</span></p>
+
+<dl>
+<dt><strong>Categories</strong></dt>
+
+<dd>Here is described main default presentation for download categories. 
+
+<p>You can change presentation of any category during its assignment to menus
+(see <a href="menu.jotloader.html">JotLoader Menu</a>).</p>
+</dd>
+</dl>
+
+<dl>
+<dt><strong>Files Header</strong></dt>
+
+<dd>It is mainly used for fixed text of presentation columns. For longer
+download files titles it is possible to choose larger width of file-title
+column e.g. width= 40%(The similar change shall be performed for Files template
+as well).&lt; /dd&gt;&lt; /dd&gt;</dd>
+</dl>
+
+<dl>
+<dt><strong>Files</strong></dt>
+
+<dd>This template contains default definition of dynamically generated part of
+file presentation part. {} tags are JotLoader tags which are automatically
+replaced with database text during front-end page presentation.</dd>
+
+<dt>{file_id}</dt>
+
+<dd>(integer) internal identification of download file in the database</dd>
+
+<dt>{file_description}</dt>
+
+<dd>file description specific to each managed download file</dd>
+
+<dt>{file_title} {version} {license_type} {cat_id} {size} {date_added}
+{url_home} {author} {url_author}</dt>
+
+<dd>are tags filled with download file attributes (according the individual
+file setting in File Manager -&gt; click on file name link).</dd>
+
+<dt>{url_download}</dt>
+
+<dd>used for download link on the front-end page</dd>
+
+<dt>{url_bugs}</dt>
+
+<dd>used for bug tracker link on the front-end page</dd>
+
+<dt>{downloads}</dt>
+
+<dd>(integer) counter of actual file downloads</dd>
+</dl>
+</body>
+</html>
+

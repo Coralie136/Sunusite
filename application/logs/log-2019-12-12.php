@@ -1,0 +1,454 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+INFO - 2019-12-12 12:01:34 --> Config Class Initialized
+INFO - 2019-12-12 12:01:34 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:34 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:34 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:34 --> URI Class Initialized
+DEBUG - 2019-12-12 12:01:34 --> No URI present. Default controller set.
+INFO - 2019-12-12 12:01:34 --> Router Class Initialized
+INFO - 2019-12-12 12:01:34 --> Output Class Initialized
+INFO - 2019-12-12 12:01:34 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:35 --> Config Class Initialized
+INFO - 2019-12-12 12:01:35 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:35 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:35 --> URI Class Initialized
+INFO - 2019-12-12 12:01:35 --> Router Class Initialized
+INFO - 2019-12-12 12:01:35 --> Output Class Initialized
+INFO - 2019-12-12 12:01:35 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:35 --> Input Class Initialized
+INFO - 2019-12-12 12:01:35 --> Language Class Initialized
+INFO - 2019-12-12 12:01:44 --> Config Class Initialized
+INFO - 2019-12-12 12:01:44 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:44 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:44 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:44 --> URI Class Initialized
+INFO - 2019-12-12 12:01:44 --> Router Class Initialized
+INFO - 2019-12-12 12:01:44 --> Output Class Initialized
+INFO - 2019-12-12 12:01:44 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:44 --> Input Class Initialized
+INFO - 2019-12-12 12:01:44 --> Language Class Initialized
+INFO - 2019-12-12 12:01:44 --> Config Class Initialized
+INFO - 2019-12-12 12:01:44 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:44 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:44 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:44 --> URI Class Initialized
+INFO - 2019-12-12 12:01:44 --> Router Class Initialized
+INFO - 2019-12-12 12:01:44 --> Output Class Initialized
+INFO - 2019-12-12 12:01:44 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:44 --> Input Class Initialized
+INFO - 2019-12-12 12:01:44 --> Language Class Initialized
+INFO - 2019-12-12 12:01:44 --> Config Class Initialized
+INFO - 2019-12-12 12:01:44 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:44 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:44 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:44 --> URI Class Initialized
+INFO - 2019-12-12 12:01:44 --> Router Class Initialized
+INFO - 2019-12-12 12:01:44 --> Output Class Initialized
+INFO - 2019-12-12 12:01:44 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:44 --> Input Class Initialized
+INFO - 2019-12-12 12:01:44 --> Language Class Initialized
+INFO - 2019-12-12 12:01:44 --> Config Class Initialized
+INFO - 2019-12-12 12:01:44 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:44 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:44 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:44 --> URI Class Initialized
+INFO - 2019-12-12 12:01:44 --> Router Class Initialized
+INFO - 2019-12-12 12:01:44 --> Output Class Initialized
+INFO - 2019-12-12 12:01:44 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:44 --> Input Class Initialized
+INFO - 2019-12-12 12:01:44 --> Language Class Initialized
+INFO - 2019-12-12 12:01:44 --> Config Class Initialized
+INFO - 2019-12-12 12:01:44 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:44 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:44 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:44 --> URI Class Initialized
+INFO - 2019-12-12 12:01:44 --> Router Class Initialized
+INFO - 2019-12-12 12:01:44 --> Output Class Initialized
+INFO - 2019-12-12 12:01:44 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:44 --> Input Class Initialized
+INFO - 2019-12-12 12:01:44 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized
+INFO - 2019-12-12 12:01:45 --> Config Class Initialized
+INFO - 2019-12-12 12:01:45 --> Hooks Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> UTF-8 Support Enabled
+INFO - 2019-12-12 12:01:45 --> Utf8 Class Initialized
+INFO - 2019-12-12 12:01:45 --> URI Class Initialized
+INFO - 2019-12-12 12:01:45 --> Router Class Initialized
+INFO - 2019-12-12 12:01:45 --> Output Class Initialized
+INFO - 2019-12-12 12:01:45 --> Security Class Initialized
+DEBUG - 2019-12-12 12:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-12-12 12:01:45 --> Input Class Initialized
+INFO - 2019-12-12 12:01:45 --> Language Class Initialized

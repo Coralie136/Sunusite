@@ -1,0 +1,80 @@
+body {
+	background: #fff;
+	font-family: Tahoma,Helvetica,Arial,sans-serif;
+	line-height: 1.3em;
+	font-size: 76%;
+	color: #333;
+}
+
+h1 {
+	font-family:Helvetica ,Arial,sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #666;
+}
+
+h2 {
+	font-family: Arial, Helvetica,sans-serif;
+	font-size: 14px;;
+	font-weight: normal;
+	color: #333;
+}
+
+h3 {
+  font-weight: bold;
+  font-family: Helvetica,Arial,sans-serif;
+  font-size: 13px;
+  color: #135cae;
+}
+
+h4 {
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333;
+}
+
+a:link, a:visited {
+	color: #1B57B1; text-decoration: none;
+	font-weight: normal;
+}
+
+a:hover {
+	color: #00c;	text-decoration: underline;
+	font-weight: normal;
+}
+
+
+.maintitle {
+	font-size: 13px;
+	color: #C10435;
+	font-weight: bold;
+	padding-left			: 15px;
+	padding-top				: 20px;
+}
+
+div.caption       { padding: 0 10px 0 10px; }
+div.caption img   { border: 1px solid #CCC; }
+div.caption p     { font-size: .90em; color: #666; text-align: center; }
+
+/* STYLES FOR JOOMLA! EDITOR */
+hr#system-readmore  { border: red dashed 1px; color: red; }
+hr.system-pagebreak { border: gray dashed 1px; color: gray; }
+
+
+.fleche1 {
+	background-color 		: #fff;
+	text-align				: center;
+	padding-top				: 7px;
+	background				: url(../images/fleche1.gif) 0px;
+}
+
+.fleche2 {
+	background-color 		: #fff;
+	text-align				: left;
+	background				: url(../images/fleche2.gif) 0px;
+}
+
+.fleche3 {
+	background-color 		: #fff;
+	background				: url(../images/fleche3.gif) 0px bottom;
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- $Id: settings.jotloader.html,v 1.1 2008/12/13 14:45:18 Vlado Exp $ -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de_DE" xml:lang="de_DE">
+<head>
+<title>JotLoader Component</title>
+<link href="../css/help.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="copyright" content="(C) 2007 Vladimir Kanich. All Rights Reserved." />
+<meta name="license" content="http://www.gnu.org/copyleft/gpl.html GNU/GPL" />
+</head>
+<body>
+<ul>
+<li><a href="settings.jotloader.html">Einstellungen</a></li>
+<li><a href="files.jotloader.html">Dateien</a></li>
+<li><a href="menu.jotloader.html">Menü Zuordnung</a></li>
+<li><a href="admin.jotloader.html">Administration</a></li>
+<li><a href="usage.jotloader.html">Benutzung</a></li>
+</ul><br /><br />
+<h1>JotLoader Einstellungen</h1>
+<P><h5>Globale Einstellungen</h5> In diesem Teil des Eingabeformulars es ist möglich folgende Parameter einzustellen :</P>
+<dl>
+<dt><strong>Datum/Uhrzeit-Anzeige</strong><dd>Datum und Zeit Format, welche ist automatisch  bei der Anerkennung der neuen Datei im Upload-Verzeichnis eingestellt (AutoDetect Flag muss auf ON gesetzt).<p>Das Datum/Uhrzeit-Format der Daten, die bereits in der Datenbank gespeichert sind,  wird nach der Änderung dieses Formats unverändert bleiben.</p>
+</dl>
+<dl>
+<dt><strong>Upload-Verzeichnis</strong><dd>Standard Download-Verzeichnis für JotLoader ist während der Installation auf "download" gesetzt. Diese Einstellung ist möglich später in einem anderen Verzeichnis-Namen ändern (vor der Nutzung müssen Sie aber manuell das gewünschte Verzeichnis in dem Server-Dateisystem erstellen).<p>Wenn "Automatische Dateierkennung"-Flag eingesetzt wird, dann alle neue Dateien in diesem Verzeichnis werden in Dateien-Manager automatisch eingeholt (mit dem Status UNVERÖFFENTLICHT).</p><p>Achten Sie darauf, für die automatisch ermittelten Dateien die Jot Loader Kategorien einzustellen, was für die ordnungsgemäße Darstellung von Download-Dateien im Front-End notwendig ist.</p>
+</dl>
+<dl>
+<dt><strong>Automatische Dateierkennung</strong><dd>Wenn "Automatische Dateierkennung"-Flag eingesetzt wird, dann alle neue Dateien in diesem Verzeichnis werden in Dateien-Manager automatisch eingeholt (mit dem Status UNVERÖFFENTLICHT).<p>Achten Sie darauf, für die automatisch ermittelten Dateien die Jot Loader Kategorien einzustellen, was für die ordnungsgemäße Darstellung von Download-Dateien im Front-End notwendig ist.</p><p>Bitte nehmen Sie in Betracht diese "Automatische Dateierkennung"-Flag Einstellung, wenn Sie möchten Download-Datei aus Datei-Liste <strong>löschen</strong> . Wenn "Automatische Dateierkennung"-Flag gesetzt ist, dann die Schaltfläche "Löschen" auf der Dateimanager Seite dient nur für das Entfernen der Datei aus der Datenbanktabelle. Nach dem aber Automatische Erkennung findet die Download-Datei im Download-Verzeichnis auf dem Server und Datei (automatisch erkannt) ist wieder in die Datenbanktabelle zurückgeschrieben. In diesem Fall müssen Sie vor dem Löschen auch die Datei von dem Server Download-Verzeichnis entfernen(in der Einstellungen für die gegebenen Datei - Link unterhalb des Datei-Speicherort).</p>
+</dl>
+<dl>
+<dt><strong>Download Statistik aktivieren</strong><dd>Einfache Statistik des Datei-Herunterladen wird von JotLoader-Komponente durchgeführt, wenn dieses Flag gesetzt ist.<p>Der Zugang zu dieser Statistik ist über Systemsteuerung / Download Statistik möglich.</p>
+</dl>
+<P><h5>Vorlagen</h5>Definitionen in diesen Vorlagen ermöglichen die graphische Zuordnung von Download-Kategorien und -Dateien zur ihre Front-End-Präsentation. Hier besteht die Möglichkeit, verschiedenen Layouts für die Download Kategorien  während der JotLoader Zuordnung zu bestimmten Menüpunkt (siehe <a href="menu.jotloader.html">JotLoader Menü</a>) einzustellen.</P><p>Die Vorlagenformatierung ermöglicht eine individuelle Präsentation von JotLoader Front-End-Seiten (verschiedene Schriftarten, Farben, Sprachen) nach HTML-Standards. Aber wenn Sie das Layout ändern, es ist gut zu praktizieren eine Kotrolle für die Front-End-Präsentation bei den in der Regel häufig verwendete Browser-Typen (Firefox, Internet Explorer, Opera etc.) durchzuführen.</p><p>Zu jeder Kategorie hier ist möglich, ausgewählte Bilder durch seine Einbettung in die Kategorie Beschreibung (siehe <a href="admin.jotloader.html">JotLoader Administration</a>) zulegen.</p>
+<p>Wir haben Möglichkeit Layout für drei wichtigsten Teile der Präsentation: Kategorie, Header-Dateien und Dateien zu bestimmen. Grundlegende Struktur für Gesamt-Layout ist folgende:</p>
+<p>Kategorie   XXXXXXXXXXX<br>
+&nbsp;&nbsp;Kopfzeile xxxxxxxxxxx<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Dateien ........<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;........</p>
+<dl>
+<dt><strong>Kategorien</strong><dd>Hier ist default Standard-Präsentation der Download Kategorien definiert.<p>Sie können die Präsentation von jeder Kategorie während ihrer Zuordnung zu Menüs (siehe <a href="menu.jotloader.html">JotLoader Menü</a>) separat ändern.</p>
+</dl>
+<dl>
+<dt><strong>Dateien &Uuml;berschrift</strong><dd>Es wird hauptsächlich für fix-definierte Texte der Tabellekopfzeile benutzt. Bei längeren Download-Dateien Titeln ist es möglich, größere Breite von Datei-Titel Spalte einzustellen z.B. width = 40% (ähnliche Veränderung muss man auch für Dateienvorlage durchführen).
+</dl>
+<dl>
+<dt><strong>Dateien</strong><dd>Diese Vorlage enthält Basis-Definition von dynamisch generierten Teil der Dateien-Präsentation. {} Tags sind spezialle JotLoader Tags, die  automatisch  mit der Datenbankinhalt während der Frontend-Seite Präsentation ersetzt sind.
+<dt>{file_id}<dd> (integer) interne Identifikationsnummer der Download-Datei in der Datenbank
+<dt>{file_title} {version} {license_type} {cat_id} {size} {date_added} {url_home} {author} {url_author}<dd> Tags sind gefüllt mit Download-Datei-Parametern.
+<dt>{url_download}<dd> benutzt für Download-Link auf der Front-End-Seite
+<dt>{url_bugs}<dd> benutzt für Bug-Tracker-Link auf der Front-End-Seite
+<dt>{downloads}<dd>(integer) Zähler von durchgeführten Download-Ausrufe
+</dl>
+</body>
+</html>

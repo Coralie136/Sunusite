@@ -1,0 +1,7 @@
+#--- Ne pas lister le contenu du repertoire --
+IndexIgnore *
+RewriteEngine off
+#--- En cas de d'erreur 404 déconnecté l'utilisateur
+Options -Indexes
+
+ErrorDocument 404 http://sunu-group.com

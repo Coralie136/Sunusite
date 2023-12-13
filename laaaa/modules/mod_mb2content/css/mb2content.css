@@ -1,0 +1,118 @@
+/**
+ * @package		Mb2 Content
+ * @version		1.3.1
+ * @author		Mariusz Boloz (http://marbol2.com)
+ * @copyright	Copyright (C) 2013 Mariusz Boloz (http://marbol2.com). All rights reserved
+ * @license		GNU/GPL (http://www.gnu.org/copyleft/gpl.html)
+**/
+
+
+
+/*--------------------------------------------------------------*/
+
+
+
+
+
+
+.list_carousel {
+  padding: 0;
+  width: auto;
+  position: relative;
+  width: auto;
+}
+.list_carousel ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: block;
+}
+.list_carousel li {
+  padding: 0 21px 14px;
+  margin: 0;
+  display: block;
+  float: left;
+  background: url(../images/template/divider.png) 0 0 repeat-y;
+}
+.list_carousel li .moduleItemTitle{
+  font: 22px/48px 'Ubuntu', sans-serif;
+  color: #cd022b;
+}
+.list_carousel li .moduleItemTitle strong {
+  font: bold 48px/48px 'Ubuntu', sans-serif;
+}
+.list_carousel li .moduleItemTitle span {
+  display: block;  
+  font: bold 30px/30px 'Ubuntu', sans-serif;
+  color: #373a3f;
+  margin-top: -12px;
+}
+.list_carousel li a.moduleItemReadMore {
+  background: #373a3f;
+  color: white;
+  font: bold 16px/45px 'Ubuntu', sans-serif;
+  padding: 0 14px;
+  text-decoration: none;
+}
+.list_carousel li a.moduleItemReadMore:hover {
+  background: #cd022b;
+}
+.clearfix {
+  float: none;
+  clear: both;
+}
+
+/*Navigation*/
+
+.caroufredsel_prev,
+.caroufredsel_next{
+  position: absolute;
+  top: 44%;
+  display: block;
+  height: 33px;
+  width: 33px;
+  background: url(../images/template/caroufredsel_buttons.png) no-repeat;
+  overflow: hidden;
+  text-indent: -999em;
+  line-height: 33px;
+}
+
+.caroufredsel_prev{
+  background-position: 10px 10px;
+  background-color: #cd022b;
+}
+.caroufredsel_next{
+  background-position: -24px 10px;
+  background-color: #cd022b;
+}
+.caroufredsel_prev:hover{
+  background-color: #373a3f
+}
+.caroufredsel_next:hover{  
+  background-color: #373a3f
+}
+
+.caroufredsel_prev span,
+.caroufredsel_next span{
+  display: block;
+  cursor: pointer;
+}
+
+.caroufredsel_prev{
+  left: -148px;
+}
+
+.caroufredsel_next{
+  left: -113px;
+}
+
+/*Pagination*/
+
+.caroufredsel_pagination{
+  text-align: center;
+}
+
+.caroufredsel_pagination a{
+  display: inline-block;
+  padding: 0 0.5em;
+}

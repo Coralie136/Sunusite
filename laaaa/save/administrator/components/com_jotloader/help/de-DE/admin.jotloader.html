@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- $Id: admin.jotloader.html,v 1.1 2008/12/13 14:45:18 Vlado Exp $ -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de_DE" xml:lang="de_DE">
+   <head>
+      <title>JotLoader Component</title>
+      <link href="../css/help.css" rel="stylesheet" type="text/css" />
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="copyright" content="(C) 2007 Vladimir Kanich. All Rights Reserved." />
+      <meta name="license" content="http://www.gnu.org/copyleft/gpl.html GNU/GPL" />
+   </head>
+   <body>
+      <ul>
+         <li><a href="settings.jotloader.html">Einstellungen</a></li>
+         <li><a href="files.jotloader.html">Dateien</a></li>
+         <li><a href="menu.jotloader.html">Menü Zuordnung</a></li>
+         <li><a href="admin.jotloader.html">Administration</a></li>
+         <li><a href="usage.jotloader.html">Benutzung</a></li>
+      </ul><br /><br />
+      <h1>JotLoader Administration</h1>
+      <p><h5>General</h5>Die Administration von JotLoader erfolgt im Backend und bietet folgende M&ouml;glichkeiten:
+         <ul id="standart">
+            <li>Verwaltung der Downloaddateien</li>
+            <li>Verwaltung der Kategorien</li>
+            <li>einstellbares Download-Verzeichnis f&uuml;r die Dateien, die als Download bereitgestellt werden
+            (mit w&auml;hlbarer "Auto Detect" Funktion) <br/>
+            <li>HTML-Definition der Darstellung von Kategorien und Dateitabellen im Frontend (innerhalb der Vorlagetexte ist es
+            m&ouml;glich, vordefinierte Tags zu benutzen)</li>
+            <li>Konfiguration und Auswertung der Download-Statistik</li>
+      </ul></p>
+      <p>Hier muss man bemerken dass Download-Dateien erst im Frontend erscheinen, wenn
+      sie einer Kategorie zugeordnet sind. Eine Status&auml;nderung auf &quot;ver&ouml;ffentlicht&quot; in der Dateiliste reicht also nicht aus.</p>
+      <p><h5>Kategorien</h5>In der Kategorien-Manager können Sie die Formatierung von Kategorie Beschreibung (einschließlich der Einbettung von Bildern) wie üblich für HTML-Editor durchführen. Die Format-Einstellung für Kategorie Titel ist in <a href="settings.jotloader.html">JotLoader Einstellungen</a> / Dateien Header-Template möglich.</p>
+      <p><h5>Spracheinstellung</h5>
+      JotLoader bittet die Möglichkeit von zwei grundlegende Sprache Sets - Englisch (en-GB) oder Deutsch (de-DE) zu wählen. Für die Verwendung der deutschen Sprache ist es notwendig, deutsche Installation von Joomla (z.B. http://www.joomla-grundlagen.de/downloads-joomla-1.5.x-versionen) vor der Installation von JotLoader durchzuführen.</p><p>Nach der Installation können Sie die Sprache im Administrator-Erweiterungen-> Sprach-Manager einsetzen. Mit beschriebenem Vorgehen  wird automatisch auch die Sprache-Einstellung für JotLoader Komponente verändert.</p>
+      <p>Für Website-Frontend können Sie jede mögliche Sprache benutzen (in UTF-8-Codierung) dank der richtigen Vorlage-Einstellungen in JotLoader Administrator. Nur Bug-Tracker Funktionen und Tasten bleiben in der englischen Sprache eingestellt (einfach weglassen Bug Tracker, wenn Sie möchten).
+      </p>
+      <p><h5>Installation / Uninstallation</h5>
+      Hochladen und installieren Sie die Komponente über JotLoader Joomla Administrator mit dem normalen Verfahren (Erweiterungen-> Install/Uninstall-> Durchsuchen / Datei hochladen & Installieren).</p>
+      <p>Richten Sie Ihre Vorzüge und die Einstellungen für diese Komponente (Komponenten-> JotLoader-> Einstellungen, sehe <a href="settings.jotloader.html">JotLoader Einstellungen</a>) aus. Dann wählen Sie in Joomla Administrator richtige Menü auf, um den Inhalt von JotLoader zum bestimmten Menüeintrag einzuknüpfen (sehe <a href="menu.jotloader.html">JotLoader Menü</a>).
+      <p>Für die Deinstallation von JotLoader Komponente wählen Sie bitte Joomla Administrator-Erweiterungen-> Install/Uninstall-> Komponenten Link und legen Sie JotLoader Radio-Auswahl auf "ON", und drücken Sie dann Deinstallieren-Button in der Symbolleiste. Datenbank-Tabellen von JotLoader bleibt intakt mit der zuletzt gespeicherte Inhalt.</p>
+      <P><h5>Upgrade von alten Version</h5>
+      Deinstallieren Sie die alte Version im Erweiterungen-> Installieren / Deinstallieren Auswahl Link "Komponenten" und setzen Sie JotLoader Radio-Auswahl auf "ON", und drücken Sie dann Deinstallieren-Button in der Symbolleiste. Datenbank-Tabellen von JotLoader bleibt intakt mit der zuletzt gespeicherte Inhalt. Installieren Sie neue Version von JotLoader wie oben beschrieben.</p>
+   </body>
+</html>

@@ -1,0 +1,11 @@
+= Veggie Lite change log =
+
+Version 1.2.1 - April 17, 2017
+- new .pot file
+- new blank page template for the page builders
+Version 1.2 - December 29, 2016
+- from WordPress 4.7 Customizer “Custom CSS” section migrated to the core Customizer section called “Additional CSS” - changes inside the inc folder “customizer.php” file
+Version 1.1 - July 5, 2016
+-new .pot file inside the languages folder
+Version 1.0.7 - March 19, 2016
+-fix for the search page (continue reading) - changes inside the style.css and functions.php files

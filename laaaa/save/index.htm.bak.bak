@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+    <head>
+    	<title>SUNU Assurances</title>
+    	<style type="text/css">#page_bg {
+		background: url(templates/home/images/blue/mw_bg.png) 0 0 repeat-x;
+}
+body {
+	font-family: Verdana, Arial, Helvetica, Sans Serif;
+	line-height: 1.6em;
+	margin: 0px 0px 0px 0px;
+	font-size: 11px;
+	color: #333;
+}</style>
+	</head>
+	
+	<body id="page_bg">
+		<img src="image02.jpg" border="0"/>
+	</body>
+</html>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- version $Id: default.xml,v 1.3 2008/11/03 13:09:19 Vlado Exp $ -->
+<metadata>
+	<layout title="JOTLOADER_LAYOUT">
+		<message>
+			<![CDATA[All categories / one category of JotLoader are displayed on one page]]>
+		</message>
+	</layout>
+	<state>
+		<name>JotLoader</name>
+		<description>JOTLOADER_DESC</description>
+		<url addpath="/administrator/components/com_jotloader/elements">
+			<param name="cid" type="jotcategory" section="" default="0" label="JOTLOADER_BACKEND_PARAM_CAT_LABEL" description="JOTLOADER_BACKEND_PARAM_CAT_DESC" />
+    </url>
+		<params>
+			<param name="header_flag" type="radio" default="0" label="JOTLOADER_BACKEND_PARAM_HEADER_LABEL" description="JOTLOADER_BACKEND_PARAM_HEADER_DESC" >
+				<option value="0">JOTLOADER_BACKEND_PARAM0</option>
+				<option value="1">JOTLOADER_BACKEND_PARAM1</option>
+			</param>
+			<param name="files_flag" type="radio" default="0" label="JOTLOADER_BACKEND_PARAM_FILES_LABEL" description="JOTLOADER_BACKEND_PARAM_FILES_DESC" >
+				<option value="0">JOTLOADER_BACKEND_PARAM0</option>
+				<option value="1">JOTLOADER_BACKEND_PARAM1</option>
+			</param>
+		</params>
+	</state>
+</metadata>

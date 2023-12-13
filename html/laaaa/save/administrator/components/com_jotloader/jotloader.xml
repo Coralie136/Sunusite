@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- version $Id: jotloader.xml,v 1.4 2008/12/13 14:42:01 Vlado Exp $ -->
+<install type="component" version="1.5">
+	<name>JotLoader</name>
+	<author>Vladimir Kanich</author>
+	<creationDate>December 2008</creationDate>
+	<copyright>(C) 2007-2008 Vladimir Kanich. All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>contact_on_web_site@kanich.net</authorEmail>
+	<authorUrl>http://www.kanich.net/radio/site/</authorUrl>
+	<version>2.0.1</version>
+	<description>JotLoader is Joomla component for downloading files with the possiblity to attach bug descriptions, suggestions and comments to the specific download link.</description>
+	<files folder="client">
+		<filename>jotloader.php</filename>
+		<filename>view.php</filename>
+		<filename>jotloader.css</filename>
+		<filename>index.html</filename>
+		<filename>controllers/files.php</filename>
+		<filename>controllers/bugs.php</filename>
+		<filename>controllers/index.html</filename>
+		<filename>models/files.php</filename>
+		<filename>models/bugs.php</filename>
+		<filename>models/index.html</filename>
+		<filename>views/index.html</filename>
+		<filename>views/categories/index.html</filename>
+		<filename>views/categories/metadata.xml</filename>
+		<filename>views/categories/view.html.php</filename>
+		<filename>views/categories/tmpl/default.xml</filename>
+		<filename>views/categories/tmpl/index.html</filename>
+		<filename>views/categories/tmpl/default.php</filename>
+		<filename>views/categories/tmpl/default_bug.php</filename>
+		<filename>views/categories/tmpl/default_bugs.php</filename>
+	</files>
+	<languages folder="client">
+		<language tag="en-GB">en-GB.com_jotloader.ini</language>
+	</languages>
+    <install>
+        <sql>
+             <file charset="utf8" driver="mysql">install.sql</file>
+        </sql>
+    </install>
+	<installfile>install.jotloader.php</installfile>
+	<uninstallfile>uninstall.jotloader.php</uninstallfile>
+	<administration>
+		<menu img="components/com_jotloader/images/logo.png" link="option=com_jotloader">JotLoader</menu>
+		<submenu>
+			<menu img="components/com_jotloader/images/files16.png" link="option=com_jotloader&amp;section=files" >Files</menu>
+			<menu img="components/com_jotloader/images/cats16.png" link="option=com_jotloader&amp;section=cats" >Categories</menu>
+			<menu img="components/com_jotloader/images/setting16.png" link="option=com_jotloader&amp;section=setting" >Settings</menu>
+			<menu img="components/com_jotloader/images/stats16.png" link="option=com_jotloader&amp;section=stats" >Statistics</menu>
+		</submenu>
+		<languages folder="admin">
+			<language tag="en-GB">en-GB.com_jotloader.ini</language>
+            <language tag="en-GB">en-GB.com_jotloader.menu.ini</language>
+		</languages>
+		<files>
+			<filename>admin.jotloader.php</filename>
+			<filename>helper.php</filename>
+			<filename>toolbar.php</filename>
+			<filename>utility.php</filename>
+			<filename>index.html</filename>
+			<filename>readme.txt</filename>
+			<filename>config.xml</filename>
+			<filename>controllers/setting.php</filename>
+			<filename>controllers/cats.php</filename>
+			<filename>controllers/files.php</filename>
+			<filename>controllers/stats.php</filename>
+			<filename>controllers/panel.php</filename>
+			<filename>models/setting.php</filename>
+			<filename>models/cats.php</filename>
+			<filename>models/files.php</filename>
+			<filename>models/stats.php</filename>
+			<filename>tables/jotloader.php</filename>
+			<filename>views/setting/view.html.php</filename>
+			<filename>views/setting/tmpl/default.php</filename>
+			<filename>views/cats/view.html.php</filename>
+			<filename>views/cats/tmpl/default.php</filename>
+			<filename>views/cats/tmpl/default_category.php</filename>
+			<filename>views/files/view.html.php</filename>
+			<filename>views/files/images/icon-32-download.png</filename>
+			<filename>views/files/tmpl/default.php</filename>
+			<filename>views/files/tmpl/default_file.php</filename>
+			<filename>views/files/tmpl/default_move.php</filename>
+			<filename>views/stats/view.html.php</filename>
+			<filename>views/stats/tmpl/default.php</filename>
+			<filename>views/stats/tmpl/default_detail.php</filename>
+			<filename>views/panel/view.html.php</filename>
+			<filename>views/panel/tmpl/default.php</filename>
+			<filename>views/panel/tmpl/default_info.php</filename>
+			<filename>elements/jotcategory.php</filename>
+			<filename>client/de-DE.com_jotloader.ini</filename>
+			<filename>admin/de-DE.com_jotloader.ini</filename>
+            <filename>admin/de-DE.com_jotloader.menu.ini</filename>
+			<filename>client/fr-FR.com_jotloader.ini</filename>
+			<filename>admin/fr-FR.com_jotloader.ini</filename>			
+            <filename>admin/fr-FR.com_jotloader.menu.ini</filename>
+			<filename>icons/configure.png</filename>
+			<filename>icons/manage.gif</filename>
+			<filename>icons/manage.png</filename>
+			<filename>images/logo.png</filename>
+			<filename>images/jotloaderlogo.gif</filename>
+			<filename>images/download.png</filename>
+			<filename>images/files.png</filename>
+			<filename>images/paypal.png</filename>
+			<filename>images/categories.png</filename>
+			<filename>images/feedback.png</filename>
+			<filename>images/systeminfo.png</filename>
+			<filename>images/viewdata.png</filename>
+			<filename>images/config.png</filename>
+			<filename>images/restore.png</filename>
+			<filename>images/index.html</filename>
+			<filename>images/stats16.png</filename>
+			<filename>images/cats16.png</filename>
+			<filename>images/files16.png</filename>
+			<filename>images/setting16.png</filename>
+            <filename>images/icon-32-download.png</filename>
+			<filename>help/en-GB/admin.jotloader.html</filename>
+			<filename>help/en-GB/menu.jotloader.html</filename>
+			<filename>help/en-GB/settings.jotloader.html</filename>
+			<filename>help/en-GB/usage.jotloader.html</filename>
+			<filename>help/en-GB/info.jotloader.html</filename>
+			<filename>help/en-GB/files.jotloader.html</filename>
+			<filename>help/de-DE/admin.jotloader.html</filename>
+			<filename>help/de-DE/menu.jotloader.html</filename>
+			<filename>help/de-DE/settings.jotloader.html</filename>
+			<filename>help/de-DE/usage.jotloader.html</filename>
+			<filename>help/de-DE/info.jotloader.html</filename>
+			<filename>help/de-DE/files.jotloader.html</filename>
+			<filename>help/css/help.css</filename>
+			<filename>help/images/bug_add.jpg</filename>
+			<filename>help/images/bug_edit.jpg</filename>
+			<filename>help/images/front.jpg</filename>
+			<filename>help/images/install_de_missing.jpg</filename>
+            <filename>install.sql</filename>
+		</files>
+	</administration>
+</install>

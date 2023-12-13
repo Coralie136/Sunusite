@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- $Id: admin.jotloader.html,v 1.1 2008/12/13 14:45:18 Vlado Exp $ -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en_US" xml:lang="en_US">
+<head>
+<title>JotLoader Component</title>
+<link href="../css/help.css" rel="stylesheet" type="text/css" />
+<meta name="copyright" content="(C) 2007 Vladimir Kanich. All Rights Reserved." />
+<meta name="license" content="http://www.gnu.org/copyleft/gpl.html GNU/GPL" />
+</head>
+<body>
+<ul>
+<li><a href="settings.jotloader.html">Settings</a></li>
+<li><a href="files.jotloader.html">File Management</a></li>
+<li><a href="menu.jotloader.html">Menu Assignment</a></li>
+<li><a href="admin.jotloader.html">Administration</a></li>
+<li><a href="usage.jotloader.html">Usage</a></li>
+</ul><br><br>
+<h1>JotLoader Administration</h1>
+<p><h5>General</h5>Management of files categories and download files is performed in administration back-end in the standart manner.</p>
+<p>Please take care that the download files are shown in front-end only in the case, when they are assigned to the existing category. The file status &quot;published&quot; in the File 
+  List table is therefore not sufficient to display file in the front-end.</p>
+<p><h5>Categories</h5>In Categories Manager you can set the formatting of category description text area (including embedding of pictures) as usual for this type of editor. The format setting of category title is performed in <a href="settings.jotloader.html">JotLoader Settings</a> Files Header template.</p>
+<p><h5>Language setting</h5>
+JotLoader has possibility for selecting two basic language sets - English (en-GB) or German (de-DE). For using German language set is necessary to have German installation of Joomla (e.g. http://www.joomla-grundlagen.de/downloads-joomla-1.5.x-versionen/joomla-v.1.5.2-komplett-deutsch.html) before installation of JotLoader. </p><p>After the installation you can select language sets in Administrator Extensions->Language Manager which you like to prefere as default (take care for Site/Administrator tabs to select which part of Joomla presentation you like to change). With described change is automatically changed also language set for JotLoader component.</p>
+<p>For site front-end you can use any possible language set (included in UTF-8 coding) for your presentation of download files with proper JotLoader settings in Administrator. Only Bug Tracker functions & buttons shall remain in basic language set (easy to omit Bug Tracker when you like).</p>
+<p><h5>Installation / Uninstallation</h5>
+Upload and install the JotLoader component via Joomla Administrator using the normal procedure (Extensions->Install/Uninstall->Browse/Upload File & Install).</p>
+<p>Set up your preferencies and settings for this component (Components->JotLoader->Settings, see <a href="settings.jotloader.html">JotLoader Settings</a>).
+Then select in Joomla Administrator proper menu set to which you like to assign the JotLoader content (usually is selected Menu->mainmenu, see <a href="menu.jotloader.html">JotLoader Menu</a>).</p>
+<p>For uninstallation of JotLoader component please select via Joomla Administrator Extensions->Install/Uninstall->Components link and set JotLoader radio selection to "ON", then press Uninstall button in the toolbar. Database tables of JotLoader will remain intact with the last saved content.</p>
+<p><h5>Upgrade from old version</h5>
+Uninstall the old version in Extensions->Install/Uninstall selecting link "Components" and set JotLoader radio selection to "ON", then press Uninstall button in the toolbar. Database tables of JotLoader will remain intact with the last saved content. Install new version of JotLoader as described above.</p>
+</body>
+</html>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.1" client="site" method="upgrade">
+	<name>mod_flexslider</name>
+	<author>JoomSpirit</author>
+	<creationDate>October 2012</creationDate>
+	<copyright>Copyright (C) 2012 JoomSpirit. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>contact@joomspirit.com</authorEmail>
+	<authorUrl>http://www.joomspirit.com</authorUrl>
+	<version>2.2.0</version>
+	<description>MOD_FLEXSLIDER_XML_DESCRIPTION</description>
+	<files>
+		<filename module="mod_flexslider">mod_flexslider.php</filename>
+		<folder>tmpl</folder>
+		<filename>helper.php</filename>
+		<filename>index.html</filename>
+		<filename>mod_flexslider.xml</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">en-GB.mod_flexslider.ini</language>
+		<language tag="en-GB">en-GB.mod_flexslider.sys.ini</language>
+	</languages>
+	<help key="JHELP_EXTENSIONS_MODULE_MANAGER_LATEST_NEWS" />
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field 
+					name="catid"
+					type="category"	
+					extension="com_content"	
+					multiple="true"	
+					size="10" 
+					default="" 
+					label="JCATEGORY" 
+					description="" />
+				
+				<field 
+					name="show_featured" 
+					type="list" 
+					default="" 
+					label="MOD_FLEXSLIDER_FIELD_SHOWFEATURED_LABEL" 
+					description="MOD_FLEXSLIDER_FIELD_SHOWFEATURED_DESC"
+				>
+					<option value="">JSHOW</option>
+					<option	value="0">JHIDE</option>
+					<option	value="1">MOD_FLEXSLIDER_OPTION_ONLYFEATURED_VALUE</option>
+				</field>
+				
+			   	<field 
+			   		name="ordering" 
+			   		type="list" 
+			   		default="published" 
+			   		label="MOD_FLEXSLIDER_FIELD_ARTICLEORDERING_LABEL" 
+			   		description="MOD_FLEXSLIDER_FIELD_ARTICLEORDERING_DESC"
+			   	>
+					<option value="c_dsc">MOD_FLEXSLIDER_OPTION_CREATED_VALUE</option>
+					<option value="m_dsc">MOD_FLEXSLIDER_OPTION_MODIFIED_VALUE</option>
+					<option value="p_dsc">MOD_FLEXSLIDER_OPTION_STARTPUBLISHING_VALUE</option>
+					<option value="most_popular">MOD_FLEXSLIDER_OPTION_HITS_VALUE</option>		
+				</field>
+				
+				<field 
+					name="count" 
+					type="text" 
+					default="5" 
+					label="MOD_FLEXSLIDER_FIELD_COUNT_LABEL" 
+					description="MOD_FLEXSLIDER_FIELD_COUNT_DESC" />
+			
+				<field 
+					name="caption" 
+					type="radio" 
+					default="1" 
+					class="btn-group" 
+					label="MOD_FLEXSLIDER_FIELD_SHOWCAPTION_LABEL" 
+					description="MOD_FLEXSLIDER_FIELD_SHOWCAPTION_DESC" 
+				>
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				
+				<field 
+					name="title_link" 
+					type="radio" 
+					default="1" 
+					class="btn-group" 
+					label="MOD_FLEXSLIDER_FIELD_LINKTITLES_LABEL" 
+					description="MOD_FLEXSLIDER_FIELD_LINKTITLES_DESC" 
+				>
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				
+			</fieldset>
+			
+			<fieldset name="general" label="JFIELD_PARAMS_LABEL">		
+
+				<field 
+					name="pauseOnHover" 
+					type="radio" 
+					default="true" 
+					label="Pause on hover" 
+					description="Pause the slideshow when hovering over slider, then resume when no longer hovering"
+				>
+					<option value="true">Yes</option>
+					<option value="false">No</option>
+				</field>
+				
+				<field 
+					name="initDelay" 
+					type="text" 
+					default="0" 
+					label="Initialisation delay" 
+					description="Set an initialization delay, in milliseconds" />				
+
+				<field 
+					name="randomize" 
+					type="radio" 
+					default="false" 
+					label="Randomize slide order" 
+					description=""
+				>
+					<option value="true">Yes</option>
+					<option value="false">No</option>
+				</field>				
+								
+				<field 
+					name="target" 
+					type="list" 
+					default="_blank" 
+					label="Target" 
+					description="Choose to open the link in a new browser window or the same window"
+				>
+					<option value="_blank">New window</option>
+					<option value="_self">Same window</option>
+				</field>
+					
+				<field
+					name="filteringspacer1"
+					type="spacer"
+					hr="true" />
+
+				<field 
+					name="directionNav" 
+					type="list" 
+					default="default" 
+					label="Enable prev / next button" 
+					description="Display navigation for previous/next navigation ?"
+				>
+					<option value="default">Yes default style</option>
+					<option value="white-arrow">Yes white arrow</option>
+					<option value="black-arrow">Yes black arrow</option>				
+					<option value="false">No</option>					
+				</field>
+				
+				<field 
+					name="controlNav" 
+					type="radio" 
+					default="true" 
+					label="Control nav" 
+					description="Create navigation for paging control of each slide ?"
+				>
+					<option value="true">Yes</option>	
+					<option value="false">No</option>
+				</field>
+				
+				<field 
+					name="positionNav" 
+					type="list" 
+					default="under" 
+					label="Position of control nav" 
+					description=""
+				>
+					<option value="under">Under the slideshow</option>
+					<option value="bottom">Bottom of the slideshow</option>
+					<option value="top">Top of the slideshow</option>
+				</field>
+				
+				<field 
+					name="colorNav" 
+					type="list" 
+					default="dark" 
+					label="Color of non active button" 
+					description="Choose 'dark' on a light background or 'light' on a dark background"
+				>
+					<option value="dark">Dark</option>
+					<option value="light">Light</option>
+				</field>
+			
+				<field 
+					name="colorNavActive" 
+					type="list" 
+					default="black" 
+					label="Color of active button nav" 
+					description=""
+				>
+					<option value="black">Black</option>
+					<option value="green">Green</option>
+					<option value="red">Red</option>
+					<option value="orange">Orange</option>
+					<option value="blue">Blue</option>
+					<option value="white">White</option>
+				</field>				
+				
+				<field
+					name="filteringspacer3"
+					type="spacer"
+					hr="true" />
+				
+				<field 
+					name="transition" 
+					type="radio" 
+					default="fade" 
+					label="Transition" 
+					description="Choose whether the slider will fade or slide between slides"
+				>
+					<option value="slide">Slide</option>
+					<option value="fade">Fade</option>
+				</field>
+				<field 
+					name="direction" 
+					type="radio" 
+					default="horizontal" 
+					label="Direction of slide transition" 
+					description=""
+				>
+					<option value="horizontal">Horizontal</option>
+					<option value="vertical">Vertical</option>
+				</field>				
+
+				<field 
+					name="animSpeed" 
+					type="text" 
+					default="2000" 
+					label="Animation speed (ms)" 
+					description="Speed of the transition (in ms)" />
+				<field 
+					name="pauseTime" 
+					type="text" 
+					default="3500" 
+					label="Pause time (ms)" 
+					description="How long each slide is show (in ms)" />
+				
+			</fieldset>
+			
+			
+			<fieldset name="advanced">
+				<field
+					name="layout"
+					type="modulelayout"
+					label="JFIELD_ALT_LAYOUT_LABEL"
+					description="JFIELD_ALT_MODULE_LAYOUT_DESC" />
+
+				<field
+					name="moduleclass_sfx"
+					type="textarea" rows="3"
+					label="COM_MODULES_FIELD_MODULECLASS_SFX_LABEL"
+					description="COM_MODULES_FIELD_MODULECLASS_SFX_DESC" />
+
+				<field
+					name="cache"
+					type="list"
+					default="1"
+					label="COM_MODULES_FIELD_CACHING_LABEL"
+					description="COM_MODULES_FIELD_CACHING_DESC"
+				>
+					<option value="1">JGLOBAL_USE_GLOBAL</option>
+					<option value="0">COM_MODULES_FIELD_VALUE_NOCACHING</option>
+				</field>
+
+				<field
+					name="cache_time"
+					type="text"
+					default="900"
+					label="COM_MODULES_FIELD_CACHE_TIME_LABEL"
+					description="COM_MODULES_FIELD_CACHE_TIME_DESC" />
+
+				<field
+					name="cachemode"
+					type="hidden"
+					default="static"
+				>
+					<option value="static"></option>
+				</field>
+			</fieldset>
+		</fields>
+	</config>
+</extension>

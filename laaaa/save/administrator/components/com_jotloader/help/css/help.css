@@ -1,0 +1,74 @@
+body {
+	font-family: verdana, arial, sans-serif;
+	font-size: 9pt;
+}
+
+h1 { 
+	color: #C64934;
+	font-size: 1.5em;
+    border-left: 25px solid #C64934;
+	border-bottom: 1px solid #C64934;
+	padding: 0 0 2px 5px;
+}
+
+h2 { 
+	color: #C64934;    
+	font-size: 1.3em;
+	margin: 1ex 0; 
+}
+
+pre {
+	text-align: left;
+	background-color: #fff;
+	border-left: 1px solid #aaa;
+	padding: 5px;
+}
+ul {
+	float: left;
+	width: 100%;
+	padding: 10px;
+	margin: 0;
+	list-style-type: none;
+	display: block;
+}
+ul li a {
+	float: left;
+	width: 10em;
+	text-decoration: none;
+	color: white;
+	background-color: purple;
+	padding: 0.2em 0.6em;
+	border-right: 1px solid white;
+}
+ul li a:hover {background-color:#ff3300}
+ul li {display:inline}
+ul#standart {
+	float: left;
+	list-style-type: disc;
+	display: block;
+	padding-bottom: 10px;
+}
+ul#standart li{
+	list-style-type: disc;
+	display: block;
+	margin-left: 20px;
+}
+.gal{
+	font: italic bold;
+}
+ dd.c2 {color: #ff0000;}
+ dt.c1 {color: #ff0000;}
+ dd.list {
+ 	list-style-type: square;
+ 	margin-left: 75px;
+ 	list-style-position: inside;
+ 	display: list-item;
+ 	color: #000000;
+ 	margin-top: 10px;
+ }
+ .green{color: #228B22;}
+ .red{color: #000000;}
+ .ident1{margin-left: 30px;}
+ .ident2{margin-left: 60px;}
+ .ident3{margin-left: 90px;}
+ 
